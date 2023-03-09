@@ -104,6 +104,7 @@
    dct:identifier "https://raw.githubusercontent.com/Informasjonsforvaltning/model-publisher/master/src/model/catalog-of-models-for-specifications.ttl#concept-descriptions-mdoel"^^xsd:anyURI;
    dcat:contactPoint <https://raw.githubusercontent.com/Informasjonsforvaltning/model-publisher/master/src/model/catalog-of-models-for-specifications.ttl#digdir-contact-point>;
    dct:license <http://publications.europa.eu/resource/authority/licence/CC0>;
+   dct:isReplacedBy <https://raw.githubusercontent.com/Informasjonsforvaltning/model-publisher/master/src/model/catalog-of-models-for-specifications.ttl#skos-ap-no-begrep-model>;
    dct:hasFormat <https://raw.githubusercontent.com/Informasjonsforvaltning/model-publisher/master/src/model/catalog-of-models-for-specifications.ttl#concept-descriptions-png>;
    adms:status <http://purl.org/adms/status/Deprecated>;
    dct:language <http://publications.europa.eu/resource/authority/language/NOB>;
@@ -234,4 +235,4 @@
    rdfs:seeAlso <https://informasjonsforvaltning.github.io/xkos-ap-no/#ForenkletModell>;
    .
  
-#### End of the file, 2023-03-09 13:12:12
+#### End of the file, 2023-03-09 13:14:24
