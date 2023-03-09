@@ -21,6 +21,7 @@
        <https://raw.githubusercontent.com/Informasjonsforvaltning/model-publisher/master/src/model/catalog-of-models-for-specifications.ttl#modelldcat-ap-no-model>,
        <https://raw.githubusercontent.com/Informasjonsforvaltning/model-publisher/master/src/model/catalog-of-models-for-specifications.ttl#concept-descriptions-mdoel>,
        <https://raw.githubusercontent.com/Informasjonsforvaltning/model-publisher/master/src/model/catalog-of-models-for-specifications.ttl#cpsv-ap-no-model>,
+       <https://raw.githubusercontent.com/Informasjonsforvaltning/model-publisher/master/src/model/catalog-of-models-for-specifications.ttl#skos-ap-no-begrep-model>,
        <https://raw.githubusercontent.com/Informasjonsforvaltning/model-publisher/master/src/model/catalog-of-models-for-specifications.ttl#xkos-ap-no-model>;
    dct:title """Digdir's catalog of information models for various national specifications and standards"""@en,
        """Digdirs katalog over informasjonsmodeller for ulike nasjonale spesifikasjoner og standarder"""@nb;
@@ -233,4 +234,4 @@
    rdfs:seeAlso <https://informasjonsforvaltning.github.io/xkos-ap-no/#ForenkletModell>;
    .
  
-#### End of the file, 2023-03-09 13:01:11
+#### End of the file, 2023-03-09 13:12:12
