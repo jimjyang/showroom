@@ -24,7 +24,7 @@
    dct:title """Jim's catalog of demo models"""@en,
        """Jim sin katalog over demomodeller"""@nb;
    dct:publisher <https://organization-catalog.fellesdatakatalog.digdir.no/organizations/991825827>;
-   dct:modified "2023-03-24"^^xsd:date;
+   dct:modified "2023-03-14"^^xsd:date;
    dct:language <http://publications.europa.eu/resource/authority/language/ENG>,
        <http://publications.europa.eu/resource/authority/language/NOB>;
    .
@@ -54,7 +54,7 @@
    dct:hasPart <https://github.com/jimjyang/testbed/tree/main/modelldcat-ap-no/demo-models.ttl#demomodel2>,
        <https://github.com/jimjyang/testbed/tree/main/modelldcat-ap-no/demo-models.ttl#demomodel3>;
    adms:status <http://purl.org/adms/status/Completed>;
-   dct:language <http://publications.europa.eu/resource/authority/language/NOB>;
+   dct:language <http://publications.europa.eu/resource/authority/language/ENG>;
    dct:type <https://data.norge.no/vocabulary/information-model-type#conceptual-model>;
    dct:issued "2023-03-14"^^xsd:date;
    owl:versionInfo """1.0""";
@@ -74,7 +74,7 @@
        """demo"""@nb;
    dct:hasFormat <https://github.com/jimjyang/testbed/tree/main/modelldcat-ap-no/demo-models.ttl#modelldcat-ap-no-png>;
    adms:status <http://purl.org/adms/status/Completed>;
-   dct:language <http://publications.europa.eu/resource/authority/language/NOB>;
+   dct:language <http://publications.europa.eu/resource/authority/language/ENG>;
    dct:type <https://data.norge.no/vocabulary/information-model-type#conceptual-model>;
    dct:issued "2020-10-21"^^xsd:date;
    owl:versionInfo """1""";
@@ -94,7 +94,7 @@
        """demo"""@nb;
    dct:hasFormat <https://github.com/jimjyang/testbed/tree/main/modelldcat-ap-no/demo-models.ttl#concept-descriptions-png>;
    adms:status <http://purl.org/adms/status/Completed>;
-   dct:language <http://publications.europa.eu/resource/authority/language/NOB>;
+   dct:language <http://publications.europa.eu/resource/authority/language/ENG>;
    dct:type <https://data.norge.no/vocabulary/information-model-type#conceptual-model>;
    dct:issued "2023-03-14"^^xsd:date;
    owl:versionInfo """1.0""";
@@ -126,7 +126,7 @@
    dct:conformsTo <https://github.com/jimjyang/testbed/tree/main/modelldcat-ap-no/demo-models.ttl#demomodel1>,
        <https://github.com/jimjyang/testbed/tree/main/modelldcat-ap-no/demo-models.ttl#demomodel2>;
    adms:status <http://purl.org/adms/status/Deprecated>;
-   dct:language <http://publications.europa.eu/resource/authority/language/NOB>;
+   dct:language <http://publications.europa.eu/resource/authority/language/ENG>;
    dct:type <https://data.norge.no/vocabulary/information-model-type#conceptual-model>;
    dct:issued "2019-03-15"^^xsd:date;
    owl:versionInfo """2.0""";
@@ -168,4 +168,4 @@
    rdfs:seeAlso <https://github.com/jimjyang/testbed/blob/main/modelldcat-ap-no/images/demomodel4.png>;
    .
  
-#### End of the file, 2023-03-14 14:48:10
+#### End of the file, 2023-03-14 14:57:37
