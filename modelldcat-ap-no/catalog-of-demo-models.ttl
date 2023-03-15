@@ -77,10 +77,10 @@
    dct:license <http://publications.europa.eu/resource/authority/licence/CC0>;
    dcat:keyword """demo"""@en,
        """demo"""@nb,
-       """model""",
-       """modell""",
-       """information model""",
-       """informasjonsmodell""";
+       """model"""@en,
+       """modell"""@nb,
+       """information model"""@en,
+       """informasjonsmodell"""@nb;
    dct:modified "2023-03-15"^^xsd:date;
    dct:hasFormat <https://raw.githubusercontent.com/jimjyang/testbed/main/modelldcat-ap-no/catalog-of-demo-models.ttl#modelldcat-ap-no-png>;
    adms:status <http://purl.org/adms/status/Completed>;
@@ -102,10 +102,10 @@
    dct:license <http://publications.europa.eu/resource/authority/licence/CC0>;
    dcat:keyword """demo"""@en,
        """demo"""@nb,
-       """model""",
-       """modell""",
-       """information model""",
-       """informasjonsmodell""";
+       """model"""@en,
+       """modell"""@nb,
+       """information model"""@en,
+       """informasjonsmodell"""@nb;
    dct:modified "2023-03-15"^^xsd:date;
    dct:hasFormat <https://raw.githubusercontent.com/jimjyang/testbed/main/modelldcat-ap-no/catalog-of-demo-models.ttl#concept-descriptions-png>;
    adms:status <http://purl.org/adms/status/Completed>;
@@ -127,10 +127,10 @@
    dct:license <http://publications.europa.eu/resource/authority/licence/CC0>;
    dcat:keyword """demo"""@en,
        """demo"""@nb,
-       """model""",
-       """modell""",
-       """information model""",
-       """informasjonsmodell""";
+       """model"""@en,
+       """modell"""@nb,
+       """information model"""@en,
+       """informasjonsmodell"""@nb;
    dct:modified "2023-03-15"^^xsd:date;
    dct:isPartOf <https://raw.githubusercontent.com/jimjyang/testbed/main/modelldcat-ap-no/catalog-of-demo-models.ttl#demomodel1>,
        <https://raw.githubusercontent.com/jimjyang/testbed/main/modelldcat-ap-no/catalog-of-demo-models.ttl#demomodel2>;
@@ -188,4 +188,4 @@
    rdfs:seeAlso <https://github.com/jimjyang/testbed/blob/main/modelldcat-ap-no/images/demomodel4.png>;
    .
  
-#### End of the file, 2023-03-15 09:20:00
+#### End of the file, 2023-03-15 09:38:43
