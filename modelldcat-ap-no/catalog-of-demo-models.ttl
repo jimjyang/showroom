@@ -49,7 +49,12 @@
    dcat:contactPoint <https://raw.githubusercontent.com/jimjyang/testbed/main/modelldcat-ap-no/catalog-of-demo-models.ttl#digdir-contact-point>;
    dct:license <http://publications.europa.eu/resource/authority/licence/CC0>;
    dcat:keyword """demo"""@en,
-       """demo"""@nb;
+       """demo"""@nb,
+       """model"""@en,
+       """modell"""@nb,
+       """information model"""@en,
+       """informasjonsmodell"""@nb;
+   dct:modified "2023-03-15"^^xsd:date;
    dct:hasFormat <https://raw.githubusercontent.com/jimjyang/testbed/main/modelldcat-ap-no/catalog-of-demo-models.ttl#dqv-ap-no-html>;
    dct:hasPart <https://raw.githubusercontent.com/jimjyang/testbed/main/modelldcat-ap-no/catalog-of-demo-models.ttl#demomodel2>,
        <https://raw.githubusercontent.com/jimjyang/testbed/main/modelldcat-ap-no/catalog-of-demo-models.ttl#demomodel3>;
@@ -71,7 +76,12 @@
    dcat:contactPoint <https://raw.githubusercontent.com/jimjyang/testbed/main/modelldcat-ap-no/catalog-of-demo-models.ttl#digdir-contact-point>;
    dct:license <http://publications.europa.eu/resource/authority/licence/CC0>;
    dcat:keyword """demo"""@en,
-       """demo"""@nb;
+       """demo"""@nb,
+       """model""",
+       """modell""",
+       """information model""",
+       """informasjonsmodell""";
+   dct:modified "2023-03-15"^^xsd:date;
    dct:hasFormat <https://raw.githubusercontent.com/jimjyang/testbed/main/modelldcat-ap-no/catalog-of-demo-models.ttl#modelldcat-ap-no-png>;
    adms:status <http://purl.org/adms/status/Completed>;
    dct:language <http://publications.europa.eu/resource/authority/language/ENG>;
@@ -91,7 +101,12 @@
    dcat:contactPoint <https://raw.githubusercontent.com/jimjyang/testbed/main/modelldcat-ap-no/catalog-of-demo-models.ttl#digdir-contact-point>;
    dct:license <http://publications.europa.eu/resource/authority/licence/CC0>;
    dcat:keyword """demo"""@en,
-       """demo"""@nb;
+       """demo"""@nb,
+       """model""",
+       """modell""",
+       """information model""",
+       """informasjonsmodell""";
+   dct:modified "2023-03-15"^^xsd:date;
    dct:hasFormat <https://raw.githubusercontent.com/jimjyang/testbed/main/modelldcat-ap-no/catalog-of-demo-models.ttl#concept-descriptions-png>;
    adms:status <http://purl.org/adms/status/Completed>;
    dct:language <http://publications.europa.eu/resource/authority/language/ENG>;
@@ -111,7 +126,12 @@
    dcat:contactPoint <https://raw.githubusercontent.com/jimjyang/testbed/main/modelldcat-ap-no/catalog-of-demo-models.ttl#digdir-contact-point>;
    dct:license <http://publications.europa.eu/resource/authority/licence/CC0>;
    dcat:keyword """demo"""@en,
-       """demo"""@nb;
+       """demo"""@nb,
+       """model""",
+       """modell""",
+       """information model""",
+       """informasjonsmodell""";
+   dct:modified "2023-03-15"^^xsd:date;
    dct:isPartOf <https://raw.githubusercontent.com/jimjyang/testbed/main/modelldcat-ap-no/catalog-of-demo-models.ttl#demomodel1>,
        <https://raw.githubusercontent.com/jimjyang/testbed/main/modelldcat-ap-no/catalog-of-demo-models.ttl#demomodel2>;
    prof:isProfileOf <https://raw.githubusercontent.com/jimjyang/testbed/main/modelldcat-ap-no/catalog-of-demo-models.ttl#demomodel1>,
@@ -168,4 +188,4 @@
    rdfs:seeAlso <https://github.com/jimjyang/testbed/blob/main/modelldcat-ap-no/images/demomodel4.png>;
    .
  
-#### End of the file, 2023-03-15 08:03:55
+#### End of the file, 2023-03-15 08:25:51
