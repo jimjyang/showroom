@@ -12,15 +12,15 @@
 @prefix vcard: <http://www.w3.org/2006/vcard/ns#> . 
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> . 
 
-<https://github.com/jimjyang/testbed/tree/main/modelldcat-ap-no/demo-models.ttl#catalog-of-demo-models>
+<https://raw.githubusercontent.com/jimjyang/testbed/main/modelldcat-ap-no/catalog-of-demo-models.ttlcatalog-of-demo-models>
    rdf:type dcat:Catalog;
    dct:description """This catalog contains demo models created by Jim at the Norwegian Digitalisation Agency (Digdir)."""@en,
        """Katalogen inneholder demomodeller opprettet av Jim ved Digitaliseringsdirektoratet (Digdir)."""@nb;
-   dct:identifier "https://github.com/jimjyang/testbed/tree/main/modelldcat-ap-no/demo-models.ttl#catalog-of-demo-models"^^xsd:anyURI;
-   modelldcatno:model <https://github.com/jimjyang/testbed/tree/main/modelldcat-ap-no/demo-models.ttl#demomodel1>,
-       <https://github.com/jimjyang/testbed/tree/main/modelldcat-ap-no/demo-models.ttl#demomodel2>,
-       <https://github.com/jimjyang/testbed/tree/main/modelldcat-ap-no/demo-models.ttl#demomodel3>,
-       <https://github.com/jimjyang/testbed/tree/main/modelldcat-ap-no/demo-models.ttl#demomodel4>;
+   dct:identifier "https://raw.githubusercontent.com/jimjyang/testbed/main/modelldcat-ap-no/catalog-of-demo-models.ttlcatalog-of-demo-models"^^xsd:anyURI;
+   modelldcatno:model <https://raw.githubusercontent.com/jimjyang/testbed/main/modelldcat-ap-no/catalog-of-demo-models.ttldemomodel1>,
+       <https://raw.githubusercontent.com/jimjyang/testbed/main/modelldcat-ap-no/catalog-of-demo-models.ttldemomodel2>,
+       <https://raw.githubusercontent.com/jimjyang/testbed/main/modelldcat-ap-no/catalog-of-demo-models.ttldemomodel3>,
+       <https://raw.githubusercontent.com/jimjyang/testbed/main/modelldcat-ap-no/catalog-of-demo-models.ttldemomodel4>;
    dct:title """Jim's catalog of demo models"""@en,
        """Jim sin katalog over demomodeller"""@nb;
    dct:publisher <https://organization-catalog.fellesdatakatalog.digdir.no/organizations/991825827>;
@@ -29,7 +29,7 @@
        <http://publications.europa.eu/resource/authority/language/NOB>;
    .
  
-<https://github.com/jimjyang/testbed/tree/main/modelldcat-ap-no/demo-models.ttl#digdir-contact-point>
+<https://raw.githubusercontent.com/jimjyang/testbed/main/modelldcat-ap-no/catalog-of-demo-models.ttldigdir-contact-point>
    rdf:type vcard:Organization;
    vcard:hasOrganizationName """Norwegian Digitalisation Agency"""@en,
        """Digitaliseringsdirektoratet"""@nb,
@@ -38,21 +38,21 @@
    vcard:hasURL <https://digdir.no>;
    .
  
-<https://github.com/jimjyang/testbed/tree/main/modelldcat-ap-no/demo-models.ttl#demomodel1>
+<https://raw.githubusercontent.com/jimjyang/testbed/main/modelldcat-ap-no/catalog-of-demo-models.ttldemomodel1>
    rdf:type modelldcatno:InformationModel;
    dct:title """Demo model 1"""@en,
        """Demomodell 1"""@nb;
    dct:publisher <https://organization-catalog.fellesdatakatalog.digdir.no/organizations/991825827>;
    dct:description """Information model 1 for demo purposes only, with meaningless content."""@en,
        """Informasjonsmodell 1 kun for demoformål, med meningsløst innhold."""@nb;
-   dct:identifier "https://github.com/jimjyang/testbed/tree/main/modelldcat-ap-no/demo-models.ttl#demomodel1"^^xsd:anyURI;
-   dcat:contactPoint <https://github.com/jimjyang/testbed/tree/main/modelldcat-ap-no/demo-models.ttl#digdir-contact-point>;
+   dct:identifier "https://raw.githubusercontent.com/jimjyang/testbed/main/modelldcat-ap-no/catalog-of-demo-models.ttldemomodel1"^^xsd:anyURI;
+   dcat:contactPoint <https://raw.githubusercontent.com/jimjyang/testbed/main/modelldcat-ap-no/catalog-of-demo-models.ttldigdir-contact-point>;
    dct:license <http://publications.europa.eu/resource/authority/licence/CC0>;
    dcat:keyword """demo"""@en,
        """demo"""@nb;
-   dct:hasFormat <https://github.com/jimjyang/testbed/tree/main/modelldcat-ap-no/demo-models.ttl#dqv-ap-no-html>;
-   dct:hasPart <https://github.com/jimjyang/testbed/tree/main/modelldcat-ap-no/demo-models.ttl#demomodel2>,
-       <https://github.com/jimjyang/testbed/tree/main/modelldcat-ap-no/demo-models.ttl#demomodel3>;
+   dct:hasFormat <https://raw.githubusercontent.com/jimjyang/testbed/main/modelldcat-ap-no/catalog-of-demo-models.ttldqv-ap-no-html>;
+   dct:hasPart <https://raw.githubusercontent.com/jimjyang/testbed/main/modelldcat-ap-no/catalog-of-demo-models.ttldemomodel2>,
+       <https://raw.githubusercontent.com/jimjyang/testbed/main/modelldcat-ap-no/catalog-of-demo-models.ttldemomodel3>;
    adms:status <http://purl.org/adms/status/Completed>;
    dct:language <http://publications.europa.eu/resource/authority/language/ENG>;
    dct:type <https://data.norge.no/vocabulary/information-model-type#conceptual-model>;
@@ -60,19 +60,19 @@
    owl:versionInfo """1.0""";
    .
  
-<https://github.com/jimjyang/testbed/tree/main/modelldcat-ap-no/demo-models.ttl#demomodel2>
+<https://raw.githubusercontent.com/jimjyang/testbed/main/modelldcat-ap-no/catalog-of-demo-models.ttldemomodel2>
    rdf:type modelldcatno:InformationModel;
    dct:title """Demo model 2"""@en,
        """Demomodell 2"""@nb;
    dct:publisher <https://organization-catalog.fellesdatakatalog.digdir.no/organizations/991825827>;
    dct:description """Information model 2 for demo purposes only, with meaningless content."""@en,
        """Informasjonsmodell 2 kun for demoformål, med meningsløst innhold."""@nb;
-   dct:identifier "https://github.com/jimjyang/testbed/tree/main/modelldcat-ap-no/demo-models.ttl#demomodel2"^^xsd:anyURI;
-   dcat:contactPoint <https://github.com/jimjyang/testbed/tree/main/modelldcat-ap-no/demo-models.ttl#digdir-contact-point>;
+   dct:identifier "https://raw.githubusercontent.com/jimjyang/testbed/main/modelldcat-ap-no/catalog-of-demo-models.ttldemomodel2"^^xsd:anyURI;
+   dcat:contactPoint <https://raw.githubusercontent.com/jimjyang/testbed/main/modelldcat-ap-no/catalog-of-demo-models.ttldigdir-contact-point>;
    dct:license <http://publications.europa.eu/resource/authority/licence/CC0>;
    dcat:keyword """demo"""@en,
        """demo"""@nb;
-   dct:hasFormat <https://github.com/jimjyang/testbed/tree/main/modelldcat-ap-no/demo-models.ttl#modelldcat-ap-no-png>;
+   dct:hasFormat <https://raw.githubusercontent.com/jimjyang/testbed/main/modelldcat-ap-no/catalog-of-demo-models.ttlmodelldcat-ap-no-png>;
    adms:status <http://purl.org/adms/status/Completed>;
    dct:language <http://publications.europa.eu/resource/authority/language/ENG>;
    dct:type <https://data.norge.no/vocabulary/information-model-type#conceptual-model>;
@@ -80,19 +80,19 @@
    owl:versionInfo """1""";
    .
  
-<https://github.com/jimjyang/testbed/tree/main/modelldcat-ap-no/demo-models.ttl#demomodel3>
+<https://raw.githubusercontent.com/jimjyang/testbed/main/modelldcat-ap-no/catalog-of-demo-models.ttldemomodel3>
    rdf:type modelldcatno:InformationModel;
    dct:title """Demo model 3"""@en,
        """Demomodell 3"""@nb;
    dct:publisher <https://organization-catalog.fellesdatakatalog.digdir.no/organizations/991825827>;
    dct:description """Information model 3 for demo purposes only, with meaningless content."""@en,
        """Informasjonsmodell 3 kun for demoformål, med meningsløst innhold."""@nb;
-   dct:identifier "https://github.com/jimjyang/testbed/tree/main/modelldcat-ap-no/demo-models.ttl#demomodel3"^^xsd:anyURI;
-   dcat:contactPoint <https://github.com/jimjyang/testbed/tree/main/modelldcat-ap-no/demo-models.ttl#digdir-contact-point>;
+   dct:identifier "https://raw.githubusercontent.com/jimjyang/testbed/main/modelldcat-ap-no/catalog-of-demo-models.ttldemomodel3"^^xsd:anyURI;
+   dcat:contactPoint <https://raw.githubusercontent.com/jimjyang/testbed/main/modelldcat-ap-no/catalog-of-demo-models.ttldigdir-contact-point>;
    dct:license <http://publications.europa.eu/resource/authority/licence/CC0>;
    dcat:keyword """demo"""@en,
        """demo"""@nb;
-   dct:hasFormat <https://github.com/jimjyang/testbed/tree/main/modelldcat-ap-no/demo-models.ttl#concept-descriptions-png>;
+   dct:hasFormat <https://raw.githubusercontent.com/jimjyang/testbed/main/modelldcat-ap-no/catalog-of-demo-models.ttlconcept-descriptions-png>;
    adms:status <http://purl.org/adms/status/Completed>;
    dct:language <http://publications.europa.eu/resource/authority/language/ENG>;
    dct:type <https://data.norge.no/vocabulary/information-model-type#conceptual-model>;
@@ -100,31 +100,31 @@
    owl:versionInfo """1.0""";
    .
  
-<https://github.com/jimjyang/testbed/tree/main/modelldcat-ap-no/demo-models.ttl#demomodel4>
+<https://raw.githubusercontent.com/jimjyang/testbed/main/modelldcat-ap-no/catalog-of-demo-models.ttldemomodel4>
    rdf:type modelldcatno:InformationModel;
    dct:title """Demo model 4"""@en,
        """Demomodell 4"""@nb;
    dct:publisher <https://organization-catalog.fellesdatakatalog.digdir.no/organizations/991825827>;
    dct:description """Information model 4 for demo purposes only, with meaningless content. Note: This one is meant to illustrate relations between models."""@en,
        """Informasjonsmodell 4 kun for demoformål, med meningsløst innhold. Denne er ment for å illustrere relasjoner mellom modeller."""@nb;
-   dct:identifier "https://github.com/jimjyang/testbed/tree/main/modelldcat-ap-no/demo-models.ttl#demomodel4"^^xsd:anyURI;
-   dcat:contactPoint <https://github.com/jimjyang/testbed/tree/main/modelldcat-ap-no/demo-models.ttl#digdir-contact-point>;
+   dct:identifier "https://raw.githubusercontent.com/jimjyang/testbed/main/modelldcat-ap-no/catalog-of-demo-models.ttldemomodel4"^^xsd:anyURI;
+   dcat:contactPoint <https://raw.githubusercontent.com/jimjyang/testbed/main/modelldcat-ap-no/catalog-of-demo-models.ttldigdir-contact-point>;
    dct:license <http://publications.europa.eu/resource/authority/licence/CC0>;
    dcat:keyword """demo"""@en,
        """demo"""@nb;
-   dct:isPartOf <https://github.com/jimjyang/testbed/tree/main/modelldcat-ap-no/demo-models.ttl#demomodel1>,
-       <https://github.com/jimjyang/testbed/tree/main/modelldcat-ap-no/demo-models.ttl#demomodel2>;
-   prof:isProfileOf <https://github.com/jimjyang/testbed/tree/main/modelldcat-ap-no/demo-models.ttl#demomodel1>,
-       <https://github.com/jimjyang/testbed/tree/main/modelldcat-ap-no/demo-models.ttl#demomodel2>;
-   dct:isReplacedBy <https://github.com/jimjyang/testbed/tree/main/modelldcat-ap-no/demo-models.ttl#demomodel1>,
-       <https://github.com/jimjyang/testbed/tree/main/modelldcat-ap-no/demo-models.ttl#demomodel2>;
-   dct:replaces <https://github.com/jimjyang/testbed/tree/main/modelldcat-ap-no/demo-models.ttl#demomodel1>,
-       <https://github.com/jimjyang/testbed/tree/main/modelldcat-ap-no/demo-models.ttl#demomodel2>;
-   dct:hasFormat <https://github.com/jimjyang/testbed/tree/main/modelldcat-ap-no/demo-models.ttl#cpsv-ap-no-png>;
-   dct:hasPart <https://github.com/jimjyang/testbed/tree/main/modelldcat-ap-no/demo-models.ttl#demomodel1>,
-       <https://github.com/jimjyang/testbed/tree/main/modelldcat-ap-no/demo-models.ttl#demomodel2>;
-   dct:conformsTo <https://github.com/jimjyang/testbed/tree/main/modelldcat-ap-no/demo-models.ttl#demomodel1>,
-       <https://github.com/jimjyang/testbed/tree/main/modelldcat-ap-no/demo-models.ttl#demomodel2>;
+   dct:isPartOf <https://raw.githubusercontent.com/jimjyang/testbed/main/modelldcat-ap-no/catalog-of-demo-models.ttldemomodel1>,
+       <https://raw.githubusercontent.com/jimjyang/testbed/main/modelldcat-ap-no/catalog-of-demo-models.ttldemomodel2>;
+   prof:isProfileOf <https://raw.githubusercontent.com/jimjyang/testbed/main/modelldcat-ap-no/catalog-of-demo-models.ttldemomodel1>,
+       <https://raw.githubusercontent.com/jimjyang/testbed/main/modelldcat-ap-no/catalog-of-demo-models.ttldemomodel2>;
+   dct:isReplacedBy <https://raw.githubusercontent.com/jimjyang/testbed/main/modelldcat-ap-no/catalog-of-demo-models.ttldemomodel1>,
+       <https://raw.githubusercontent.com/jimjyang/testbed/main/modelldcat-ap-no/catalog-of-demo-models.ttldemomodel2>;
+   dct:replaces <https://raw.githubusercontent.com/jimjyang/testbed/main/modelldcat-ap-no/catalog-of-demo-models.ttldemomodel1>,
+       <https://raw.githubusercontent.com/jimjyang/testbed/main/modelldcat-ap-no/catalog-of-demo-models.ttldemomodel2>;
+   dct:hasFormat <https://raw.githubusercontent.com/jimjyang/testbed/main/modelldcat-ap-no/catalog-of-demo-models.ttlcpsv-ap-no-png>;
+   dct:hasPart <https://raw.githubusercontent.com/jimjyang/testbed/main/modelldcat-ap-no/catalog-of-demo-models.ttldemomodel1>,
+       <https://raw.githubusercontent.com/jimjyang/testbed/main/modelldcat-ap-no/catalog-of-demo-models.ttldemomodel2>;
+   dct:conformsTo <https://raw.githubusercontent.com/jimjyang/testbed/main/modelldcat-ap-no/catalog-of-demo-models.ttldemomodel1>,
+       <https://raw.githubusercontent.com/jimjyang/testbed/main/modelldcat-ap-no/catalog-of-demo-models.ttldemomodel2>;
    adms:status <http://purl.org/adms/status/Deprecated>;
    dct:language <http://publications.europa.eu/resource/authority/language/ENG>;
    dct:type <https://data.norge.no/vocabulary/information-model-type#conceptual-model>;
@@ -132,7 +132,7 @@
    owl:versionInfo """2.0""";
    .
  
-<https://github.com/jimjyang/testbed/tree/main/modelldcat-ap-no/demo-models.ttl#dqv-ap-no-html>
+<https://raw.githubusercontent.com/jimjyang/testbed/main/modelldcat-ap-no/catalog-of-demo-models.ttldqv-ap-no-html>
    rdf:type foaf:Document;
    dct:language <http://publications.europa.eu/resource/authority/language/ENG>;
    dct:title """Demo model 1 (png)"""@en,
@@ -141,7 +141,7 @@
    rdfs:seeAlso <https://github.com/jimjyang/testbed/blob/main/modelldcat-ap-no/images/demomodel1.png>;
    .
  
-<https://github.com/jimjyang/testbed/tree/main/modelldcat-ap-no/demo-models.ttl#modelldcat-ap-no-png>
+<https://raw.githubusercontent.com/jimjyang/testbed/main/modelldcat-ap-no/catalog-of-demo-models.ttlmodelldcat-ap-no-png>
    rdf:type foaf:Document;
    dct:language <http://publications.europa.eu/resource/authority/language/ENG>;
    dct:title """Demo model 2 (png)"""@en,
@@ -150,7 +150,7 @@
    rdfs:seeAlso <https://github.com/jimjyang/testbed/blob/main/modelldcat-ap-no/images/demomodel2.png>;
    .
  
-<https://github.com/jimjyang/testbed/tree/main/modelldcat-ap-no/demo-models.ttl#concept-descriptions-png>
+<https://raw.githubusercontent.com/jimjyang/testbed/main/modelldcat-ap-no/catalog-of-demo-models.ttlconcept-descriptions-png>
    rdf:type foaf:Document;
    dct:language <http://publications.europa.eu/resource/authority/language/ENG>;
    dct:title """Demo model 3 (png)"""@en,
@@ -159,7 +159,7 @@
    rdfs:seeAlso <https://github.com/jimjyang/testbed/blob/main/modelldcat-ap-no/images/demomodel3.png>;
    .
  
-<https://github.com/jimjyang/testbed/tree/main/modelldcat-ap-no/demo-models.ttl#cpsv-ap-no-png>
+<https://raw.githubusercontent.com/jimjyang/testbed/main/modelldcat-ap-no/catalog-of-demo-models.ttlcpsv-ap-no-png>
    rdf:type foaf:Document;
    dct:language <http://publications.europa.eu/resource/authority/language/ENG>;
    dct:title """Demo model 4 (png)"""@en,
@@ -168,4 +168,4 @@
    rdfs:seeAlso <https://github.com/jimjyang/testbed/blob/main/modelldcat-ap-no/images/demomodel4.png>;
    .
  
-#### End of the file, 2023-03-14 14:57:37
+#### End of the file, 2023-03-15 07:48:31
