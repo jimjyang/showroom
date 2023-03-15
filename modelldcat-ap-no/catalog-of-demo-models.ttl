@@ -148,7 +148,7 @@
    adms:status <http://purl.org/adms/status/Completed>;
    dct:language <http://publications.europa.eu/resource/authority/language/ENG>;
    dct:type <https://data.norge.no/vocabulary/information-model-type#conceptual-model>;
-   dct:issued "2019-03-15"^^xsd:date;
+   dct:issued "2023-03-14"^^xsd:date;
    owl:versionInfo """2.0""";
    .
  
@@ -188,4 +188,4 @@
    rdfs:seeAlso <https://github.com/jimjyang/testbed/blob/main/modelldcat-ap-no/images/demomodel4.png>;
    .
  
-#### End of the file, 2023-03-15 09:38:43
+#### End of the file, 2023-03-15 12:10:52
