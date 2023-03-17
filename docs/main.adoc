@@ -1,0 +1,31 @@
+include::locale/attributes.adoc[]
+= Jim's testbed
+:doctype: book
+:docinfo:
+:icons: font
+:toc: left
+ifdef::backend-pdf[:toc: macro]
+:toc-title: Innholdsfortegnelse
+:toclevels: 4
+:sectlinks:
+:table-stripes: even
+:leveloffset: +1
+
+*Updated*: 2023-03-17
+
+This is the testbed created and used by Jim at the Norwegian Digitalisation Agency, to test and demonstrate usage of mainly various Norwegian national standards/specifications, also cross-referencing between them. 
+
+== Demo concepts
+
+The testbed contains:
+
+* a https://raw.githubusercontent.com/jimjyang/testbed/main/skos-ap-no-begrep/catalog-of-demo-concepts.ttl[RDF Turtle file] with demo concepts illustrating the usage of https://data.norge.no/specification/skos-ap-no-begrep[SKOS-AP-NO-Begrep]
+* ... more to come
+
+== Demo information models
+
+The testbed contains: 
+
+* a https://raw.githubusercontent.com/jimjyang/testbed/main/modelldcat-ap-no/catalog-of-demo-models.ttl[RDF Turtle file] with demo concepts illustrating the usage of hhttps://data.norge.no/specification/modelldcat-ap-no[ModellDCAT-AP-NO]
+* ... more to come
+
