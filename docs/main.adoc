@@ -15,7 +15,7 @@ ifdef::backend-pdf[:toc: macro]
 
 This is the testbed created and used by Jim at the Norwegian Digitalisation Agency, to test and demonstrate usage of mainly various Norwegian national standards/specifications, also cross-referencing between them. 
 
-= Demo concepts 
+= Demo concepts
 
 The testbed contains:
 
