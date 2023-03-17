@@ -20,10 +20,11 @@ jobs:
       id: adocbuild
       uses: tonynv/asciidoctor-action@master
       with:
-          program: "asciidoctor -D docs -o index.html -a lang=nb docs/main.adoc"
+          program: "asciidoctor -D docs -o index.html -a lang=en docs/main.adoc"
 
     - name: Deploy
       uses: peaceiris/actions-gh-pages@v3
+      if: ${{ github.ref == 'refs/heads/main' }}
       with:
         github_token: ${{ secrets.GITHUB_TOKEN }}
         publish_dir: ./docs
