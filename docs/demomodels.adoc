@@ -1,6 +1,6 @@
 == Demo information models
 
-This part of the testbed is meant to demonstrate the usage of https://data.norge.no/specification/modelldcat-ap-no[the Norwegian application of DCAT (ModellDCAT-AP-NO) for describing information models].
+This part of the testbed is meant to demonstrate the usage of https://data.norge.no/specification/modelldcat-ap-no[the Norwegian application profile of DCAT (ModellDCAT-AP-NO)], for describing information models.
 
 It contains 
 
