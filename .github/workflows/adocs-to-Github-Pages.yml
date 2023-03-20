@@ -10,6 +10,8 @@ on:
 jobs:
   adoc_build:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     name: asciidoctor build
     steps:
 
