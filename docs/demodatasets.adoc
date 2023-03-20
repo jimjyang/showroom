@@ -1,5 +1,5 @@
 == Demo datasets
 
-This part of the testbed is meant to demonstrate the usage of https://data.norge.no/specification/dcat-ap-no[the Norwegian application profile of DCAT (DCAT-AP-NO)], for describing datasets, data services and data catalogs.
+This part of the showroom is meant to demonstrate the usage of https://data.norge.no/specification/dcat-ap-no[the Norwegian application profile of DCAT (DCAT-AP-NO)], for describing datasets, data services and data catalogs.
 
 _... more to come ..._
