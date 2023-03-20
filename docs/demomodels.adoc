@@ -1,0 +1,12 @@
+== Demo information models
+
+The testbed contains: 
+
+* a https://raw.githubusercontent.com/jimjyang/testbed/main/modelldcat-ap-no/catalog-of-demo-models.ttl[RDF Turtle file] with demo information models illustrating the usage of https://data.norge.no/specification/modelldcat-ap-no[ModellDCAT-AP-NO]
+** The demo models are harvested to and published via the https://demo.fellesdatakatalog.digdir.no/informationmodels?q=demo[demo catalog]. 
+** These demo models are currently meant to 
+*** demonstrate how to describe an information model in accordance with https://data.norge.no/specification/modelldcat-ap-no[ModellDCAT-AP-NO], at the model level (i.e., without describing the model elements), and how to link to online resources of the model where more descriptions of the model may be found.
+*** demonstrate how to describe relations between information models, in accordance with https://data.norge.no/specification/modelldcat-ap-no[ModellDCAT-AP-NO].   
+*** be referenced to as machine-readable RDF resources, when you are e.g. testing your implementation of https://data.norge.no/specification/modelldcat-ap-no[ModellDCAT-AP-NO].
+* _... more may come_
+
