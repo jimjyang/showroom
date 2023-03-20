@@ -14,10 +14,12 @@ ifdef::backend-pdf[:toc: macro]
 
 // _Updated: 2023-03-20_
 
-This is the testbed created and used by Jim at the Norwegian Digitalisation Agency, mainly to test and demonstrate the usage of various Norwegian national standards/specifications. 
+_This is a testbed, created and used by Jim at the https://www.digdir.no/[Norwegian Digitalisation Agency (Digdir)], mainly to demonstrate the usage of various Norwegian national RDF-based specifications for data sharing and reuse._
 
 include::democoncepts.adoc[]
 
 include::demodatasets.adoc[]
 
 include::demomodels.adoc[]
+
+include::democlassifications.adoc[]
