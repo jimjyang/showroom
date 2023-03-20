@@ -1,10 +1,10 @@
 == Demo concepts 
 
-This part of the testbed is meant to demonstrate the usage of https://data.norge.no/specification/skos-ap-no-begrep[the Norwegian application profile of SKOS (SKOS-AP-NO-Begrep)], for describing and publishing concepts and concept collections. 
+This showroom is meant to demonstrate the usage of https://data.norge.no/specification/skos-ap-no-begrep[the Norwegian application profile of SKOS (SKOS-AP-NO-Begrep)] for describing and publishing concepts and concept collections. 
 
 It contains
 
-* a https://raw.githubusercontent.com/jimjyang/testbed/main/skos-ap-no-begrep/catalog-of-demo-concepts.ttl[RDF Turtle file] with demo concepts illustrating the usage of https://data.norge.no/specification/skos-ap-no-begrep[SKOS-AP-NO-Begrep]
+* a https://raw.githubusercontent.com/jimjyang/showroom/main/skos-ap-no-begrep/catalog-of-demo-concepts.ttl[RDF Turtle file] with demo concepts illustrating the usage of https://data.norge.no/specification/skos-ap-no-begrep[SKOS-AP-NO-Begrep]
 ** The demo concepts will be automatically harvested to and thus published via the demo catalog, after the catalog is modified to harvesting concept descriptions in accordance with v.2 of https://data.norge.no/specification/skos-ap-no-begrep[SKOS-AP-NO-Begrep].
 ** These demo concepts are currently meant to 
 *** demonstrate how to describe concepts in accordance with https://data.norge.no/specification/skos-ap-no-begrep[SKOS-AP-NO-Begrep].

@@ -1,5 +1,5 @@
 == Demo classifications / controlled vocabularies
 
-This part of the testbed is meant to demonstrate the usage of https://data.norge.no/specification/xkos-ap-no[the Norwegian application profile of XKOS (XKOS-AP-NO)], for describing and publishing classifications / controlled vocabularies. 
+This showroom is meant to demonstrate the usage of https://data.norge.no/specification/xkos-ap-no[the Norwegian application profile of XKOS (XKOS-AP-NO)] for describing and publishing classifications / controlled vocabularies. 
 
 _... more to come..._
