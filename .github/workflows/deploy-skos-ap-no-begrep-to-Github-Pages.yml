@@ -41,4 +41,4 @@ jobs:
         github_token: ${{ secrets.GITHUB_TOKEN }}
         publish_dir: ./docs
         destination_dir: ./skos-ap-no
-        keepFiles: true
+        keep_files: true

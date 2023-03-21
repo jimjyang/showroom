@@ -24,6 +24,16 @@ jobs:
       with:
           program: "asciidoctor -D docs -o index.html -a lang=en modelldcat-ap-no/main.adoc"
 
+    - name: Copy subdirs
+      id: copy_subdirs
+      run: | 
+        mkdir files
+        cp modelldcat-ap-no/files/** ./files
+        mv ./files ./docs
+        mkdir images
+        cp smodelldcat-ap-no/images/** ./images
+        mv ./images ./docs
+
     - name: Deploy
       uses: peaceiris/actions-gh-pages@v3
       if: ${{ github.ref == 'refs/heads/main' }}
@@ -31,4 +41,4 @@ jobs:
         github_token: ${{ secrets.GITHUB_TOKEN }}
         publish_dir: ./docs
         destination_dir: ./modelldcat-ap-no
-        keepFiles: true
+        keep_files: true
