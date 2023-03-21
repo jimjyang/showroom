@@ -31,7 +31,7 @@ jobs:
         cp modelldcat-ap-no/files/** ./files
         mv ./files ./docs
         mkdir images
-        cp smodelldcat-ap-no/images/** ./images
+        cp modelldcat-ap-no/images/** ./images
         mv ./images ./docs
 
     - name: Deploy
