@@ -24,14 +24,14 @@ jobs:
       with:
           program: "asciidoctor -D docs -o index.html -a lang=en skos-ap-no/main.adoc"
 
-    - name: Setup subdirs
-      id: build_subdirs
+    - name: Copy subdirs
+      id: copy_subdirs
       run: | 
         mkdir files
-        cp skos-ap-no/files/** ./files
+        cp skos-ap-no/files ./files
         mv ./files ./docs
         mkdir images
-        cp skos-ap-no/images/** ./images
+        cp skos-ap-no/images ./images
         mv ./images ./docs
 
     - name: Deploy
