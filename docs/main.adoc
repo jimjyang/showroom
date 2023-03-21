@@ -1,4 +1,4 @@
-include::locale/attributes.adoc[]
+include::../locale/attributes.adoc[]
 = Jim's showroom
 :doctype: book
 :docinfo:
