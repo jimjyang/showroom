@@ -27,7 +27,7 @@ jobs:
     - name: Setup subdirs
       id: build_subdirs
       run: | 
-        mkdir docs files
+        mkdir files
         cp skos-ap-no/files/** ./files
         mv ./files ./docs
         mkdir docs images
