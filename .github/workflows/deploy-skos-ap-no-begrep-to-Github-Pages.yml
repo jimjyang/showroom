@@ -22,11 +22,12 @@ jobs:
       id: adocbuild
       uses: tonynv/asciidoctor-action@master
       with:
-          program: "asciidoctor -D docs/skos-ap-no -o index.html -a lang=en docs/main.adoc"
+          program: "asciidoctor -D docs -o index.html -a lang=en docs/main.adoc"
 
     - name: Deploy
       uses: peaceiris/actions-gh-pages@v3
       if: ${{ github.ref == 'refs/heads/main' }}
       with:
         github_token: ${{ secrets.GITHUB_TOKEN }}
-        publish_dir: ./docs/skos-ap-no
+        publish_dir: ./docs
+        destination_dir: ./skos-ap-no

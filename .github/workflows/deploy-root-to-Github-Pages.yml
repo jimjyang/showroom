@@ -1,4 +1,4 @@
-name: Build adocs and deploy to Github Pages
+name: Build adocs and deploy root to Github Pages
 
 on:
   push:
