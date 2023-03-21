@@ -24,6 +24,16 @@ jobs:
       with:
           program: "asciidoctor -D docs -o index.html -a lang=en skos-ap-no/main.adoc"
 
+    - name: Setup subdirs
+      id: build_subdirs
+      run: | 
+        mkdir docs files
+        cp skos-ap-no/files/** ./files
+        mv ./files ./docs
+        mkdir docs images
+        cp skos-ap-no/images/** ./images
+        mv ./images ./docs
+
     - name: Deploy
       uses: peaceiris/actions-gh-pages@v3
       if: ${{ github.ref == 'refs/heads/main' }}
