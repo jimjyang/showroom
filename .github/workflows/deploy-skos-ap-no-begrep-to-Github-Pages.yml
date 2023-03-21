@@ -30,7 +30,7 @@ jobs:
         mkdir files
         cp skos-ap-no/files/** ./files
         mv ./files ./docs
-        mkdir docs images
+        mkdir images
         cp skos-ap-no/images/** ./images
         mv ./images ./docs
 
