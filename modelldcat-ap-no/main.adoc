@@ -16,7 +16,7 @@ ifdef::backend-pdf[:toc: macro]
 
 In this part of the showroom we will demonstrate the usage of https://data.norge.no/specification/modelldcat-ap-no[the Norwegian application profile of DCAT (ModellDCAT-AP-NO)], for describing information models.
 
-We have here
+We have here 
 
 * a https://raw.githubusercontent.com/jimjyang/testbed/main/modelldcat-ap-no/catalog-of-demo-models.ttl[RDF Turtle file] with demo information models illustrating the usage of https://data.norge.no/specification/modelldcat-ap-no[ModellDCAT-AP-NO]
 ** The demo models are automatically harvested to and thus published via the https://demo.fellesdatakatalog.digdir.no/informationmodels?q=demo[demo catalog]. 
