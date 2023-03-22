@@ -1,0 +1,8 @@
+== Overview and cross-references between the showrooms
+
+_... more to come ..._
+
+[[img-cross-references]]
+.Overview and corss-references between the showrooms
+[link=images/crossreferencing-between-showrooms.png]
+image::images/crossreferencing-between-showrooms.png[alt="Conceptual model with several classes and relations between them. The content is described in the text."]

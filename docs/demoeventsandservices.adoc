@@ -1,0 +1,5 @@
+== Showroom with demo events and services
+
+In this showroom we will demonstrate the usage of https://informasjonsforvaltning.github.io/cpsv-ap-no/[CPSV-AP-NO] (the Norwegian application profile of CPSV-AP) 
+
+_... more to come ..._
