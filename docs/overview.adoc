@@ -1,8 +1,8 @@
-== Overview and cross-references between the showrooms [[overview]]
+== Showroom with demo classification / controlled vocabulary [[demo-classifications]]
 
-_... more to come ..._
+_... more to come ..._ 
 
-[[img-cross-references]]
-.Overview and corss-references between the showrooms
+[[img-overiew]]
+.Overview and cross-references between the showrooms.
 [link=images/crossreferencing-between-showrooms.png]
-image::images/crossreferencing-between-showrooms.png[alt="Conceptual model with several classes and relations between them. The content is described in the text."]
+image::images/crossreferencing-between-showrooms.png[alt="Conceptual model with some class and relations between them. The content is explained in the text."]
