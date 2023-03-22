@@ -3,9 +3,10 @@ name: Build adocs and deploy skos-ap-no to Github Pages
 on:
   push:
     branches:
-    - main
+      - main
     paths:
-    - skos-ap-no/**
+      - skos-ap-no/**
+  workflow_dispatch:
 
 jobs:
   adoc_build:
@@ -19,7 +20,7 @@ jobs:
       uses: actions/checkout@v3
 
     - name: Build html
-      id: adocbuild
+      id: adocbuild_html
       uses: tonynv/asciidoctor-action@master
       with:
           program: "asciidoctor -D docs -o index.html -a lang=en skos-ap-no/main.adoc"
@@ -36,7 +37,6 @@ jobs:
 
     - name: Deploy
       uses: peaceiris/actions-gh-pages@v3
-      if: ${{ github.ref == 'refs/heads/main' }}
       with:
         github_token: ${{ secrets.GITHUB_TOKEN }}
         publish_dir: ./docs

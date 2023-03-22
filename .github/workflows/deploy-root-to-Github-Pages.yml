@@ -3,9 +3,10 @@ name: Build adocs and deploy root to Github Pages
 on:
   push:
     branches:
-    - main
+      - main
     paths:
-    - docs/**
+      - docs/**
+  workflow_dispatch:
 
 jobs:
   adoc_build:
@@ -19,14 +20,15 @@ jobs:
       uses: actions/checkout@v3
 
     - name: Build html
-      id: adocbuild
+      id: adocbuild_html
       uses: tonynv/asciidoctor-action@master
       with:
           program: "asciidoctor -D docs -o index.html -a lang=en docs/main.adoc"
 
     - name: Deploy
       uses: peaceiris/actions-gh-pages@v3
-      if: ${{ github.ref == 'refs/heads/main' }}
       with:
         github_token: ${{ secrets.GITHUB_TOKEN }}
+        publish_branch: gh-pages
         publish_dir: ./docs
+        keep_files: true
