@@ -12,8 +12,6 @@ ifdef::backend-pdf[:toc: macro]
 :table-stripes: even
 
 
-// _Updated: 2023-03-20_
-
 Welcome to the showroom for https://data.norge.no/specification/skos-ap-no-begrep[SKOS-AP-NO-Begrep] (the Norwegian application profile of SKOS for describing and publishing concepts and concept collections)! 
 
 We have here
