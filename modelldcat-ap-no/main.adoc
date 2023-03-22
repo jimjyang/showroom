@@ -27,12 +27,5 @@ We have here a link:files/demo-models.ttl[RDF Turtle file] with demo information
 ** be referenced to as machine-readable RDF resources, for testing and demonstration purposes. 
 * _... more may come_
 
-== Two ways of describing hierarchical relations between concepts
 
-_... more to come ..._ 
-
-[[img-hierarchical-relations]]
-.Tows of describing hierarchical relations. 
-[link=images/hierarchical-relations-explanations.png]
-image::images/hierarchical-relations-explanations.png[alt="Figure with hierarchical relations. The content is explained in the text."]
 
