@@ -1,4 +1,4 @@
-== Showroom with dereferenced URIs
+== Showroom with demo dereferenced URIs [[demo-dereferened-uris]]
 
 In this showroom we will demonstrate the principle and practice in dereferencing URIs. 
 

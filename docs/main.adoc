@@ -1,5 +1,5 @@
 include::../locale/attributes.adoc[]
-= Jim's showrooms
+= Jim's showrooms [[demo-classification]]
 :doctype: book
 :docinfo:
 :icons: font

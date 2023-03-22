@@ -1,4 +1,4 @@
-== Showroom with demo datasets
+== Showroom with demo datasets [[demo-datasets]]
 
 In this showroom we demonstrate the usage of https://data.norge.no/specification/dcat-ap-no[DCAT-AP-NO] (the Norwegian application profile of DCAT for describing datasets, data services and data catalogs).
 

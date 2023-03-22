@@ -1,4 +1,4 @@
-== Showroom with demo information models
+== Showroom with demo information models [[demo-models]]
 
 In this showroom we will demonstrate the usage of https://data.norge.no/specification/modelldcat-ap-no[ModellDCAT-AP-NO] (the Norwegian application profile of DCAT for describing information models).
 
