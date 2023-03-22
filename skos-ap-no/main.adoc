@@ -27,7 +27,7 @@ We have here a link:files/demo-concepts.ttl[RDF Turtle file] with demo concepts 
 
 == Two ways of describing hierarchical relations between concepts
 
-_... more to come ..._
+_... more to come ..._ 
 
 [[img-hierarchical-relations]]
 .Tows of describing hierarchical relations. 
