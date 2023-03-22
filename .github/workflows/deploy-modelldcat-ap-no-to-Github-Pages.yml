@@ -25,16 +25,6 @@ jobs:
       with:
           program: "asciidoctor -D docs -o index.html -a lang=en modelldcat-ap-no/main.adoc"
 
-    - name: Copy subdirs
-      id: copy_subdirs
-      run: | 
-        mkdir files
-        cp modelldcat-ap-no/files/** ./files
-        cp ./files ./docs
-        mkdir images
-        cp modelldcat-ap-no/images/** ./images
-        cp ./images ./docs
-
     - name: Deploy
       uses: peaceiris/actions-gh-pages@v3
       with:
