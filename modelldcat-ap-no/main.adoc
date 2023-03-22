@@ -30,4 +30,4 @@ We have here a link:files/demo-models.ttl[RDF Turtle file] with demo information
 
 == Some explanations 
 
-_... more to come..._
+_... more to come..._ 
