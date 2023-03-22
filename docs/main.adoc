@@ -18,9 +18,9 @@ _Welcome to the showrooms created and used by Jim at the https://www.digdir.no/[
 
 include::democoncepts.adoc[]
 
-include::demodatasets.adoc[]
-
 include::demomodels.adoc[]
+
+include::demodatasets.adoc[]
 
 include::democlassifications.adoc[]
 
