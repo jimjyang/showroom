@@ -29,10 +29,10 @@ jobs:
       id: copy_subdirs
       run: | 
         mkdir files
-        cp modelldcat-ap-no/files/** ./files
+        cp skos-ap-no/files/** ./files
         cp ./files ./docs
         mkdir images
-        cp modelldcat-ap-no/images/** ./images
+        cp skos-ap-no/images/** ./images
         cp ./images ./docs
 
     - name: Deploy

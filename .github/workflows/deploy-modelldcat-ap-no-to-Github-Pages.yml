@@ -30,10 +30,10 @@ jobs:
       run: | 
         mkdir files
         cp modelldcat-ap-no/files/** ./files
-        mv ./files ./docs
+        cp ./files ./docs
         mkdir images
         cp modelldcat-ap-no/images/** ./images
-        mv ./images ./docs
+        cp ./images ./docs
 
     - name: Deploy
       uses: peaceiris/actions-gh-pages@v3
