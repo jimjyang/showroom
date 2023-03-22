@@ -23,3 +23,5 @@ include::demodatasets.adoc[]
 include::demomodels.adoc[]
 
 include::democlassifications.adoc[]
+
+include::demodeferencingURIs.adoc[]
