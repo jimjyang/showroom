@@ -1,5 +1,5 @@
 == Showroom with demo classifications / controlled vocabularies [[demo-classifications]]
 
-In this showroom we will demonstrate the usage of https://data.norge.no/specification/xkos-ap-no[xkos-NO] (the Norwegian application profile of XKOS-AP-NO, for describing and publishing classifications / controlled vocabularies). 
+In this showroom we will demonstrate the usage of https://data.norge.no/specification/xkos-ap-no[XKOS-AP-NO] (the Norwegian application profile of XKOS, for describing and publishing classifications / controlled vocabularies). 
 
 _... more to come ..._
