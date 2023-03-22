@@ -16,7 +16,7 @@ ifdef::backend-pdf[:toc: macro]
 
 Welcome to the showroom for https://data.norge.no/specification/skos-ap-no-begrep[SKOS-AP-NO-Begrep] (the Norwegian application profile of SKOS for describing and publishing concepts and concept collections)! 
 
-We have here 
+We have here
 
 * a link:files/demo-concepts.ttl[RDF Turtle file] with demo concepts illustrating the usage of SKOS-AP-NO-Begrep
 ** The demo concepts will be automatically harvested to and thus published via the demo catalog, after the catalog is modified to harvesting concept descriptions in accordance with v.2 of SKOS-AP-NO-Begrep.
