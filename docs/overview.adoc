@@ -1,4 +1,4 @@
-== Showroom with demo classification / controlled vocabulary [[demo-classifications]]
+== Overview and cross-references between the showrooms [[overview]]
 
 _... more to come ..._ 
 
