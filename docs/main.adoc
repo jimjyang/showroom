@@ -15,7 +15,7 @@ ifdef::backend-pdf[:toc: macro]
 
 // _Updated: 2023-03-20_
 
-_Welcome to the showrooms created and used by Jim at the https://www.digdir.no/[Norwegian Digitalisation Agency (Digdir)], mainly to demonstrate the usage of various Norwegian national RDF-based specifications for data sharing and reuse._
+_Welcome to the showrooms created and used by Jim at the https://www.digdir.no/[Norwegian Digitalisation Agency (Digdir), window="_blank", role="ext-link"], mainly to demonstrate the usage of various Norwegian national RDF-based specifications for data sharing and reuse._
 
 include::overview.adoc[]
 
