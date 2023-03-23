@@ -23,7 +23,7 @@ jobs:
       id: adocbuild_html
       uses: tonynv/asciidoctor-action@master
       with:
-          program: "asciidoctor -D docs -o index.html -a lang=en modelldcat-ap-no/main.adoc"
+          program: "asciidoctor -o index.html -a lang=en modelldcat-ap-no/main.adoc"
 
     - name: Deploy
       uses: peaceiris/actions-gh-pages@v3
