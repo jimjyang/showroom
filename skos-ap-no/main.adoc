@@ -14,7 +14,7 @@ ifdef::backend-pdf[:toc: macro]
 
 Welcome to the showroom for https://data.norge.no/specification/skos-ap-no-begrep[SKOS-AP-NO-Begrep] (the Norwegian application profile of SKOS for describing and publishing concepts and concept collections)! 
 
-== Overview 
+== Demo concepts 
 
 We have here a link:files/demo-concepts.ttl[RDF Turtle file] with demo concepts illustrating the usage of SKOS-AP-NO-Begrep
 
@@ -25,7 +25,11 @@ We have here a link:files/demo-concepts.ttl[RDF Turtle file] with demo concepts 
 *** be referenced to as machine-readable RDF resources, for testing and demonstration purposes. 
 * _... more to come_
 
-== Two ways of describing hierarchical relations between concepts
+=== Explanation - associative relations between concepts
+
+_... more text ..._
+
+=== Explanation - hierarchical relations between concepts
 
 _... more to come ..._ 
  
@@ -33,3 +37,13 @@ _... more to come ..._
 .Tows of describing hierarchical relations. 
 [link=images/hierarchical-relations-explanations.png]
 image::images/hierarchical-relations-explanations.png[alt="Figure with hierarchical relations. The content is explained in the text."]
+
+== Cross-reference with other demo resources
+
+A concept may be referred to from:
+
+* A classification (controlled vocabulary) _... more text ..._
+* A dataset _... more text ..._
+* A information model _... more text ..._
+* A service of an event _... more text ..._
+* _... more text ..._
