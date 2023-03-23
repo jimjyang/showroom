@@ -16,7 +16,7 @@ ifdef::backend-pdf[:toc: macro]
 
 Welcome to the showroom for https://data.norge.no/specification/modelldcat-ap-no[ModellDCAT-AP-NO] (the Norwegian application profile of DCAT, for describing information models and catalogs of informations models)!
 
-== Overview 
+== Demo information models 
 
 We have here a link:files/demo-models.ttl[RDF Turtle file] with demo information models illustrating the usage of ModellDCAT-AP-NO
 
@@ -28,6 +28,20 @@ We have here a link:files/demo-models.ttl[RDF Turtle file] with demo information
 * _... more may come..._
 
  
-== Some explanations 
+=== Some explanations 
 
 _... more to come..._ 
+
+== Cross-references with other demo resources
+
+An information model may refer to:
+
+* A concept _... more to come ..._  
+* A classification (controlled vocabulary) _... more to come ..._
+* _... more to come ..._
+
+An information model may be referred to from:
+
+* A dataset _... more to come ..._
+* _... more to come ..._ 
+
