@@ -14,7 +14,7 @@ ifdef::backend-pdf[:toc: macro]
 
 // _Updated: 2023-03-20_
 
-Welcome to the showroom for https://data.norge.no/specification/modelldcat-ap-no[ModellDCAT-AP-NO] (the Norwegian application profile of DCAT, for describing information models and catalogs of informations models)!
+Welcome to the showroom for https://data.norge.no/specification/modelldcat-ap-no[ModellDCAT-AP-NO, window="_blank", role="ext-link"] (the Norwegian application profile of DCAT, for describing information models and catalogs of informations models)!
 
 == Demo information models 
 
