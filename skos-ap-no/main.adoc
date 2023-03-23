@@ -27,7 +27,7 @@ We have here a link:files/demo-concepts.ttl[RDF Turtle file] with demo concepts 
 
 === Explanation - associative relations between concepts
 
-_... more text ..._
+_... more to come ..._
 
 === Explanation - hierarchical relations between concepts
 
@@ -42,8 +42,8 @@ image::images/hierarchical-relations-explanations.png[alt="Figure with hierarchi
 
 A concept may be referred to from:
 
-* A classification (controlled vocabulary) _... more text ..._
-* A dataset _... more text ..._
-* A information model _... more text ..._
-* A service of an event _... more text ..._
-* _... more text ..._
+* A classification (controlled vocabulary) _... more to come ..._
+* A dataset _... more to come ..._
+* A information model _... more to come ..._
+* A service of an event _... more to come ..._
+* _... more to come ..._
