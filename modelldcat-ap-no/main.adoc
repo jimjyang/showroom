@@ -27,7 +27,7 @@ We have here a link:files/demo-models.ttl[RDF Turtle file] with demo information
 ** be referenced to as machine-readable RDF resources, for testing and demonstration purposes. 
 * _... more may come..._
 
- 
+
 == Some explanations 
 
 _... more to come..._ 
