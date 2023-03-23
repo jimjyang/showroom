@@ -25,23 +25,23 @@ We have here a link:files/demo-models.ttl[RDF Turtle file] with demo information
 ** demonstrate how to describe an information model in accordance with ModellDCAT-AP-NO, at the model level (i.e., without describing the model elements), and how to link to online resources of the model where more descriptions of the model may be found.
 ** demonstrate how to describe relations between information models, in accordance with ModellDCAT-AP-NO.   
 ** be referenced to as machine-readable RDF resources, for testing and demonstration purposes. 
-* _... more may come..._
+* _#... more may come...#_
 
  
 === Some explanations 
 
-_... more to come..._ 
+_#... more to come ...#_  
 
 == Cross-references with other demo resources
 
 An information model may refer to:
 
-* A concept _... more to come ..._  
-* A classification (controlled vocabulary) _... more to come ..._
-* _... more to come ..._
+* A concept _#... more to come ...#_   
+* A classification (controlled vocabulary) _#... more to come ...#_ 
+* _#... more to come ...#_ 
 
 An information model may be referred to from:
 
-* A dataset _... more to come ..._
-* _... more to come ..._ 
+* A dataset _#... more to come ...#_ 
+* _#... more to come ...#_  
 
