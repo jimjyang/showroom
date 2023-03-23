@@ -1,9 +1,9 @@
 == Overview and cross-references between the showrooms [[overview]]
 
-<<img-overiew>> illustrates some of the cross-references between demo resources that are in the showrooms. 
+<<img-overiew>> illustrates some of the cross-references between the demo resources that are in the showrooms. 
 
 [[img-overiew]]
-.Overview and cross-references between the showrooms.
+.Overview and cross-references between the resource types that are demonstrated in the showrooms.
 [link=images/crossreferencing-between-showrooms.png]
 image::images/crossreferencing-between-showrooms.png[alt="Conceptual model with some class and relations between them. The content is explained in the text."]
 
