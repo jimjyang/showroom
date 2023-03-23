@@ -28,7 +28,7 @@ We have here a link:files/demo-models.ttl[RDF Turtle file] with demo information
 * _#... more may come...#_
 
  
-=== Some explanations 
+=== Some explanations ...
 
 _#... more to come ...#_  
 
