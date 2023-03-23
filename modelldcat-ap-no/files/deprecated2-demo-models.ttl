@@ -14,15 +14,15 @@
 
 <https://github.com/jimjyang/testbed/tree/main/modelldcat-ap-no/demo-models.ttl#catalog-of-demo-models>
    rdf:type dcat:Catalog;
-   dct:description """This catalog contains demo models created by Jim at the Norwegian Digitalisation Agency (Digdir)."""@en,
-       """Katalogen inneholder demomodeller opprettet av Jim ved Digitaliseringsdirektoratet (Digdir)."""@nb;
+   dct:description """This catalog contains test models created by Jim at the Norwegian Digitalisation Agency (Digdir)."""@en,
+       """Katalogen inneholder testmodeller opprettet av Jim ved Digitaliseringsdirektoratet (Digdir)."""@nb;
    dct:identifier "https://github.com/jimjyang/testbed/tree/main/modelldcat-ap-no/demo-models.ttl#catalog-of-demo-models"^^xsd:anyURI;
    modelldcatno:model <https://github.com/jimjyang/testbed/tree/main/modelldcat-ap-no/demo-models.ttl#demomodel1>,
        <https://github.com/jimjyang/testbed/tree/main/modelldcat-ap-no/demo-models.ttl#demomodel2>,
        <https://github.com/jimjyang/testbed/tree/main/modelldcat-ap-no/demo-models.ttl#demomodel3>,
        <https://github.com/jimjyang/testbed/tree/main/modelldcat-ap-no/demo-models.ttl#demomodel4>;
-   dct:title """Jim's catalog of demo models"""@en,
-       """Jim sin katalog over demomodeller"""@nb;
+   dct:title """Jim's catalog of test models"""@en,
+       """Jim sin katalog over testmodeller"""@nb;
    dct:publisher <https://organization-catalog.fellesdatakatalog.digdir.no/organizations/991825827>;
    dct:modified "2023-03-23"^^xsd:date;
    dct:language <http://publications.europa.eu/resource/authority/language/ENG>,
@@ -43,8 +43,8 @@
    dct:title """Test model 1 - deprecated"""@en,
        """Testmodell 1 - utgått"""@nb;
    dct:publisher <https://organization-catalog.fellesdatakatalog.digdir.no/organizations/991825827>;
-   dct:description """Information model 1 for demo purposes only, with meaningless content."""@en,
-       """Informasjonsmodell 1 kun for demoformål, med meningsløst innhold."""@nb;
+   dct:description """Information model 1 for test purposes only, with meaningless content."""@en,
+       """Informasjonsmodell 1 kun for testformål, med meningsløst innhold."""@nb;
    dct:identifier "https://github.com/jimjyang/testbed/tree/main/modelldcat-ap-no/demo-models.ttl#demomodel1"^^xsd:anyURI;
    dcat:contactPoint <https://github.com/jimjyang/testbed/tree/main/modelldcat-ap-no/demo-models.ttl#digdir-contact-point>;
    dct:license <http://publications.europa.eu/resource/authority/licence/CC0>;
@@ -70,8 +70,8 @@
    dct:title """Test model 2 - deprecated"""@en,
        """Testmodell 2 - utgått"""@nb;
    dct:publisher <https://organization-catalog.fellesdatakatalog.digdir.no/organizations/991825827>;
-   dct:description """Information model 2 for demo purposes only, with meaningless content."""@en,
-       """Informasjonsmodell 2 kun for demoformål, med meningsløst innhold."""@nb;
+   dct:description """Information model 2 for test purposes only, with meaningless content."""@en,
+       """Informasjonsmodell 2 kun for testformål, med meningsløst innhold."""@nb;
    dct:identifier "https://github.com/jimjyang/testbed/tree/main/modelldcat-ap-no/demo-models.ttl#demomodel2"^^xsd:anyURI;
    dcat:contactPoint <https://github.com/jimjyang/testbed/tree/main/modelldcat-ap-no/demo-models.ttl#digdir-contact-point>;
    dct:license <http://publications.europa.eu/resource/authority/licence/CC0>;
@@ -95,8 +95,8 @@
    dct:title """Test model 3 - deprecated"""@en,
        """Testmodell 3 - utgått"""@nb;
    dct:publisher <https://organization-catalog.fellesdatakatalog.digdir.no/organizations/991825827>;
-   dct:description """Information model 3 for demo purposes only, with meaningless content."""@en,
-       """Informasjonsmodell 3 kun for demoformål, med meningsløst innhold."""@nb;
+   dct:description """Information model 3 for test purposes only, with meaningless content."""@en,
+       """Informasjonsmodell 3 kun for testformål, med meningsløst innhold."""@nb;
    dct:identifier "https://github.com/jimjyang/testbed/tree/main/modelldcat-ap-no/demo-models.ttl#demomodel3"^^xsd:anyURI;
    dcat:contactPoint <https://github.com/jimjyang/testbed/tree/main/modelldcat-ap-no/demo-models.ttl#digdir-contact-point>;
    dct:license <http://publications.europa.eu/resource/authority/licence/CC0>;
@@ -120,8 +120,8 @@
    dct:title """Test model 4 - deprecated"""@en,
        """Testmodell 4 - utgått"""@nb;
    dct:publisher <https://organization-catalog.fellesdatakatalog.digdir.no/organizations/991825827>;
-   dct:description """Information model 4 for demo purposes only, with meaningless content. Note: This one is meant to illustrate relations between models."""@en,
-       """Informasjonsmodell 4 kun for demoformål, med meningsløst innhold. Denne er ment for å illustrere relasjoner mellom modeller."""@nb;
+   dct:description """Information model 4 for test purposes only, with meaningless content. Note: This one is meant to test relations between models."""@en,
+       """Informasjonsmodell 4 kun for testformål, med meningsløst innhold. Denne er ment for å teste relasjoner mellom modeller."""@nb;
    dct:identifier "https://github.com/jimjyang/testbed/tree/main/modelldcat-ap-no/demo-models.ttl#demomodel4"^^xsd:anyURI;
    dcat:contactPoint <https://github.com/jimjyang/testbed/tree/main/modelldcat-ap-no/demo-models.ttl#digdir-contact-point>;
    dct:license <http://publications.europa.eu/resource/authority/licence/CC0>;
@@ -188,4 +188,4 @@
    rdfs:seeAlso <https://jimjyang.github.io/showroom/modelldcat-ap-no/images/demomodel4.png>;
    .
  
-#### End of the file, 2023-03-23 11:38:25
+#### End of the file, 2023-03-23 11:43:12
