@@ -155,8 +155,8 @@
 <https://raw.githubusercontent.com/jimjyang/testbed/main/modelldcat-ap-no/catalog-of-demo-models.ttldemomodel1-png>
    rdf:type foaf:Document;
    dct:language <http://publications.europa.eu/resource/authority/language/ENG>;
-   dct:title """Demo model 1 (png)"""@en,
-       """Demomodell 1 (png)"""@nb;
+   dct:title """Test model 1 - deprecated (png)"""@en,
+       """Testomodell 1 - utgått (png)"""@nb;
    dct:format <http://publications.europa.eu/resource/authority/file-type/PNG>;
    rdfs:seeAlso <https://jimjyang.github.io/showroom/modelldcat-ap-no/images/demomodel1.png>;
    .
@@ -164,8 +164,8 @@
 <https://raw.githubusercontent.com/jimjyang/testbed/main/modelldcat-ap-no/catalog-of-demo-models.ttldemomodel2-png>
    rdf:type foaf:Document;
    dct:language <http://publications.europa.eu/resource/authority/language/ENG>;
-   dct:title """Demo model 2 (png)"""@en,
-       """Demomodell 2 (png)"""@nb;
+   dct:title """Test model 2 - deprecated (png)"""@en,
+       """Testomodell 2- utgått (png)"""@nb;
    dct:format <http://publications.europa.eu/resource/authority/file-type/PNG>;
    rdfs:seeAlso <https://jimjyang.github.io/showroom/modelldcat-ap-no/images/demomodel2.png>;
    .
@@ -173,8 +173,8 @@
 <https://raw.githubusercontent.com/jimjyang/testbed/main/modelldcat-ap-no/catalog-of-demo-models.ttldemomodel3-png>
    rdf:type foaf:Document;
    dct:language <http://publications.europa.eu/resource/authority/language/ENG>;
-   dct:title """Demo model 3 (png)"""@en,
-       """Demomodell 3 (png)"""@nb;
+   dct:title """Test model 3 - deprecated (png)"""@en,
+       """Testmodell 3 - utgått (png)"""@nb;
    dct:format <http://publications.europa.eu/resource/authority/file-type/PNG>;
    rdfs:seeAlso <https://jimjyang.github.io/showroom/modelldcat-ap-no/images/demomodel3.png>;
    .
@@ -182,10 +182,10 @@
 <https://raw.githubusercontent.com/jimjyang/testbed/main/modelldcat-ap-no/catalog-of-demo-models.ttldemomodel4-png>
    rdf:type foaf:Document;
    dct:language <http://publications.europa.eu/resource/authority/language/ENG>;
-   dct:title """Demo model 4 (png)"""@en,
-       """Demomodell 4 (png)"""@nb;
+   dct:title """Test model 4 - deprecated (png)"""@en,
+       """Testmodell 4 - utgått (png)"""@nb;
    dct:format <http://publications.europa.eu/resource/authority/file-type/PNG>;
    rdfs:seeAlso <https://jimjyang.github.io/showroom/modelldcat-ap-no/images/demomodel4.png>;
    .
  
-#### End of the file, 2023-03-23 11:31:26
+#### End of the file, 2023-03-23 11:35:40
