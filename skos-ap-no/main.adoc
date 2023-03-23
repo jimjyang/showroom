@@ -24,11 +24,11 @@ We have here a link:files/demo-concepts.ttl[RDF Turtle file] with demo concepts 
 ** demonstrate how to describe concepts in accordance with SKOS-AP-NO-Begrep.
 ** demonstrate how to describe relations between concepts, in accordance with SKOS-AP-NO-Begrep.   
 *** be referenced to as machine-readable RDF resources, for testing and demonstration purposes. 
-* _... more to come_
+* _#... more to come ...#_ 
 
 === Explanation - associative concept relations
 
-_... more to come ..._
+_#... more to come ...#_ 
 
 === Explanation - hierarchical concept relations
 
@@ -40,14 +40,19 @@ image::images/hierarchical-relations-explanations.png[alt="Figure with hierarchi
 
 In accordance to SKOS-AP-NO-Begrep, there two different ways of describing a hierarchically concept relation:  
 
-*  _... more to come ..._ 
+*  _#... more to come ...#_  
  
 == Cross-reference with other demo resources
 
 A concept may be referred to from:
 
-* A classification (controlled vocabulary) _... more to come ..._
-* A dataset _... more to come ..._
-* A information model _... more to come ..._
-* A service of an event _... more to come ..._
-* _... more to come ..._
+* A classification (controlled vocabulary) _#... more to come ...#_ 
+* A dataset _#... more to come ...#_ 
+* A information model _#... more to come ...#_ 
+* A service of an event _#... more to come ...#_ 
+* _#... more to come ...#_ 
+
+A concept may refer to: 
+
+* A classification (controlled vocabulary) _#... more to come ...#_ 
+* _#... more to come ...#_ 
