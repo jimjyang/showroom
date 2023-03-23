@@ -10,6 +10,7 @@ ifdef::backend-pdf[:toc: macro]
 // :sectlinks:
 :sectanchors:
 :table-stripes: even
+:xrefstyle: short
 
 
 // _Updated: 2023-03-20_
