@@ -32,7 +32,7 @@ _... more to come ..._
 
 === Explanation - hierarchical concept relations
 
-<<img-hierarchical-relations>> illustrates the hierarchically relations between the demo concepts that are in the above mentioned RDF Turtle file. 
+<<img-hierarchical-relations>> illustrates some of the hierarchically relations between the demo concepts that are in the above mentioned RDF Turtle file. 
 [[img-hierarchical-relations]]
 .Tows of describing hierarchical relations. 
 [link=images/hierarchical-relations-explanations.png]
