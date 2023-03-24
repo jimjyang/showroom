@@ -1,0 +1,50 @@
+include::../locale/attributes.adoc[]
+= Jim's showroom - demo classifications
+:doctype: book
+:docinfo:
+:icons: font
+:toc: left
+ifdef::backend-pdf[:toc: macro]
+:toc-title: Content
+:toclevels: 4
+// :sectlinks:
+:sectanchors:
+:table-stripes: even
+:xrefstyle: short
+
+
+Welcome to the showroom for https://data.norge.no/specification/xkos-ap-no[XKOS-AP-NO, window="_blank", role="ext-link"] (the Norwegian application profile of XKOS for describing and publishing classifications (controlled vocabularies))! 
+
+== Demo classifications 
+
+We have here a link:files/demo-classifications.ttl[RDF Turtle file] with a demo classification illustrating the usage of XKOS-AP-NO:
+
+* The demo classification is openly available and #will be# described in the #demo catalog#.
+* These demo classification is meant
+** to demonstrate machine-readable description of the classification and the categories it contains, in accordance with XKOS-AP-NO
+** to demonstrate some cross-references between concepts and other resources demonstrated in some of the other showrooms
+** to be provided as reusable, machine-readable concept descriptions, for testing and demonstration purposes 
+
+== Some explanations ...
+
+_#... more to come ...#_ 
+
+[[img-demo-classification]]
+.Graphical illustration of the demo classification with its categories. 
+[link=images/demo-classification1.png]
+image::images/demo-classification1.png[alt="Graph with nodes and relations between the nodes. The content is explained in the text."]
+
+ 
+== Cross-reference with other demo resources
+
+A classification may be referred to from:
+
+* A dataset _#... more to come ...#_ 
+* A information model _#... more to come ...#_ 
+* A service of an event _#... more to come ...#_ 
+* _#... more to come ...#_ 
+
+A classification may refer to: 
+
+* A concep _#... more to come ...#_ 
+* _#... more to come ...#_ 
