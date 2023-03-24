@@ -22,7 +22,7 @@ ifdef::backend-pdf[:toc: macro]
 
 include::overview.adoc[]
 
-== Demo resources 
+== Showrooms with demo resources 
 
 include::democlassifications.adoc[]
 
