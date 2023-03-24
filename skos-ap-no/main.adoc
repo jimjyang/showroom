@@ -15,7 +15,7 @@ ifdef::backend-pdf[:toc: macro]
 
 Welcome to the showroom for https://data.norge.no/specification/skos-ap-no-begrep[SKOS-AP-NO-Begrep, window="_blank", role="ext-link"] (the Norwegian application profile of SKOS for describing and publishing concepts and concept collections)! 
 
-== Demo concepts 
+== Demo concepts [[demo-concepts]]
 
 We have here a link:files/demo-concepts.ttl[RDF Turtle file] with demo concepts illustrating the usage of SKOS-AP-NO-Begrep:
 
@@ -26,15 +26,15 @@ We have here a link:files/demo-concepts.ttl[RDF Turtle file] with demo concepts 
 ** to demonstrate some cross-references between concepts and other resources demonstrated in some of the other showrooms
 ** to be provided as reusable, machine-readable concept descriptions, for testing and demonstration purposes 
 
-== Some explanations of the demo concepts
+== Some explanations of the demo concepts [[explanations]]
 
 *Disclaimer*: The machine-readable demo concepts are meant for demo purposes only. They do not represent any real world concepts at all. On the other hand, they are supposed to syntactically conform to SKOS-AP-NO-Begrep v.2.x. 
 
-=== Explanation - associative concept relations
+=== Explanation - associative concept relations [[associative-relations]]
 
 _#... more to come ...#_ 
 
-=== Explanation - hierarchical concept relations
+=== Explanation - hierarchical concept relations [[hierarchical-relations]]
 
 <<img-hierarchical-relations>> illustrates some of the hierarchically relations between the demo concepts that are in the above mentioned RDF Turtle file. 
 
@@ -47,7 +47,7 @@ The figure illustrates in particular the two different ways of describing hierar
 
 *  _#... more to come ...#_  
  
-== Cross-reference with other demo resources
+== Cross-reference with other demo resources [[cross-references]]
 
 A concept may be referred to from:
 
@@ -62,6 +62,6 @@ A concept may refer to:
 * A classification (controlled vocabulary) _#... more to come ...#_ 
 * _#... more to come ...#_ 
 
-== _to the overview of the showrooms_
+== _to the overview of the showrooms_ [[to-overview]]
 
 https://jimjyang.github.io/showroom/#showrooms[Click here for the overview of all the showrooms]
