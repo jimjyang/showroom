@@ -20,7 +20,7 @@ Welcome to the showroom for https://data.norge.no/specification/modelldcat-ap-no
 
 We have here a link:files/demo-models.ttl[RDF Turtle file] with demo information models illustrating the usage of ModellDCAT-AP-NO
 
-* The demo models #will be# automatically harvested to and thus published via the demo catalog. 
+* The demo models #will be# automatically harvested to and thus published via https://jimjyang.github.io/showroom/#about-demo-catalog[the demo catalog]. 
 * These demo models are meant to 
 ** demonstrate how to describe an information model in accordance with ModellDCAT-AP-NO, at the model level (i.e., without describing the model elements)
 ** demonstrate how to describe relations between information models, in accordance with ModellDCAT-AP-NO

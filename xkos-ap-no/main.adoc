@@ -19,7 +19,7 @@ Welcome to the showroom for https://data.norge.no/specification/xkos-ap-no[XKOS-
 
 We have here a link:files/demo-classifications.ttl[RDF Turtle file] with a demo classification illustrating the usage of XKOS-AP-NO:
 
-* The demo classification is openly available as an open dataset and #will be# listed/described in and made findable via link:../docs/demo-catalog.adoc[the demo catalog].
+* The demo classification is openly available as an open dataset and #will be# listed/described in and made findable via https://jimjyang.github.io/showroom/#about-demo-catalog[the demo catalog].
 * These demo classification is meant
 ** to demonstrate machine-readable description of a classification and the categories it contains, in accordance with XKOS-AP-NO
 ** to demonstrate some cross-references between classifications and other resources demonstrated in some of the other showrooms
