@@ -2,7 +2,7 @@
 
 Some of the RDF-based Norwegian national specifications for data sharing and reuse: 
 
-* https://informasjonsforvaltning.github.io/cpsv-ap-no/[CPSV-AP-NO, window="_blank", role="ext-link"], the Norwegian application profile for describing services and events (the specifications for RDF-representations are in English as well, #currently as a trial version#). 
+* https://informasjonsforvaltning.github.io/cpsv-ap-no/[CPSV-AP-NO, window="_blank", role="ext-link"], the Norwegian application profile of CPSV-AP for describing services and events (the specifications for RDF-representations are in English as well, #currently as a trial version#). 
 
 * https://data.norge.no/specification/dcat-ap-no[DCAT-AP-NO, window="_blank", role="ext-link"], the Norwegian application profile of DCAT for describing datasets, data services and data catalogs (in Norwegian only). 
 
