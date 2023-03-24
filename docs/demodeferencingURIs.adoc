@@ -2,4 +2,4 @@
 
 In this showroom we will demonstrate the principle of and practice in dereferencing URIs. 
 
-_#... more to come ...#_
+_#... this showroom is under construction and will be opened soon ...#_ 
