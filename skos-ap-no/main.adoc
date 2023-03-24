@@ -17,14 +17,18 @@ Welcome to the showroom for https://data.norge.no/specification/skos-ap-no-begre
 
 == Demo concepts 
 
-We have here a link:files/demo-concepts.ttl[RDF Turtle file] with demo concepts illustrating the usage of SKOS-AP-NO-Begrep
+We have here a link:files/demo-concepts.ttl[RDF Turtle file] with demo concepts illustrating the usage of SKOS-AP-NO-Begrep:
 
-* The demo concepts #will be# automatically harvested to and thus published via the demo catalog, after the catalog is modified to harvesting concept descriptions in accordance with v.2 of SKOS-AP-NO-Begrep.
-* These demo concepts are currently meant to 
-** demonstrate how to describe concepts in accordance with SKOS-AP-NO-Begrep.
-** demonstrate how to describe relations between concepts, in accordance with SKOS-AP-NO-Begrep.   
-*** be referenced to as machine-readable RDF resources, for testing and demonstration purposes. 
-* _#... more to come ...#_ 
+* The demo concepts #(when the demo catalog conforms to v.2 of SKOS-AP-NO-Begrep) will be# automatically harvested to and thus published via the demo catalog.
+* These demo concepts are meant
+** to demonstrate machine-readable descriptions in accordance with SKOS-AP-NO-Begrep v.2.x
+** to demonstrate in particular how to describe concept relations, in accordance with SKOS-AP-NO-Begrep v.2.x
+** to demonstrate some cross-references between concepts and other resources demonstrated in some of the other showrooms
+** to be provided as reusable, machine-readable concept descriptions, for testing and demonstration purposes 
+
+== Some explanations of the demo concepts
+
+*Disclaimer*: The machine-readable demo concepts are meant for demo purposes only. They do not represent any real world concepts at all. On the other hand, they are supposed to syntactically conform to SKOS-AP-NO-Begrep v.2.x. 
 
 === Explanation - associative concept relations
 
