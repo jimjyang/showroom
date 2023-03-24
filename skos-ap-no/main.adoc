@@ -37,12 +37,13 @@ _#... more to come ...#_
 === Explanation - hierarchical concept relations
 
 <<img-hierarchical-relations>> illustrates some of the hierarchically relations between the demo concepts that are in the above mentioned RDF Turtle file. 
+
 [[img-hierarchical-relations]]
 .Tows of describing hierarchical relations. 
 [link=images/hierarchical-relations-explanations.png]
 image::images/hierarchical-relations-explanations.png[alt="Figure with hierarchical relations. The content is explained in the text."]
 
-In accordance to SKOS-AP-NO-Begrep, there two different ways of describing a hierarchically concept relation:  
+The figure illustrates in particular the two different ways of describing hierarchical concept relations, in accordance with SKOS-AP-NO-Begrep v.2.x: 
 
 *  _#... more to come ...#_  
  
