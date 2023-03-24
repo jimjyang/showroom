@@ -2,18 +2,18 @@
 
 Some of the RDF-based Norwegian national specifications for data sharing and reuse: 
 
-* https://informasjonsforvaltning.github.io/cpsv-ap-no/[CPSV-AP-NO], the Norwegian application profile for describing services and events (the specifications for RDF-representations are in English as well, #currently as a trial version#). 
+* https://informasjonsforvaltning.github.io/cpsv-ap-no/[CPSV-AP-NO, window="_blank", role="ext-link"], the Norwegian application profile for describing services and events (the specifications for RDF-representations are in English as well, #currently as a trial version#). 
 
-* https://data.norge.no/specification/dcat-ap-no[DCAT-AP-NO], the Norwegian application profile of DCAT for describing datasets, data services and data catalogs (in Norwegian only). 
+* https://data.norge.no/specification/dcat-ap-no[DCAT-AP-NO, window="_blank", role="ext-link"], the Norwegian application profile of DCAT for describing datasets, data services and data catalogs (in Norwegian only). 
 
-* https://data.norge.no/specification/modelldcat-ap-no[ModellDCAT-AP-NO], the Norwegian application profile of DCAT for describing information models and catalogs of information models (in Norwegian only). 
+* https://data.norge.no/specification/modelldcat-ap-no[ModellDCAT-AP-NO, window="_blank", role="ext-link"], the Norwegian application profile of DCAT for describing information models and catalogs of information models (in Norwegian only). 
 
-* https://data.norge.no/specification/skos-ap-no-begrep[SKOS-AP-NO-Begrep], the Norwegian application profile of SKOS for describing and publishing concepts and concept collections (the specifications for RDF-representations are in English as well). 
+* https://data.norge.no/specification/skos-ap-no-begrep[SKOS-AP-NO-Begrep, window="_blank", role="ext-link"], the Norwegian application profile of SKOS for describing and publishing concepts and concept collections (the specifications for RDF-representations are in English as well). 
 
-* https://data.norge.no/specification/xkos-ap-no[XKOS-AP-NO], the Norwegian application profile of XKOS for describing and publishing classifications (incl. controlled vocabularies etc.) (the specifications for RDF-representations are in English as well). 
+* https://data.norge.no/specification/xkos-ap-no[XKOS-AP-NO, window="_blank", role="ext-link"], the Norwegian application profile of XKOS for describing and publishing classifications (incl. controlled vocabularies etc.) (the specifications for RDF-representations are in English as well). 
 
 Some online (RDF-based) resources:
 
-* https://data.norge.no/about[The National Data Catalog of Norway], overview of descriptions of datasets, concepts, APIs, information models, events and services. 
+* https://data.norge.no/about[The National Data Catalog of Norway, window="_blank", role="ext-link"], overview of descriptions of datasets, concepts, APIs, information models, events and services. 
 
-* https://demo.fellesdatakatalog.digdir.no/[the Demo catalog], meant to be used to test and demonstrate the functionalities of https://data.norge.no/about[The National Data Catalog of Norway] mentioned above.
+* https://demo.fellesdatakatalog.digdir.no/[the Demo catalog, window="_blank", role="ext-link"], meant to be used to test and demonstrate the functionalities of https://data.norge.no/about[The National Data Catalog of Norway, window="_blank", role="ext-link"] mentioned above.
