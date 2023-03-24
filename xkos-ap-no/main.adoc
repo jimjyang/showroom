@@ -42,7 +42,7 @@ _#... more to come ...#_
 A classification may be referred to from:
 
 * A dataset _#... more to come ...#_ 
-* A information model _#... more to come ...#_ 
+* An information model _#... more to come ...#_ 
 * A service of an event _#... more to come ...#_ 
 * _#... more to come ...#_ 
 
