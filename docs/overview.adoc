@@ -2,7 +2,7 @@
 
 *Disclaimer*: The demo resources made available from the various showrooms are meant for demo purposes only.  
 
-The main purpose of the showrooms is to demonstrate 
+The *main purpose* of the showrooms is to demonstrate 
 
 * how to use the various RDF-based Norwegian national specifications to make available  machine-readable resources in accordance with the specifications, 
 * how to cross-reference/link between the resources across the specifications.  
