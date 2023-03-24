@@ -23,14 +23,17 @@ We have here a link:files/demo-classifications.ttl[RDF Turtle file] with a demo 
 * These demo classification is meant
 ** to demonstrate machine-readable description of a classification and the categories it contains, in accordance with XKOS-AP-NO
 ** to demonstrate some cross-references between classifications and other resources demonstrated in some of the other showrooms
-** to be provided as reusable, machine-readable classification, for testing and demonstration purposes 
+** to be provided as a reusable, machine-readable classification, for testing and demonstration purposes 
 
 == Some explanations ... [[explanations]]
 
-<<img-demo-classification>> illustrates graphically the demo classification and its categories. 
+*Disclaimer*: The machine-readable demo classification and its demo categories are meant for demo purposes only. They do not represent any real world phenomena at all. On the other hand, they are supposed to syntactically conform to XKOS-AP-NO. 
+
+
+<<img-demo-classification>> illustrates graphically the demo classification and its demo categories. 
 
 [[img-demo-classification]]
-.Graphical illustration of the demo classification with its categories. 
+.Graphical illustration of the demo classification with its demo categories. 
 [link=images/demo-classification1.png]
 image::images/demo-classification1.png[alt="Graph with nodes and relations between the nodes. The content is explained in the text."]
 
@@ -43,7 +46,7 @@ A classification may be referred to from:
 
 * A dataset _#... more to come ...#_ 
 * An information model _#... more to come ...#_ 
-* A service of an event _#... more to come ...#_ 
+* A service or an event _#... more to come ...#_ 
 * _#... more to come ...#_ 
 
 A classification may refer to: 
