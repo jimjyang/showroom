@@ -25,7 +25,7 @@ We have here a link:files/demo-models.ttl[RDF Turtle file] with demo information
 ** demonstrate how to describe an information model in accordance with ModellDCAT-AP-NO, at the model level (i.e., without describing the model elements)
 ** demonstrate how to describe relations between information models, in accordance with ModellDCAT-AP-NO
 ** demonstrate cross-references between information models and some other resources demonstrated in some of the other showrooms
-** be provided as machine-readable RDF-based concept descriptions, for testing and demonstration purposes
+** be provided as machine-readable RDF-based model descriptions, for testing and demonstration purposes
  
 == Some explanations of the demo information models [[explanations]]
 
