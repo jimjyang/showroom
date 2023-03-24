@@ -16,7 +16,7 @@ ifdef::backend-pdf[:toc: macro]
 
 Welcome to the showroom for https://data.norge.no/specification/modelldcat-ap-no[ModellDCAT-AP-NO, window="_blank", role="ext-link"] (the Norwegian application profile of DCAT for describing information models and catalogs of information models)!
 
-== Demo information models 
+== Demo information models [[demo-models]]
 
 We have here a link:files/demo-models.ttl[RDF Turtle file] with demo information models illustrating the usage of ModellDCAT-AP-NO
 
@@ -27,13 +27,13 @@ We have here a link:files/demo-models.ttl[RDF Turtle file] with demo information
 ** demonstrate cross-references between information models and some other resources demonstrated in some of the other showrooms
 ** be provided as machine-readable RDF-based concept descriptions, for testing and demonstration purposes
  
-== Some explanations of the demo information models
+== Some explanations of the demo information models [[explanations]]
 
 *Disclaimer*: The machine-readable demo information models are meant for demo purposes only. They do not represent any real world fenomena at all. On the other hand, they are supposed to syntactically conform to ModellDCAT-AP-NO v.1.x.
 
 _#... more may come ...#_  
 
-== Cross-references with other demo resources
+== Cross-references with other demo resources [[cross-references]]
 
 An information model may refer to:
 
@@ -46,6 +46,6 @@ An information model may be referred to from:
 * A dataset _#... more to come ...#_ 
 * _#... more to come ...#_  
 
-== _to the overview of the showrooms_
+== _to the overview of the showrooms_ [[to-overview]]
 
 https://jimjyang.github.io/showroom/#showrooms[Click here for the overview of all the showrooms]
