@@ -5,7 +5,7 @@ include::../locale/attributes.adoc[]
 :icons: font
 :toc: left
 ifdef::backend-pdf[:toc: macro]
-:toc-title: Showrooms
+:toc-title: Jim's showrooms
 :toclevels: 4
 // :sectlinks:
 :sectanchors:
