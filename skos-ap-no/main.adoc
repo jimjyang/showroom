@@ -19,7 +19,7 @@ Welcome to the showroom for https://data.norge.no/specification/skos-ap-no-begre
 
 We have here a link:files/demo-concepts.ttl[RDF Turtle file] with demo concepts illustrating the usage of SKOS-AP-NO-Begrep:
 
-* The demo concepts #(when the demo catalog conforms to v.2 of SKOS-AP-NO-Begrep) will be# automatically harvested to and thus published via the demo catalog.
+* The demo concepts #(when the demo catalog conforms to v.2 of SKOS-AP-NO-Begrep) will be# automatically harvested to and thus published via the #demo catalog#.
 * These demo concepts are meant
 ** to demonstrate machine-readable descriptions in accordance with SKOS-AP-NO-Begrep v.2.x
 ** to demonstrate in particular how to describe concept relations, in accordance with SKOS-AP-NO-Begrep v.2.x
