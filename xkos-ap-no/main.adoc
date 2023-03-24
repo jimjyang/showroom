@@ -34,7 +34,7 @@ We have here a link:files/demo-classifications.ttl[RDF Turtle file] with a demo 
 [link=images/demo-classification1.png]
 image::images/demo-classification1.png[alt="Graph with nodes and relations between the nodes. The content is explained in the text."]
 
- _#... more to come ...#_ 
+_#... more to come ...#_ 
 
 
 == Cross-reference with other demo resources
@@ -50,3 +50,5 @@ A classification may refer to:
 
 * A concept _#... more to come ...#_ 
 * _#... more to come ...#_ 
+
+== link:../docs/main.adoc#showrooms[to the other showrooms]

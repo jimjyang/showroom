@@ -1,4 +1,4 @@
-== About the demo catalog 
+== About the demo catalog [[about-demo-catalog]]
 
 The demo resources that are demonstrated in the various showrooms here are, or will be, automatically harvested to and thus published via https://demo.fellesdatakatalog.digdir.no/[the demo catalog]. 
 
