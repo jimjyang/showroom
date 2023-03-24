@@ -15,10 +15,15 @@ ifdef::backend-pdf[:toc: macro]
 
 // _Updated: 2023-03-20_
 
-_Welcome to the showrooms created by Jim at the https://www.digdir.no/[Norwegian Digitalisation Agency (Digdir), window="_blank", role="ext-link"], with RDF-based machine-readable demo resources meant to demonstrate_ 
+Welcome to the showrooms created by Jim at the https://www.digdir.no/[Norwegian Digitalisation Agency (Digdir), window="_blank", role="ext-link"]!
+
+*Purpose*: The showrooms are created and used to provide RDF-based machine-readable demo resources which are meant to demonstrate 
 
 * _the usage of various RDF-based Norwegian national specifications for data sharing and reuse,_
 * _cross-references between the demo resources across the specifications._
+
+*Feedback*: Please provide your feedback as https://github.com/jimjyang/showroom/issues[Github Issues]. 
+
 
 include::overview.adoc[]
 
