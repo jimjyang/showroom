@@ -1,5 +1,5 @@
 == Showroom with demo services and events [[demo-services-and-events]]
 
-In this showroom we will demonstrate the usage of https://informasjonsforvaltning.github.io/cpsv-ap-no/[CPSV-AP-NO, window="_blank", role="ext-link"] (the Norwegian application profile of CPSV-AP, for describing services and events).
+In this showroom we will demonstrate the usage of https://informasjonsforvaltning.github.io/cpsv-ap-no/[CPSV-AP-NO, window="_blank", role="ext-link"] (the Norwegian application profile of CPSV-AP), to describe events and services machine-readably, as well as cross-references between events/services and some of the other types of resources covered by the other specifications. 
 
 _#... more to come ...#_ 
