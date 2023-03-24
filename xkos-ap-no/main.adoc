@@ -51,4 +51,6 @@ A classification may refer to:
 * A concept _#... more to come ...#_ 
 * _#... more to come ...#_ 
 
-== link:../docs/main.adoc#showrooms[to the other showrooms]
+== https://jimjyang.github.io/showroom/#_showrooms_with_demo_resources[Overview over the showrooms]
+
+https://jimjyang.github.io/showroom/#_showrooms_with_demo_resources[Click here for the overview over all the showrooms]

@@ -46,3 +46,6 @@ An information model may be referred to from:
 * A dataset _#... more to come ...#_ 
 * _#... more to come ...#_  
 
+== https://jimjyang.github.io/showroom/#_showrooms_with_demo_resources[Overview over the showrooms]
+
+https://jimjyang.github.io/showroom/#_showrooms_with_demo_resources[Click here for the overview over all the showrooms]
