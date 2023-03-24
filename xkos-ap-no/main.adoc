@@ -19,7 +19,7 @@ Welcome to the showroom for https://data.norge.no/specification/xkos-ap-no[XKOS-
 
 We have here a link:files/demo-classifications.ttl[RDF Turtle file] with a demo classification illustrating the usage of XKOS-AP-NO:
 
-* The demo classification is openly available as an open dataset and #will be# listed/described in the #demo catalog#.
+* The demo classification is openly available as an open dataset and #will be# listed/described in and made findable via link:../docs/demo-catalog.adoc[the demo catalog].
 * These demo classification is meant
 ** to demonstrate machine-readable description of a classification and the categories it contains, in accordance with XKOS-AP-NO
 ** to demonstrate some cross-references between classifications and other resources demonstrated in some of the other showrooms
@@ -36,7 +36,7 @@ image::images/demo-classification1.png[alt="Graph with nodes and relations betwe
 
  _#... more to come ...#_ 
 
- 
+
 == Cross-reference with other demo resources
 
 A classification may be referred to from:
@@ -48,5 +48,5 @@ A classification may be referred to from:
 
 A classification may refer to: 
 
-* A concep _#... more to come ...#_ 
+* A concept _#... more to come ...#_ 
 * _#... more to come ...#_ 

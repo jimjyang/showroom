@@ -36,10 +36,8 @@ include::demoeventsandservices.adoc[]
 
 include::demodeferencingURIs.adoc[]
 
-== About the demo catalog 
+// end of showrooms
 
-_... maybe some words about the demo catalog ..._
+include::demo-catalog.adoc[]
 
-== References
-
-_... maybe a collection here links to e.g. the specifications with short explanation? ..._
+include::references.adoc[]
