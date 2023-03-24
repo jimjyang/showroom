@@ -1,6 +1,11 @@
 == Overview and cross-references between the showrooms [[overview]]
 
-The main purpose of these showrooms is to demonstrate how to use the various Norwegian RDF-based national specifications to describe and publish descriptions machine-readably, and to cross-reference/link between the resources across the specifications. 
+*Disclaimer*: The demo resources made available from the various showrooms are meant for demo purposes only.  
+
+The main purpose of the showrooms is to demonstrate 
+
+* how to use the various RDF-based Norwegian national specifications to make available  machine-readable resources in accordance with the specifications, 
+* how to cross-reference/link between the resources across the specifications.  
 
 <<img-overiew>> illustrates some of the cross-references between the resource types that are demonstrated in the showrooms. 
 
