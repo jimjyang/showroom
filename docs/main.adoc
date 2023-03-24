@@ -22,14 +22,24 @@ ifdef::backend-pdf[:toc: macro]
 
 include::overview.adoc[]
 
+== Demo resources 
+
+include::democlassifications.adoc[]
+
 include::democoncepts.adoc[]
 
 include::demomodels.adoc[]
 
 include::demodatasets.adoc[]
 
-include::democlassifications.adoc[]
-
 include::demoeventsandservices.adoc[]
 
 include::demodeferencingURIs.adoc[]
+
+== About the demo catalog 
+
+_... maybe some words about the demo catalog ..._
+
+== References
+
+_... maybe a collection here links to e.g. the specifications with short explanation? ..._
