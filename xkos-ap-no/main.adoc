@@ -40,7 +40,7 @@ image::images/demo-classification1.png[alt="Graph with nodes and relations betwe
 _#... more to come ...#_ 
 
 
-== Cross-reference with other demo resources [[cross-references]]
+== Cross-references with other demo resources [[cross-references]]
 
 A classification may be referred to from:
 
