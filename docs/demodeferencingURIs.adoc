@@ -1,4 +1,4 @@
-=== Demo dereferenced URIs [[demo-uris]]
+=== Dereferenced URIs [[demo-uris]]
 
 When making reusable and machine-readable information resources available, it is important to use unique and persistent identifiers. Conf. e.g. https://www.digdir.no/standarder/peikarar-til-offentlege-ressursar-pa-nett/1492[the Norwegian URI-standard, window="_blank", role="ext-link"] (in Norwegian only).
 
