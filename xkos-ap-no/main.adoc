@@ -42,6 +42,8 @@ _#... more to come ...#_
 
 == Cross-references with other demo resources [[cross-references]]
 
+A classification may and should be considered as dataset. Our demo classification #will be# listed/described in and made findable via https://jimjyang.github.io/showroom/#about-demo-catalog[the demo catalog], as an open dataset. 
+
 A classification may be referred to from:
 
 * A dataset _#... more to come ...#_ 

@@ -8,5 +8,5 @@ Examples for how to find some of the demo resources shown here in the demo catal
 
 * demo classifications / datasets (#not yet published there#): by https://demo.fellesdatakatalog.digdir.no/datasets?q=demo[searching "demo" in the "Datasets" part of the demo catalog, window="_blank", role="ext-link"].
 * demo concepts (#not yet published there#): by https://demo.fellesdatakatalog.digdir.no/concepts?q=demo[searching "demo" in the "Concepts" part of the demo catalog, window="_blank", role="ext-link"]. 
-* demo information models (#not yet published there#): by https://demo.fellesdatakatalog.digdir.no/informationmodels?q=demomodel[searching "demomodel" in the "Information models" part of the demo catalog, window="_blank", role="ext-link"].
+* demo information models: by https://demo.fellesdatakatalog.digdir.no/informationmodels?q=demomodel[searching "demomodel" in the "Information models" part of the demo catalog, window="_blank", role="ext-link"].
 
