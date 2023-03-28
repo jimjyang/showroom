@@ -17,43 +17,52 @@ Welcome to the showroom for https://data.norge.no/specification/xkos-ap-no[XKOS-
 
 == Demo classifications [[demo-classifications]]
 
-We have here a link:files/demo-classifications.ttl[RDF Turtle file] with a demo classification illustrating the usage of XKOS-AP-NO:
+In this showroom We have a https://w3id.org/demo-resources/demo-classifications[demo classification], a demo controlled vocabulary, illustrating the usage of XKOS-AP-NO:
 
 * The demo classification is openly available as an open dataset and #will be# listed/described in and made findable via https://jimjyang.github.io/showroom/#about-demo-catalog[the demo catalog].
-* These demo classification is meant
-** to demonstrate machine-readable description of a classification and the categories it contains, in accordance with XKOS-AP-NO
+* The demo classification is meant
+** to demonstrate machine-readable descriptions of a classification and the categories it contains, in accordance with XKOS-AP-NO
 ** to demonstrate some cross-references between classifications and other resources demonstrated in some of the other showrooms
-** to be provided as a reusable, machine-readable classification, for testing and demonstration purposes 
+** to be provided as a reusable, machine-readable classification and its categories, for testing and demonstration purposes 
 
-== Some explanations ... [[explanations]]
+== Some explanations of the demo classification [[explanations]]
 
 *Disclaimer*: The machine-readable demo classification and its demo categories are meant for demo purposes only. They do not represent any real world phenomena at all. On the other hand, they are supposed to syntactically conform to XKOS-AP-NO. 
 
 
-<<img-demo-classification>> illustrates graphically the demo classification and its demo categories. 
+<<img-demo-classification>> illustrates graphically the demo classification,  its demo categories and relations between them. 
 
 [[img-demo-classification]]
-.Graphical illustration of the demo classification with its demo categories. 
+.Graphical illustration of the demo classification and its demo categories. 
 [link=images/demo-classification1.png]
 image::images/demo-classification1.png[alt="Graph with nodes and relations between the nodes. The content is explained in the text."]
 
-_#... more to come ...#_ 
+
+As illustrated in the figure, this classification, called "https://w3id.org/demo-resources/demo-classifications#demoClassification1[Demo controlled vocabulary 1]" has: 
+
+* two classification levels, "Demo level 1" and "Demo level 2"
+** "	
+https://w3id.org/demo-resources/demo-classifications#demoLev1[Demo level 1]" contains categories "Demo category A" and "Demo category B"
+** "	
+https://w3id.org/demo-resources/demo-classifications#demoLev2[Demo level 2]" contains categories "Demo category A.1" and "Demo category A.2"
+* "https://w3id.org/demo-resources/demo-classifications#demo-category-A[Demo category A]" is further specialized into (at "D"emo level 2") categories "https://w3id.org/demo-resources/demo-classifications#demo-category-A1[Demo category A.1]" and "https://w3id.org/demo-resources/demo-classifications#demo-category-A2[Demo category A.2]". 
+** "Demo category A" represents, and thus also refers to, "https://w3id.org/demo-resources/demo-concepts#demoCpt1[Demo concept 1]". Similarly "https://w3id.org/demo-resources/demo-classifications#demo-category-B[Demo category B]" representing/referring to "https://w3id.org/demo-resources/demo-concepts#demoCpt1[demo concept 2]", etc. 
 
 
 == Cross-references with other demo resources [[cross-references]]
 
-A classification may and should be considered as dataset. Our demo classification #will be# listed/described in and made findable via https://jimjyang.github.io/showroom/#about-demo-catalog[the demo catalog], as an open dataset. 
+A classification with its categories, may and should be considered as dataset. Our demo classification ("Demo controlled vocabulary 1") #will be# listed/described in and made findable via https://jimjyang.github.io/showroom/#about-demo-catalog[the demo catalog], as an open dataset. 
+
+A classification may refer to: 
+
+* A concept _#... more to come ...#_ 
+* _#... more to come ...#_ 
 
 A classification may be referred to from:
 
 * A dataset _#... more to come ...#_ 
 * An information model _#... more to come ...#_ 
 * A service or an event _#... more to come ...#_ 
-* _#... more to come ...#_ 
-
-A classification may refer to: 
-
-* A concept _#... more to come ...#_ 
 * _#... more to come ...#_ 
 
 == _to the overview of the showrooms_ [[to-overview]]
