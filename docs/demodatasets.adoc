@@ -2,4 +2,4 @@
 
 In this showroom we demonstrate the usage of https://data.norge.no/specification/dcat-ap-no[DCAT-AP-NO, window="_blank", role="ext-link"] (the Norwegian application profile of DCAT), to describe and publish machine-readable descriptions of datasets. Some cross-references between datasets and some of the other types of resources covered by the other specifications will also be demonstrated and explained. 
 
-_#... this showroom is under construction and will be opened soon ...#_ 
+https://https://jimjyang.github.io/showroom/dcat-ap-no/[Come on in]

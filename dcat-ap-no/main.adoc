@@ -17,18 +17,26 @@ Welcome to the showroom for https://data.norge.no/specification/dcat-ap-no[DCAT-
 
 == Demo datasets [[demo-datasets]]
 
-_... #more to com# ..._
+In this showroom we have a https://w3id.org/demo-resources/demo-datasets#demoDataset1[demo dataset, called "Demo controlled vocabulary 1"], illustrating the usage of DCAT-AP-NO: 
+* The RDF Turtle representation of the data catalog containing this demo dataset, is automatically harvested in to the demo catalog and thus https://demo.fellesdatakatalog.digdir.no/datasets?q=demodataset[searchable/findable via the demo catalog].
+
+
 
 == Some explanations of the demo datasets [[explanations]]
 
 *Disclaimer*: The machine-readable demo datasets are meant for demo purposes only. They do not represent any real world phenomena at all. On the other hand, they are supposed to syntactically conform to DCAT-AP-NO. 
 
-_... #more to com# ..._
+Some explanations about the demo dataset that is demonstrated in this showroom:
+
+* The demo dataset shown here, is exactly the same as the demo classification called "Demo controlled vocabulary 1" that is demonstrated in https://jimjyang.github.io/showroom/xkos-ap-no/[the showroom for XKOS-AP-NO]. 
+** This is because a classification with its categories _is_ a dataset.   
+** The difference is: The showroom here illustrates how to describe a dataset in accordance with DCAT-AP-NO, while the showroom for XKOS-AP-NO illustrates how to make the dataset itself available. 
+* The demo dataset (= our demo classification) is here described as an open dataset (with an open licence and made freely available).
 
  
 == Cross-references with other demo resources [[cross-references]]
 
-_... #more to com# ..._
+_... #more to come# ..._
 
 == _to the overview of the showrooms_ [[to-overview]]
 
