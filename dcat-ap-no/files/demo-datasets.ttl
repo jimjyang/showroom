@@ -51,7 +51,7 @@
  
 <https://w3id.org/demo-resources/demo-datasets#demoDistribution1>
    rdf:type dcat:Distribution;
-   dcat:accessURL <https://jimjyang.github.io/showroom/dcat-ap-no/fiels/demo-datasets.ttl>;
+   dcat:accessURL <https://w3id.org/demo-resources/demo-datasets.ttl>;
    dct:description """Demo på en distribusjon"""@nb,
        """Demo distribution"""@en;
    dct:format <http://publications.europa.eu/resource/authority/file-type/RDF_TURTLE>;
@@ -68,4 +68,4 @@
    owl:versionInfo """1.0""";
    .
  
-#### End of the file, 2023-03-28 12:23:16
+#### End of the file, 2023-03-28 13:50:50
