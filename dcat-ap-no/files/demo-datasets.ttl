@@ -38,7 +38,7 @@
    dct:identifier "https://w3id.org/demo-resources/demo-classifications#demoClassification1"^^xsd:anyURI;
    dcat:theme <http://publications.europa.eu/resource/authority/data-theme/GOVE>;
    dct:title """Demo kontrollert vokabular 1"""@nb,
-       """Demo kontrollert vokabular 1"""@en;
+       """Demo controlled vocabulary 1"""@en;
    dct:publisher <https://organization-catalog.fellesdatakatalog.digdir.no/organizations/921234554>;
    dct:subject <https://w3id.org/demo-resources/demo-concepts/demoCpt1>,
        <https://w3id.org/demo-resources/demo-concepts/demoCpt2>;
@@ -68,4 +68,4 @@
    owl:versionInfo """1.0""";
    .
  
-#### End of the file, 2023-03-28 13:50:50
+#### End of the file, 2023-03-28 14:16:21
