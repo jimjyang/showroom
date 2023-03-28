@@ -1,0 +1,35 @@
+include::../locale/attributes.adoc[]
+= Jim's showroom - demo services and events
+:doctype: book
+:docinfo:
+:icons: font
+:toc: left
+ifdef::backend-pdf[:toc: macro]
+:toc-title: Content
+:toclevels: 4
+// :sectlinks:
+:sectanchors:
+:table-stripes: even
+:xrefstyle: short
+
+
+Welcome to the showroom for https://informasjonsforvaltning.github.io/cpsv-ap-no/[CPSV-AP-NO, window="_blank", role="ext-link"] (the Norwegian application profile of CPSV-AP for describing services and events)! 
+
+== Demo services and events [[demo-services-events]]
+
+_... #more to com# ..._
+
+== Some explanations of the demo services and events [[explanations]]
+
+*Disclaimer*: The machine-readable demo services and events are meant for demo purposes only. They do not represent any real world phenomena at all. On the other hand, they are supposed to syntactically conform to CPSV-AP-NO. 
+
+_... #more to com# ..._
+
+ 
+== Cross-references with other demo resources [[cross-references]]
+
+_... #more to com# ..._
+
+== _to the overview of the showrooms_ [[to-overview]]
+
+https://jimjyang.github.io/showroom/#showrooms[Click here for the overview of all the showrooms]
