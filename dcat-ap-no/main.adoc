@@ -1,0 +1,35 @@
+include::../locale/attributes.adoc[]
+= Jim's showroom - demo datasets
+:doctype: book
+:docinfo:
+:icons: font
+:toc: left
+ifdef::backend-pdf[:toc: macro]
+:toc-title: Content
+:toclevels: 4
+// :sectlinks:
+:sectanchors:
+:table-stripes: even
+:xrefstyle: short
+
+
+Welcome to the showroom for https://data.norge.no/specification/dcat-ap-no[DCAT-AP-NO, window="_blank", role="ext-link"] (the Norwegian application profile of DCAT for describing datasets, data services and data catalogs)! 
+
+== Demo datasets [[demo-datasets]]
+
+_... #more to com# ..._
+
+== Some explanations of the demo datasets [[explanations]]
+
+*Disclaimer*: The machine-readable demo datasets are meant for demo purposes only. They do not represent any real world phenomena at all. On the other hand, they are supposed to syntactically conform to DCAT-AP-NO. 
+
+_... #more to com# ..._
+
+ 
+== Cross-references with other demo resources [[cross-references]]
+
+_... #more to com# ..._
+
+== _to the overview of the showrooms_ [[to-overview]]
+
+https://jimjyang.github.io/showroom/#showrooms[Click here for the overview of all the showrooms]
