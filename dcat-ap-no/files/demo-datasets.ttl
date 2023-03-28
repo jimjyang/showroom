@@ -43,6 +43,7 @@
    dct:subject <https://w3id.org/demo-resources/demo-concepts/demoCpt1>,
        <https://w3id.org/demo-resources/demo-concepts/demoCpt2>;
    dcat:distribution <https://w3id.org/demo-resources/demo-datasets#demoDistribution1>;
+   dct:spatial <http://publications.europa.eu/resource/authority/country/NOR>;
    dcat:keyword """Demo"""@nb,
        """Demo"""@en;
    dct:accessRights <http://publications.europa.eu/resource/authority/access-right/PUBLIC>;
@@ -58,6 +59,9 @@
    dct:license <http://publications.europa.eu/resource/authority/licence/CC0>;
    adms:status <http://purl.org/adms/status/Completed>;
    dcatap:availability <http://publications.europa.eu/resource/authority/planned-availability/AVAILABLE>;
+   dct:modified "2023-03-23"^^xsd:date;
+   dcat:downloadURL <https://w3id.org/demo-resources/demo-datasets.ttl>;
+   dct:issued "2023-03-23"^^xsd:date;
    .
  
 <https://w3id.org/demo-resources/demo-datasets#exStandard>
@@ -68,4 +72,4 @@
    owl:versionInfo """1.0""";
    .
  
-#### End of the file, 2023-03-28 14:23:44
+#### End of the file, 2023-03-28 14:48:48
