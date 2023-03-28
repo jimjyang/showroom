@@ -1,4 +1,4 @@
-# showroom | skos-ap-bo-begrep
+# showroom | skos-ap-no
 
 Jim's showroom, for demonstrating the usage of [the Norwegian application profile of SKOS (SKOS-AP-NO-Begrep)](https://data.norge.no/specification/skos-ap-no-begrep), for describing concepts and concept collections.
 
