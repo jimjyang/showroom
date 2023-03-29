@@ -52,19 +52,25 @@ https://w3id.org/demo-resources/demo-classifications#demoLev2[Demo level 2]" con
 
 == Cross-references with other demo resources [[cross-references]]
 
-A classification with its categories, may and should be considered as a dataset. Please visit our https://jimjyang.github.io/showroom/dcat-ap-no/[showroom with demo datasets], where we demonstrate how to make this demo classification https://demo.fellesdatakatalog.digdir.no/datasets?q=demodataset[findable via the demo catalog] as an open dataset.  
+Classifications and concepts: 
 
-A classification may refer to: 
+* #_... more to come ...-#
 
-* A concept _#... more to come ...#_ 
-* _#... more to come ...#_ 
+Classifications and datasets:
 
-A classification may be referred to from:
+* A classification with its categories, may and should be considered as a dataset. Please visit our https://jimjyang.github.io/showroom/dcat-ap-no/[showroom with demo datasets], where we demonstrate how to make this demo classification https://demo.fellesdatakatalog.digdir.no/datasets?q=demodataset[findable via the demo catalog] as an open dataset.
+* #_... more to come ...-#
 
-* A dataset _#... more to come ...#_ 
-* An information model _#... more to come ...#_ 
-* A service or an event _#... more to come ...#_ 
-* _#... more to come ...#_ 
+Classifications and information models:
+
+* #_... more to come ...-#
+  
+Classifications and services/events:
+
+* #_... more to come ...-#
+  
+
+
 
 == _to the overview of the showrooms_ [[to-overview]]
 
