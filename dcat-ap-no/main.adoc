@@ -15,7 +15,7 @@ ifdef::backend-pdf[:toc: macro]
 
 Welcome to the showroom for https://data.norge.no/specification/dcat-ap-no[DCAT-AP-NO, window="_blank", role="ext-link"] (the Norwegian application profile of DCAT for describing datasets, data services and data catalogs)! 
 
-== Demo datasets [[demo-datasets]]
+== Demo datasets [[demo-datasets]] 
 
 In this showroom we have a https://w3id.org/demo-resources/demo-datasets#demoDataset1[demo dataset, called "Demo controlled vocabulary 1"], illustrating the usage of DCAT-AP-NO: 
 * The RDF Turtle representation of the data catalog containing this demo dataset, is automatically harvested in to the demo catalog and thus https://demo.fellesdatakatalog.digdir.no/datasets?q=demodataset[searchable/findable via the demo catalog].
