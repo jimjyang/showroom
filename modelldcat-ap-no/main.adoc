@@ -51,4 +51,4 @@ An information model may be referred to from:
 
 == _to the overview of the showrooms_ [[to-overview]]
 
-https://jimjyang.github.io/showroom/#showrooms[Click here for the overview of all the showrooms]
+https://jimjyang.github.io/showroom/#overview[Click here for the overview of all the showrooms]
