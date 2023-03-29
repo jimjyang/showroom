@@ -52,7 +52,7 @@ https://w3id.org/demo-resources/demo-classifications#demoLev2[Demo level 2]" con
 
 == Cross-references with other demo resources [[cross-references]]
 
-A classification with its categories, may and should be considered as a dataset. Please visit our https://jimjyang.github.io/showroom/dcat-ap-no/[showroom with demo datasets], where we demonstrate how to make this demo classification https://demo.fellesdatakatalog.digdir.no/datasets?q=demodataset[findable via the demo catalog]. 
+A classification with its categories, may and should be considered as a dataset. Please visit our https://jimjyang.github.io/showroom/dcat-ap-no/[showroom with demo datasets], where we demonstrate how to make this demo classification https://demo.fellesdatakatalog.digdir.no/datasets?q=demodataset[findable via the demo catalog] as an open dataset.  
 
 A classification may refer to: 
 
