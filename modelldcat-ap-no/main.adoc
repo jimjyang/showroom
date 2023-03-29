@@ -20,10 +20,10 @@ Welcome to the showroom with demo information models, demonstrating the usage of
 
 This showroom is meant to
 
-* demonstrate how to describe an information model in accordance with ModellDCAT-AP-NO, at the model level (i.e., without describing the model elements)
-* demonstrate how to describe relations between information models, in accordance with ModellDCAT-AP-NO
-* demonstrate cross-references between information models and some other resources demonstrated in some of the other showrooms
-* provided reusable, machine-readable RDF-based model descriptions, for testing and demonstration purposes
+* demonstrate how to describe an information model in accordance with ModellDCAT-AP-NO, at the model level (i.e., without describing the model elements);
+* demonstrate how to describe relations between information models, in accordance with ModellDCAT-AP-NO;
+* demonstrate cross-references between information models and some other resources demonstrated in some of the other showrooms;
+* provide reusable, machine-readable RDF-based model descriptions, for testing and demonstration purposes.
  
 *_Disclaimer_*: _The machine-readable demo information models are meant for demo purposes only. They do not represent any real world fenomena at all. On the other hand, they are supposed to syntactically conform to ModellDCAT-AP-NO._
 
