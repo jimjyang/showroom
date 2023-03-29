@@ -2,11 +2,11 @@
 
 *_Disclaimer_*: _The demo resources made available from the various showrooms are meant for demo purposes only._  
 
-The *main purpose* of the showrooms is to demonstrate 
+The *main purpose* of the showrooms is to 
 
 * demonstrate how to use the various RDF-based Norwegian national specifications to make available  machine-readable resources in accordance with the specifications, 
 * demonstrate how to cross-reference/link between the resources across the specifications,
-* to provide machine-readable RDF-based resources, for testing and demonstration purposes. 
+* provide machine-readable RDF-based resources, for testing and demonstration purposes. 
 
 <<img-overiew>> illustrates some of the cross-references between the resource types that are demonstrated in the various showrooms. The cross-references will be explained in the respective showrooms. 
 
