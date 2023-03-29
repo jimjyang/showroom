@@ -38,7 +38,21 @@ In this showroom we have a https://w3id.org/demo-resources/demo-datasets#demoDat
  
 == Cross-references with other demo resources [[cross-references]]
 
-_... #more to come# ..._
+Datasets and classifications:
+
+* _... #more to come# ..._
+
+Datasets and concepts:
+
+* _... #more to come# ..._
+
+Datasets and information models:
+
+* _... #more to come# ..._
+
+Datasets and services/events:
+
+* _... #more to come# ..._
 
 == _to the overview of the showrooms_ [[to-overview]]
 
