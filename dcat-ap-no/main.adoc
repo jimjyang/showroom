@@ -15,7 +15,7 @@ ifdef::backend-pdf[:toc: macro]
 
 Welcome to the showroom with demo datasets, demonstrating the usage of https://data.norge.no/specification/dcat-ap-no[DCAT-AP-NO, window="_blank", role="ext-link"] (the Norwegian application profile of DCAT for describing datasets, data services and data catalogs)! 
 
-== Purpose [[purpose]] 
+== The purpose [[purpose]] 
 
 This showroom is meant to 
 
@@ -25,7 +25,7 @@ This showroom is meant to
 
 *_Disclaimer_*: _The machine-readable demo datasets are meant for demo purposes only. They do not represent any real world phenomena at all. On the other hand, they are supposed to syntactically conform to DCAT-AP-NO._ 
 
-== Demo resources [[demo-resources]]
+== The demo resources [[demo-resources]]
 
 In this showroom we have a https://w3id.org/demo-resources/demo-datasets#demoDataset1[demo dataset, called "Demo controlled vocabulary 1"]:
 
