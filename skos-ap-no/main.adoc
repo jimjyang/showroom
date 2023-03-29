@@ -15,7 +15,7 @@ ifdef::backend-pdf[:toc: macro]
 
 Welcome to the showroom with demo concepts, demonstrating the usage of https://data.norge.no/specification/skos-ap-no-begrep[SKOS-AP-NO-Begrep, window="_blank", role="ext-link"] (the Norwegian application profile of SKOS for describing and publishing concepts and concept collections)! 
 
-== Purpose [[purpose]]
+== The purpose [[purpose]]
 
 This showroom is meant to
 
@@ -27,7 +27,7 @@ This showroom is meant to
 *_Disclaimer_*: _The machine-readable demo concepts are meant for demo purposes only. They do not represent any real world concepts at all. On the other hand, they are supposed to syntactically conform to SKOS-AP-NO-Begrep v.2.x._ 
 
 
-== Demo resources [[demo-resources]]
+== The demo resources [[demo-resources]]
 
 In this showroom we here a https://w3id.org/demo-resources/demo-concepts[collection of several demo concepts]:
 
