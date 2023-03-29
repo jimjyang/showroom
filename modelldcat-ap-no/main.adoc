@@ -14,22 +14,25 @@ ifdef::backend-pdf[:toc: macro]
 
 // _Updated: 2023-03-20_
 
-Welcome to the showroom for https://data.norge.no/specification/modelldcat-ap-no[ModellDCAT-AP-NO, window="_blank", role="ext-link"] (the Norwegian application profile of DCAT for describing information models and catalogs of information models)!
+Welcome to the showroom with demo information models, demonstrating the usage of https://data.norge.no/specification/modelldcat-ap-no[ModellDCAT-AP-NO, window="_blank", role="ext-link"] (the Norwegian application profile of DCAT for describing information models and catalogs of information models)!
 
-== Demo information models [[demo-models]]
+== Purpose [[purpose]]
 
-We have here a link:files/demo-models.ttl[RDF Turtle file] with demo information models illustrating the usage of ModellDCAT-AP-NO
+This showroom is meant to
 
-* The demo models #will be# automatically harvested to and thus published via https://jimjyang.github.io/showroom/#about-demo-catalog[the demo catalog]. 
-* These demo models are meant to 
-** demonstrate how to describe an information model in accordance with ModellDCAT-AP-NO, at the model level (i.e., without describing the model elements)
-** demonstrate how to describe relations between information models, in accordance with ModellDCAT-AP-NO
-** demonstrate cross-references between information models and some other resources demonstrated in some of the other showrooms
-** be provided as machine-readable RDF-based model descriptions, for testing and demonstration purposes
+* demonstrate how to describe an information model in accordance with ModellDCAT-AP-NO, at the model level (i.e., without describing the model elements)
+* demonstrate how to describe relations between information models, in accordance with ModellDCAT-AP-NO
+* demonstrate cross-references between information models and some other resources demonstrated in some of the other showrooms
+* provided machine-readable RDF-based model descriptions, for testing and demonstration purposes
  
-== Some explanations of the demo information models [[explanations]]
+== Demo resources [[demo-resources]]
 
 *Disclaimer*: The machine-readable demo information models are meant for demo purposes only. They do not represent any real world fenomena at all. On the other hand, they are supposed to syntactically conform to ModellDCAT-AP-NO v.1.x.
+
+In this showroom we have a https://w3id.org/demo-resources/demo-models[a catalog with several demo information models]:
+
+* The demo models are automatically harvested to and thus findable via https://demo.fellesdatakatalog.digdir.no/informationmodels?q=demomodel[the demo catalog]. 
+
 
 _#... more may come ...#_  
 

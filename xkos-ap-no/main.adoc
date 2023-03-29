@@ -13,21 +13,21 @@ ifdef::backend-pdf[:toc: macro]
 :xrefstyle: short
 
 
-Welcome to the showroom for https://data.norge.no/specification/xkos-ap-no[XKOS-AP-NO, window="_blank", role="ext-link"] (the Norwegian application profile of XKOS for describing and publishing classifications (controlled vocabularies))! 
+Welcome to the showroom with demo classifications, demonstrating the usage of https://data.norge.no/specification/xkos-ap-no[XKOS-AP-NO, window="_blank", role="ext-link"] (the Norwegian application profile of XKOS for describing and publishing classifications (controlled vocabularies))! 
 
-== Demo classifications [[demo-classifications]]
+== Purpose [[purpose]]
 
-In this showroom We have a https://w3id.org/demo-resources/demo-classifications[demo classification], a demo controlled vocabulary, illustrating the usage of XKOS-AP-NO:
+This showroom is meant to
 
-* The demo classification is openly available as an open dataset and #will be# listed/described in and made findable via https://jimjyang.github.io/showroom/#about-demo-catalog[the demo catalog].
-* The demo classification is meant
-** to demonstrate machine-readable descriptions of a classification and the categories it contains, in accordance with XKOS-AP-NO
-** to demonstrate some cross-references between classifications and other resources demonstrated in some of the other showrooms
-** to be provided as a reusable, machine-readable classification and its categories, for testing and demonstration purposes 
+* demonstrate machine-readable descriptions of a classification and the categories it contains, in accordance with XKOS-AP-NO
+* demonstrate some cross-references between classifications and other resources demonstrated in some of the other showrooms
+* provided reusable, machine-readable classifications with  referenceable categories, for testing and demonstration purposes 
 
-== Some explanations of the demo classification [[explanations]]
+== Demo resources [[explanations]]
 
 *Disclaimer*: The machine-readable demo classification and its demo categories are meant for demo purposes only. They do not represent any real world phenomena at all. On the other hand, they are supposed to syntactically conform to XKOS-AP-NO. 
+
+In this showroom we have a https://w3id.org/demo-resources/demo-classifications[demo classification with its demo categories]. 
 
 
 <<img-demo-classification>> illustrates graphically the demo classification,  its demo categories and relations between them. 
@@ -51,7 +51,7 @@ https://w3id.org/demo-resources/demo-classifications#demoLev2[Demo level 2]" con
 
 == Cross-references with other demo resources [[cross-references]]
 
-A classification with its categories, may and should be considered as dataset. Our demo classification ("Demo controlled vocabulary 1") #will be# listed/described in and made findable via https://jimjyang.github.io/showroom/#about-demo-catalog[the demo catalog], as an open dataset. 
+A classification with its categories, may and should be considered as a dataset. Please visit our https://jimjyang.github.io/showroom/dcat-ap-no/[showroom with demo datasets], where we demonstrate how to make this demo classification https://demo.fellesdatakatalog.digdir.no/datasets?q=demodataset[findable via the demo catalog]. 
 
 A classification may refer to: 
 

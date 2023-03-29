@@ -13,13 +13,13 @@ ifdef::backend-pdf[:toc: macro]
 :xrefstyle: short
 
 
-Welcome to the showroom for https://informasjonsforvaltning.github.io/cpsv-ap-no/[CPSV-AP-NO, window="_blank", role="ext-link"] (the Norwegian application profile of CPSV-AP for describing services and events)! 
+Welcome to the showroom with demo services and events, demonstrating the usage of https://informasjonsforvaltning.github.io/cpsv-ap-no/[CPSV-AP-NO, window="_blank", role="ext-link"] (the Norwegian application profile of CPSV-AP for describing services and events)! 
 
-== Demo services and events [[demo-services-events]]
+== Purpose [[purpose]]
 
 _... #more to com# ..._
 
-== Some explanations of the demo services and events [[explanations]]
+== Demo resources [[demo-resources]]
 
 *Disclaimer*: The machine-readable demo services and events are meant for demo purposes only. They do not represent any real world phenomena at all. On the other hand, they are supposed to syntactically conform to CPSV-AP-NO. 
 
