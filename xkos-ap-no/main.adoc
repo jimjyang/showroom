@@ -23,9 +23,10 @@ This showroom is meant to
 * demonstrate some cross-references between classifications and other resources demonstrated in some of the other showrooms
 * provided reusable, machine-readable classifications with  referenceable categories, for testing and demonstration purposes 
 
-== Demo resources [[explanations]]
+*_Disclaimer_*: _The machine-readable demo classifications and its demo categories are meant for demo purposes only. They do not represent any real world phenomena at all. On the other hand, they are supposed to syntactically conform to XKOS-AP-NO._
 
-*Disclaimer*: The machine-readable demo classification and its demo categories are meant for demo purposes only. They do not represent any real world phenomena at all. On the other hand, they are supposed to syntactically conform to XKOS-AP-NO. 
+
+== Demo resources [[explanations]]
 
 In this showroom we have a https://w3id.org/demo-resources/demo-classifications[demo classification with its demo categories]. 
 
