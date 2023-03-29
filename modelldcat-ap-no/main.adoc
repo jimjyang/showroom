@@ -25,9 +25,9 @@ This showroom is meant to
 * demonstrate cross-references between information models and some other resources demonstrated in some of the other showrooms
 * provided reusable, machine-readable RDF-based model descriptions, for testing and demonstration purposes
  
-== Demo resources [[demo-resources]]
+*_Disclaimer_*: _The machine-readable demo information models are meant for demo purposes only. They do not represent any real world fenomena at all. On the other hand, they are supposed to syntactically conform to ModellDCAT-AP-NO v.1.x._
 
-*Disclaimer*: The machine-readable demo information models are meant for demo purposes only. They do not represent any real world fenomena at all. On the other hand, they are supposed to syntactically conform to ModellDCAT-AP-NO v.1.x.
+== Demo resources [[demo-resources]]
 
 In this showroom we have a https://w3id.org/demo-resources/demo-models[a catalog with several demo information models]:
 
