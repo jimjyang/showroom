@@ -28,8 +28,6 @@ This showroom is meant to
 
 == The demo resources [[demo-resources]]
 
-*Disclaimer*: The machine-readable demo services and events are meant for demo purposes only. They do not represent any real world phenomena at all. On the other hand, they are supposed to syntactically conform to CPSV-AP-NO. 
-
 In this showroom we have a https://w3id.org/demo-resources/demo-services-events[catalog of demo services and dmoe events]: 
 
 * #_... more to come ..._#
