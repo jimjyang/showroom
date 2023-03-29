@@ -20,7 +20,7 @@ Welcome to the showroom with demo URIs and dereferenced URIs, demonstrating a po
 This showroom is meant to
 
 * demonstrate a possible pattern of URIs, in accordance with the Norwegian URI-standard;
-* demonstrate a possible way to have permanent and dereferenced URIs. 
+* demonstrate a possible way to realize permanent and dereferenced URIs. 
 
 == The demo resources [[demo-resources]]
 
