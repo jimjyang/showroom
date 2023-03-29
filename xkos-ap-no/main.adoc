@@ -13,7 +13,7 @@ ifdef::backend-pdf[:toc: macro]
 :xrefstyle: short
 
 
-Welcome to the showroom with demo classifications, demonstrating the usage of https://data.norge.no/specification/xkos-ap-no[XKOS-AP-NO, window="_blank", role="ext-link"] (the Norwegian application profile of XKOS for describing and publishing classifications (controlled vocabularies))! 
+Welcome to the showroom with demo classifications, demonstrating the usage of https://data.norge.no/specification/xkos-ap-no[XKOS-AP-NO, window="_blank", role="ext-link"] (the Norwegian application profile of XKOS for describing and publishing classifications, controlled vocabularies, code lists etc.)! 
 
 == Purpose [[purpose]]
 
@@ -68,4 +68,4 @@ A classification may be referred to from:
 
 == _to the overview of the showrooms_ [[to-overview]]
 
-https://jimjyang.github.io/showroom/#showrooms[Click here for the overview of all the showrooms]
+https://jimjyang.github.io/showroom/#overview[Click here for the overview of all the showrooms]
