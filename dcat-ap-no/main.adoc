@@ -27,8 +27,6 @@ This showroom is meant to
 
 == Demo resources [[demo-resources]]
 
-*Disclaimer*: The machine-readable demo datasets are meant for demo purposes only. They do not represent any real world phenomena at all. On the other hand, they are supposed to syntactically conform to DCAT-AP-NO. 
-
 In this showroom we have a https://w3id.org/demo-resources/demo-datasets#demoDataset1[demo dataset, called "Demo controlled vocabulary 1"]:
 
 * The demo dataset shown here, is exactly the same as the demo classification called "Demo controlled vocabulary 1" that is demonstrated in https://jimjyang.github.io/showroom/xkos-ap-no/[the showroom with demo classifications]. 
