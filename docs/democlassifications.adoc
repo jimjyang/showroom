@@ -1,5 +1,5 @@
 === Classifications / controlled vocabularies [[demo-classifications]]
 
-In this showroom we will demonstrate the usage of https://data.norge.no/specification/xkos-ap-no[XKOS-AP-NO, window="_blank", role="ext-link"] (the Norwegian application profile of XKOS), to describe and publish  machine-readable classifications (controlled vocabularies etc.). Some cross-references between classifications and some of the other types of resources covered by the other specifications will also be demonstrated and explained.   
+In this showroom we will demonstrate the usage of https://data.norge.no/specification/xkos-ap-no[XKOS-AP-NO, window="_blank", role="ext-link"] (the Norwegian application profile of XKOS), to describe and publish machine-readable classifications, controlled vocabularies, code lists etc., with cross-references to some of the other demo resources covered by the other specifications. 
 
 https://jimjyang.github.io/showroom/xkos-ap-no/[Come on in]

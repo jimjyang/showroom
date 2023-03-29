@@ -1,5 +1,5 @@
 === Information models [[demo-models]]
 
-In this showroom we will demonstrate the usage of https://data.norge.no/specification/modelldcat-ap-no[ModellDCAT-AP-NO, window="_blank", role="ext-link"] (the Norwegian application profile of DCAT, for describing information models), to describe and publish machine-readable descriptions of information models. Some cross-references between information models and some of the other types of resources covered by the other specifications will also be demonstrated and explained. 
+In this showroom we will demonstrate the usage of https://data.norge.no/specification/modelldcat-ap-no[ModellDCAT-AP-NO, window="_blank", role="ext-link"] (the Norwegian application profile of DCAT, for describing information models), to describe and publish machine-readable descriptions of information models, with cross-references to some of the other demo resources covered by the other specifications.  
 
 https://jimjyang.github.io/showroom/modelldcat-ap-no/[Come on in]

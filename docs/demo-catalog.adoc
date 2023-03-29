@@ -1,12 +1,13 @@
 == Demo catalog with some of the demo resources [[about-demo-catalog]]
 
-Most (if mot all) of the demo resources that are demonstrated in the various showrooms here are, or will be, automatically harvested to and thus published via https://demo.fellesdatakatalog.digdir.no/[the demo catalog, window="_blank", role="ext-link"]. 
+Most (if mot all) of the demo resources that are demonstrated in the various showrooms here are, or will be, automatically harvested to and thus findable via https://demo.fellesdatakatalog.digdir.no/[the demo catalog, window="_blank", role="ext-link"]. 
 
 The demo catalog has the same functionalities as https://data.norge.no/[the National Data Catalog of Norway, window="_blank", role="ext-link"], but the content is only for testing or demonstration purposes. 
 
-Examples for how to find some of the demo resources shown here in the demo catalog:
+Examples for how to find some of the demo resources in the demo catalog:
 
 * demo classifications / datasets: by for instance https://demo.fellesdatakatalog.digdir.no/datasets?q=demodataset[searching "demodataset" in the "Datasets" part of the demo catalog, window="_blank", role="ext-link"].
 * demo concepts (#not yet published there#): by for instance https://demo.fellesdatakatalog.digdir.no/concepts?q=demo[searching "demo" in the "Concepts" part of the demo catalog, window="_blank", role="ext-link"]. 
 * demo information models: by for instance https://demo.fellesdatakatalog.digdir.no/informationmodels?q=demomodel[searching "demomodel" in the "Information models" part of the demo catalog, window="_blank", role="ext-link"].
+* _... #more to come# ..._
 
