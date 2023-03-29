@@ -15,20 +15,30 @@ ifdef::backend-pdf[:toc: macro]
 
 Welcome to the showroom with demo services and events, demonstrating the usage of https://informasjonsforvaltning.github.io/cpsv-ap-no/[CPSV-AP-NO, window="_blank", role="ext-link"] (the Norwegian application profile of CPSV-AP for describing services and events)! 
 
-== Purpose [[purpose]]
+== The purpose [[purpose]]
 
-_... #more to com# ..._
+This showroom is meant to 
 
-== Demo resources [[demo-resources]]
+* demonstrate how to use CPSV-AP-NO to describe services and events;
+* demonstrate some cross-references between services/events and other resources demonstrated in some of the other showrooms;
+* provide reusable, machine-readable descriptions of services and events, for testing and demonstration purposes.
+
+*_Disclaimer_*: _The machine-readable demo services and events are meant for demo purposes only. They do not represent any real world phenomena at all. On the other hand, they are supposed to syntactically conform to CPSV-AP-NO._ 
+
+
+== The demo resources [[demo-resources]]
 
 *Disclaimer*: The machine-readable demo services and events are meant for demo purposes only. They do not represent any real world phenomena at all. On the other hand, they are supposed to syntactically conform to CPSV-AP-NO. 
 
-_... #more to com# ..._
+In this showroom we have a https://w3id.org/demo-resources/demo-services-events[catalog of demo services and dmoe events]: 
+
+* #_... more to come ..._#
 
  
 == Cross-references with other demo resources [[cross-references]]
 
-_... #more to com# ..._
+#_... more to come ..._#
+
 
 == _to the overview of the showrooms_ [[to-overview]]
 
