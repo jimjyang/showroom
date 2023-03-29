@@ -47,7 +47,7 @@ https://w3id.org/demo-resources/demo-classifications#demoLev1[Demo level 1]" con
 ** "	
 https://w3id.org/demo-resources/demo-classifications#demoLev2[Demo level 2]" contains categories "Demo category A.1" and "Demo category A.2"
 * "https://w3id.org/demo-resources/demo-classifications#demo-category-A[Demo category A]" is further specialized into (at "Demo level 2") categories "https://w3id.org/demo-resources/demo-classifications#demo-category-A1[Demo category A.1]" and "https://w3id.org/demo-resources/demo-classifications#demo-category-A2[Demo category A.2]". 
-** "Demo category A" represents, and thus also refers to, "https://w3id.org/demo-resources/demo-concepts#demoCpt1[Demo concept 1]". Similarly "https://w3id.org/demo-resources/demo-classifications#demo-category-B[Demo category B]" representing/referring to "https://w3id.org/demo-resources/demo-concepts#demoCpt1[demo concept 2]", etc. 
+** "Demo category A" represents, and thus also refers to, "https://w3id.org/demo-resources/demo-concepts#demoCpt1[Demo concept 1]". Similarly "https://w3id.org/demo-resources/demo-classifications#demo-category-B[Demo category B]" representing/referring to "https://w3id.org/demo-resources/demo-concepts#demoCpt2[demo concept 2]", etc. 
 
 
 == Cross-references with other demo resources [[cross-references]]
