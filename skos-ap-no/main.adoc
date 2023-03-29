@@ -53,17 +53,20 @@ The figure illustrates in particular the two different ways of describing hierar
  
 == Cross-references with other demo resources [[cross-references]]
 
-A concept may be referred to from:
+Concepts and classifications:
 
-* A classification (controlled vocabulary) _#... more to come ...#_ 
-* A dataset _#... more to come ...#_ 
-* An information model _#... more to come ...#_ 
-* A service or an event _#... more to come ...#_ 
 * _#... more to come ...#_ 
 
-A concept may refer to: 
+Concepts and datasets:
 
-* A classification (controlled vocabulary) _#... more to come ...#_ 
+* _#... more to come ...#_ 
+
+Concepts and information models:
+
+* _#... more to come ...#_ 
+
+Concepts and services/events:
+
 * _#... more to come ...#_ 
 
 == _to the overview of the showrooms_ [[to-overview]]
