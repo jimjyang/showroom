@@ -22,22 +22,6 @@ ifdef::backend-pdf[:toc: macro]
 
 include::overview.adoc[]
 
-== Showrooms with demo resources [[showrooms]]
-
-include::democlassifications.adoc[]
-
-include::democoncepts.adoc[]
-
-include::demodatasets.adoc[]
-
-include::demomodels.adoc[]
-
-include::demoeventsandservices.adoc[]
-
-include::demoURIs.adoc[]
-
-// end of showrooms
-
 include::demo-catalog.adoc[]
 
 include::references.adoc[]
