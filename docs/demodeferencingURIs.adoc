@@ -1,7 +1,0 @@
-=== Dereferenced URIs [[demo-uris]]
-
-When making reusable and machine-readable information resources available, it is important to use unique and persistent identifiers. Conf. e.g. https://www.digdir.no/standarder/peikarar-til-offentlege-ressursar-pa-nett/1492[the Norwegian URI-standard, window="_blank", role="ext-link"] (in Norwegian only).
-
-In this showroom we will demonstrate one way to implement the abovementioned URI-standard, and how to dereference URIs to accessible online resources. 
-
-_#... this showroom is under construction and will be opened soon ...#_ 

@@ -34,7 +34,7 @@ include::demomodels.adoc[]
 
 include::demoeventsandservices.adoc[]
 
-include::demodeferencingURIs.adoc[]
+include::demoURIs.adoc[]
 
 // end of showrooms
 
