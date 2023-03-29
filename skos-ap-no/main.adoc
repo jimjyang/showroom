@@ -19,7 +19,7 @@ Welcome to the showroom with demo concepts, demonstrating the usage of https://d
 
 This showroom is meant to
 
-* demonstrate machine-readable descriptions in accordance with SKOS-AP-NO-Begrep v.2.x
+* demonstrate machine-readable concept descriptions in accordance with SKOS-AP-NO-Begrep v.2.x
 * demonstrate in particular how to describe concept relations, in accordance with SKOS-AP-NO-Begrep v.2.x
 * demonstrate some cross-references between concepts and other resources demonstrated in some of the other showrooms
 * provided reusable, machine-readable concept descriptions, for testing and demonstration purposes 

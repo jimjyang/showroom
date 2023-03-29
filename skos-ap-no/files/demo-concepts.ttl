@@ -14,15 +14,6 @@
 @prefix xkos: <http://rdf-vocabulary.ddialliance.org/xkos#> . 
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> . 
 
-<https://w3id.org/demo-resources/demo-concepts#digdir-contact-point>
-   rdf:type vcard:Organization;
-   vcard:hasOrganizationName """Norwegian Digitalisation Agency"""@en,
-       """Digitaliseringsdirektoratet"""@nb,
-       """Digitaliseringsdirektoratet"""@nn;
-   vcard:hasEmail "mailto:informasjonsforvaltning@digdir.no"^^xsd:anyURI;
-   vcard:hasURL <https://digdir.no>;
-   .
- 
 <https://w3id.org/demo-resources/demo-concepts#demo-catalog>
    rdf:type skos:Collection;
    dct:identifier "https://w3id.org/demo-resources/demo-concepts#demo-catalog"^^xsd:anyURI;
@@ -236,4 +227,13 @@
    skosno:relationRole <https://w3id.org/demo-resources/demo-concepts#demoCpt2>;
    .
  
-#### End of the file, 2023-03-22 09:23:07
+<https://w3id.org/demo-resources/demo-concepts#digdir-contact-point>
+   rdf:type vcard:Organization;
+   vcard:hasOrganizationName """Norwegian Digitalisation Agency"""@en,
+       """Digitaliseringsdirektoratet"""@nb,
+       """Digitaliseringsdirektoratet"""@nn;
+   vcard:hasEmail "mailto:informasjonsforvaltning@digdir.no"^^xsd:anyURI;
+   vcard:hasURL <https://digdir.no>;
+   .
+ 
+#### End of the file, 2023-03-29 12:13:44
