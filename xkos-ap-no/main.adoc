@@ -15,7 +15,7 @@ ifdef::backend-pdf[:toc: macro]
 
 Welcome to the showroom with demo classifications, demonstrating the usage of https://data.norge.no/specification/xkos-ap-no[XKOS-AP-NO, window="_blank", role="ext-link"] (the Norwegian application profile of XKOS for describing and publishing classifications, controlled vocabularies, code lists etc.)! 
 
-== Purpose [[purpose]]
+== The purpose [[purpose]]
 
 This showroom is meant to
 
@@ -26,7 +26,7 @@ This showroom is meant to
 *_Disclaimer_*: _The machine-readable demo classifications and its demo categories are meant for demo purposes only. They do not represent any real world phenomena at all. On the other hand, they are supposed to syntactically conform to XKOS-AP-NO._
 
 
-== Demo resources [[explanations]]
+== The demo resources [[explanations]]
 
 In this showroom we have a https://w3id.org/demo-resources/demo-classifications[demo classification with its demo categories]. 
 
