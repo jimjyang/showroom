@@ -28,9 +28,9 @@ include::democlassifications.adoc[]
 
 include::democoncepts.adoc[]
 
-include::demomodels.adoc[]
-
 include::demodatasets.adoc[]
+
+include::demomodels.adoc[]
 
 include::demoeventsandservices.adoc[]
 
