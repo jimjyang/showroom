@@ -24,7 +24,7 @@ This showroom is meant to
 
 == The demo resources [[demo-resources]]
 
-In this showroom we demonstrate how to use the service for permanent URIs provided by https://w3id.org[w3id.org]. 
+In this showroom we demonstrate how to use the service for permanent URIs provided by https://w3id.org[w3id.org, window="_blank", role="ext-link"]. 
 
 #_... explanation of the URI-pattern in accordance with the Norwegian URI-standard ..._#
 
