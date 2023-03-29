@@ -38,15 +38,20 @@ _#... more may come ...#_
 
 == Cross-references with other demo resources [[cross-references]]
 
-An information model may refer to:
+Information models and classifications: 
 
-* A concept _#... more to come ...#_   
-* A classification (controlled vocabulary) _#... more to come ...#_ 
-* _#... more to come ...#_ 
+* _#... more to come ...#_  
 
-An information model may be referred to from:
+Information models and concepts: 
 
-* A dataset _#... more to come ...#_ 
+* _#... more to come ...#_  
+
+Information models and datasets: 
+
+* _#... more to come ...#_  
+
+Information models and services/events: 
+
 * _#... more to come ...#_  
 
 == _to the overview of the showrooms_ [[to-overview]]
