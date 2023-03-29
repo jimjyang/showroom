@@ -1,4 +1,4 @@
-name: Build adocs and deploy dcat-ap-no to Github Pages
+name: Build adocs and deploy cpsv-ap-no to Github Pages
 
 on:
   push:
