@@ -22,7 +22,7 @@ This showroom is meant to
 * demonstrate machine-readable concept descriptions in accordance with SKOS-AP-NO-Begrep v.2.x;
 * demonstrate in particular how to describe concept relations, in accordance with SKOS-AP-NO-Begrep v.2.x;
 * demonstrate some cross-references between concepts and other resources demonstrated in some of the other showrooms;
-* provided reusable, machine-readable concept descriptions, for testing and demonstration purposes.
+* provide reusable, machine-readable concept descriptions, for testing and demonstration purposes.
 
 *_Disclaimer_*: _The machine-readable demo concepts are meant for demo purposes only. They do not represent any real world concepts at all. On the other hand, they are supposed to syntactically conform to SKOS-AP-NO-Begrep v.2.x._ 
 
