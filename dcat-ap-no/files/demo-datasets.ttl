@@ -8,13 +8,14 @@
 @prefix owl: <http://www.w3.org/2002/07/owl#> . 
 @prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> . 
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> . 
+@prefix vcard: <http://www.w3.org/2006/vcard/ns#> . 
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> . 
 
-<https://w3id.org/demo-resources/demo-datasets#demo-catalog>
+<https://w3id.org/demo-resources/demo-datasets#demoDataCatalog1>
    rdf:type dcat:Catalog;
    dct:description """Katalogen inneholder demodatasett for å demonstrere bruken av DCAT-AP-NO."""@nb,
        """This catalog contains demo datasets, for demonstrating the usage of DCAT-AP-NO."""@en;
-   dct:identifier "https://w3id.org/demo-resources/demo-datasets#demo-catalog"^^xsd:anyURI;
+   dct:identifier "https://w3id.org/demo-resources/demo-datasets#demoDataCatalog1"^^xsd:anyURI;
    dct:title """Demokatalog med demodatasett"""@nb,
        """Demo catalog with demo datasets"""@en;
    dct:publisher <https://organization-catalog.fellesdatakatalog.digdir.no/organizations/991825827>;
@@ -46,16 +47,18 @@
    dct:spatial <http://publications.europa.eu/resource/authority/country/NOR>;
    dcat:keyword """Demo"""@nb,
        """Demo"""@en;
+   dcat:contactPoint <https://w3id.org/demo-resources/demo-datasets#URI for this instance>;
    dct:accessRights <http://publications.europa.eu/resource/authority/access-right/PUBLIC>;
-   dct:conformsTo <https://w3id.org/demo-resources/demo-datasets#exStandard>;
+   dct:conformsTo <https://w3id.org/demo-resources/demo-datasets#demoStandard1>;
    .
  
 <https://w3id.org/demo-resources/demo-datasets#demoDistribution1>
    rdf:type dcat:Distribution;
-   dcat:accessURL <https://w3id.org/demo-resources/demo-datasets.ttl>;
+   dcat:accessURL <https://w3id.org/demo-resources/demo-datasets>;
    dct:description """Demo på en distribusjon"""@nb,
        """Demo distribution"""@en;
-   dct:format <http://publications.europa.eu/resource/authority/file-type/RDF_TURTLE>;
+   dct:format <http://publications.europa.eu/resource/authority/file-type/RDF_TURTLE>,
+       <http://publications.europa.eu/resource/authority/file-type/HTML>;
    dct:license <http://publications.europa.eu/resource/authority/licence/CC0>;
    adms:status <http://purl.org/adms/status/Completed>;
    dcatap:availability <http://publications.europa.eu/resource/authority/planned-availability/AVAILABLE>;
@@ -64,7 +67,7 @@
    dct:issued "2023-03-23"^^xsd:date;
    .
  
-<https://w3id.org/demo-resources/demo-datasets#exStandard>
+<https://w3id.org/demo-resources/demo-datasets#demoStandard1>
    rdf:type dct:Standard;
    dct:title """Spesifikasjon for klassifikasjonsbeskrivelser (XKOS-AP-NO)"""@nb,
        """Specification for classification descriptions (XKOS-AP-NO)"""@en;
@@ -72,4 +75,13 @@
    owl:versionInfo """1.0""";
    .
  
-#### End of the file, 2023-03-28 14:48:48
+<https://w3id.org/demo-resources/demo-datasets#digdir-contact-point>
+   rdf:type vcard:Organization;
+   vcard:hasOrganizationName """Norwegian Digitalisation Agency"""@en,
+       """Digitaliseringsdirektoratet"""@nb,
+       """Digitaliseringsdirektoratet"""@nn;
+   vcard:hasEmail "mailto:informasjonsforvaltning@digdir.no"^^xsd:anyURI;
+   vcard:hasURL <https://digdir.no>;
+   .
+ 
+#### End of the file, 2023-03-29 08:16:14
