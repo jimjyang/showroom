@@ -1,5 +1,0 @@
-=== Datasets [[demo-datasets]]
-
-In this showroom we demonstrate the usage of https://data.norge.no/specification/dcat-ap-no[DCAT-AP-NO, window="_blank", role="ext-link"] (the Norwegian application profile of DCAT), to describe and publish machine-readable descriptions of datasets, with cross-references to some of the other demo resources covered by the other specifications.  
-
-https://jimjyang.github.io/showroom/dcat-ap-no/[Come on in]

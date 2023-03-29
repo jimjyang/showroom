@@ -1,5 +1,0 @@
-=== URIs and dereferencing URI [[demo-uris]]
-
-The "master key" to the showrooms is URI. In this showroom we will demonstrate one way to implement https://www.digdir.no/standarder/peikarar-til-offentlege-ressursar-pa-nett/1492[the Norwegian URI-standard, window="_blank", role="ext-link"]. 
-
-_#... this showroom is under construction and will be opened soon ...#_ 

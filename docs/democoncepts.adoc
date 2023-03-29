@@ -1,5 +1,0 @@
-=== Concepts  [[demo-concepts]]
-
-In this showroom we will demonstrate the usage of https://data.norge.no/specification/skos-ap-no-begrep[SKOS-AP-NO-Begrep, window="_blank", role="ext-link"] (the Norwegian application profile of SKOS), to describe and publish machine-readable concepts and concept collections, with cross-references to some of the demo resources covered by the other specifications.     
-
-https://jimjyang.github.io/showroom/skos-ap-no/[Come on in]
