@@ -51,7 +51,7 @@ The figure illustrates in particular the two different ways of describing hierar
 
 *  _#... more to come ...#_  
  
-== Cross-references with other demo resources [[cross-references]]
+== Some cross-references with other demo resources [[cross-references]]
 
 Concepts and classifications:
 
