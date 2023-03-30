@@ -49,8 +49,11 @@ Using https://w3id.org[w3id.org, window="_blank", role="ext-link"], our demo URI
 
 A good practice is that "A URI owner SHOULD provide representations of the resource it identifies" (https://www.w3.org/TR/webarch/#representation-management["_3.5 Representation Management, _Architecture of the World Wide Web, Volume One_", window="_blank", role="ext-link"])
 
-We use the services at w3id.org, and define https://github.com/perma-id/w3id.org/tree/master/demo-resources[RewriteRules for dereferencing our URIs]. 
+We use the services at w3id.org, and define https://github.com/perma-id/w3id.org/tree/master/demo-resources[RewriteRules for dereferencing our URIs, window="_blank", role="ext-link"]. 
 
-We also use the services at w3id.org to implement content negotiation  (incl. "language-negotiation"), such that the same URI may return RDF Turtle or HTML. 
+We also use the services at w3id.org to implement content negotiation  (incl. "language-negotiation"), such that the same URI may return RDF Turtle or HTML in the preferred language. For example, for the URI `\https://w3id.org/demo-resources/demo-concepts`: 
+
+* `curl -i -H "Accept: text/turtle" \https://w3id.org/demo-resources/demo-concepts#demoCpt1` will redirect to the RDF Turtle representation of the resource identified by that URI
+* `curl -i -H "Accept-language: nb" \https://w3id.org/demo-resources/demo-concepts#demoCpt1` will redirect to the HTML representation of the resources identified by that URI and in Norwegian bokmål. 
 
 
