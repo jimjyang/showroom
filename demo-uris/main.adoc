@@ -61,7 +61,7 @@ For example, for the URI `\https://w3id.org/demo-resources/demo-concepts#demoCpt
 
 * `Accept-language: en` will redirect to the HTML representation in English, of the resource identified by that URI.
 
-=== Why are permanent URIs important?
+== Why are permanent URIs important?
 
 ChatGPT gave (2023-03-30) the following answer to the above question: 
 
