@@ -51,7 +51,7 @@ Our demo classification, called https://w3id.org/demo-resources/demo-classificat
 * "Demo category A.1" should be presented before "Demo category A.2".
 
 
-== Cross-references with other demo resources [[cross-references]]
+== Some cross-references with other demo resources [[cross-references]]
 
 Classifications and concepts: 
 
