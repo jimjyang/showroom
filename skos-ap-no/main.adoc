@@ -53,6 +53,8 @@ The figure illustrates in particular the two different ways of describing hierar
  
 == Some cross-references with other demo resources [[cross-references]]
 
+*_Note_*: _Not all possible cross-references are demonstrated in this showroom. The lists are thus not exhaustive._
+
 Concepts and classifications:
 
 * _#... more to come ...#_ 
