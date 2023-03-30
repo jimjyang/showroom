@@ -58,22 +58,25 @@ Our demo classification, called https://w3id.org/demo-resources/demo-classificat
 Classifications and concepts: 
 
 * A category in a classification is usually a concept. The definition of the concept should preferably be published outside and independently of the classification, although XKOS-AP-NO allows to define the concept as a part of the category description. 
-** Our "Demo category A" represents, and thus also refers to from this demo classification, https://w3id.org/demo-resources/demo-concepts#demoCpt1["demo concept 1"] (demonstrated in https://jimjyang.github.io/showroom/skos-ap-no/[the showroom with demo concepts]). Similarly, "Demo category B" represents and refers to https://w3id.org/demo-resources/demo-concepts#demoCpt2["demo concept 2"], "Demo category A.1" represents and refers to https://w3id.org/demo-resources/demo-concepts#demoCpt11["demo concept 11"], and "Demo category A.2" represents and refers to https://w3id.org/demo-resources/demo-concepts#demoCpt12["demo concept 12"].
-* #_... more to come ..._#
+** Our "Demo category A" represents, and thus also refers to (by  `dct:subject`), https://w3id.org/demo-resources/demo-concepts#demoCpt1["demo concept 1"] (demonstrated in https://jimjyang.github.io/showroom/skos-ap-no/[our showroom with demo concepts]). Similarly, "Demo category B" represents and refers to https://w3id.org/demo-resources/demo-concepts#demoCpt2["demo concept 2"], "Demo category A.1" represents and refers to https://w3id.org/demo-resources/demo-concepts#demoCpt11["demo concept 11"], and "Demo category A.2" represents and refers to https://w3id.org/demo-resources/demo-concepts#demoCpt12["demo concept 12"].
+* A classification and its classification levels usually covers (exhaustively or not,  mutually exclusively or not) a set of concepts. 
+** Our "Demo level 1", covers (`xkos:covers`) exhaustively (`xkos:coversExhaustively`) "demo concept 1" and "demo concept 2", and thus two are mutually exclusive (`xkos:coversMutuallyExclusively`). Similarly with our "Demo level 2" and "demo concept 11" and "demo concept 12". 
 
 Classifications and datasets:
 
 * A classification with its categories is a dataset, and should be made available machine-readably. 
 ** In https://jimjyang.github.io/showroom/dcat-ap-no/[the showroom with demo datasets], we demonstrate how to describe this demo classification as machine-readable open dataset, and to make it https://demo.fellesdatakatalog.digdir.no/datasets?q=demodataset[findable via the demo catalog].
-* #_... more to come ..._#
+
+* When describing a dataset and where coded values are used, the coded values should preferably be chosen from controlled vocabularies (i.e., classifications). Please visit our https://jimjyang.github.io/showroom/dcat-ap-no/[showroom with demo datasets] where this is demonstrated. 
 
 Classifications and information models:
 
-* #_... more to come ..._#
+* An information model may use classifications (controlled vocabularies, code lists etc.) as "datatype specification" for its properties. 
+** This is (currently unfortunately) not demonstrated in our https://jimjyang.github.io/showroom/modelldcat-ap-no/[showroom with demo information models], because our showcase there is only at the model level (without descriptions or its properties). 
   
 Classifications and services/events:
 
-* #_... more to come ..._#
+* #_... more may come ..._#
   
 
 
