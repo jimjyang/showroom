@@ -38,6 +38,8 @@ _#... more may come ...#_
 
 == Some cross-references with other demo resources [[cross-references]]
 
+*_Note_*: _Not all possible cross-references are demonstrated in this showroom. The lists are thus not exhaustive._
+
 Information models and classifications: 
 
 * _#... more to come ...#_  
