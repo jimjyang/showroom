@@ -33,7 +33,7 @@ In this showroom we have a https://w3id.org/demo-resources/demo-services-events[
 * #_... more to come ..._#
 
  
-== Cross-references with other demo resources [[cross-references]]
+== Some cross-references with other demo resources [[cross-references]]
 
 Services/events models and classifications: 
 
