@@ -38,6 +38,8 @@ In this showroom we have a https://w3id.org/demo-resources/demo-datasets#demoDat
  
 == Some cross-references with other demo resources [[cross-references]]
 
+*_Note_*: _Not all possible cross-references are demonstrated in this showroom. The lists are thus not exhaustive._
+
 Datasets and classifications:
 
 * _... #more to come# ..._
