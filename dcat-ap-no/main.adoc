@@ -36,7 +36,7 @@ In this showroom we have a https://w3id.org/demo-resources/demo-datasets#demoDat
 * _... #more to come# ..._
 
  
-== Cross-references with other demo resources [[cross-references]]
+== Some cross-references with other demo resources [[cross-references]]
 
 Datasets and classifications:
 
