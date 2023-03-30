@@ -26,6 +26,31 @@ This showroom is meant to
 
 In this showroom we demonstrate how to use the service for permanent URIs provided by https://w3id.org[w3id.org, window="_blank", role="ext-link"]. 
 
-#_... explanation of the URI-pattern in accordance with the Norwegian URI-standard ..._#
+=== URI-pattern
 
-#_... explanation of the principle and how to dereference URIs using w3id.org ..._#
+The above-mentioned Norwegian URI-standard defines the following pattern for URIs: 
+
+[no-bullet]
+* `http(s)://{domain}/{optional(type)}/{optional(concept)}/{object_identifier}`
+
+Using https://w3id.org[w3id.org, window="_blank", role="ext-link"], our demo URI-pattern is as follows: 
+
+* `{domain}` = `w3id.org` 
+* `{optional(type)}` = `demo-resources`
+* `{optional(concept)}` omitted
+* `{object_identifier}` 
+** = `demo-classifications#demo-category-A` for our "Demo category A"
+** = `demo-concepts#demoCpt1` for our "demo concept 1"
+** = `demo-datasets#demoDataset1` for our "Demo controlled vocabulary 1"
+** = `demo-models#demomodel1` for our "Demo model 1"
+** etc. 
+
+=== Dereferencing URIs and content negotiation
+
+A good practice is that "A URI owner SHOULD provide representations of the resource it identifies" (https://www.w3.org/TR/webarch/#representation-management["_3.5 Representation Management, _Architecture of the World Wide Web, Volume One_", window="_blank", role="ext-link"])
+
+We use the services at w3id.org, and define https://github.com/perma-id/w3id.org/tree/master/demo-resources[RewriteRules for dereferencing our URIs]. 
+
+We also use the services at w3id.org to implement content negotiation  (incl. "language-negotiation"), such that the same URI may return RDF Turtle or HTML. 
+
+
