@@ -66,7 +66,7 @@ For example, for the URI `\https://w3id.org/demo-resources/demo-concepts#demoCpt
 ChatGPT gave (2023-03-30) the following answer to the above question: 
 
 
-A permanent URI (Uniform Resource Identifier), also known as a permanent link or a persistent identifier, is essential for the long-term accessibility and reliability of online resources. Here are some reasons why permanent URIs are important:
+"A permanent URI (Uniform Resource Identifier), also known as a permanent link or a persistent identifier, is essential for the long-term accessibility and reliability of online resources. Here are some reasons why permanent URIs are important:
 
    .  Accessibility: A permanent URI ensures that a resource can be accessed and linked to over time. This is especially important for scholarly articles, research data, and other digital resources that need to be available for a long time.
 
@@ -78,5 +78,5 @@ A permanent URI (Uniform Resource Identifier), also known as a permanent link or
 
     . SEO: A permanent URI can also have SEO (Search Engine Optimization) benefits, as search engines consider the stability and longevity of links when ranking search results.
 
-Overall, a permanent URI is crucial for ensuring the long-term accessibility and reliability of digital resources, as well as for facilitating citation, reputation, and SEO.
+Overall, a permanent URI is crucial for ensuring the long-term accessibility and reliability of digital resources, as well as for facilitating citation, reputation, and SEO."
 
