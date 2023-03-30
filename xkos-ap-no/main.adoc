@@ -53,6 +53,8 @@ Our demo classification, called https://w3id.org/demo-resources/demo-classificat
 
 == Some cross-references with other demo resources [[cross-references]]
 
+*_Note_*: _Not all possible cross-references are demonstrated in this showroom. The lists are thus not exhaustive._
+
 Classifications and concepts: 
 
 * A category in a classification is usually a concept. The definition of the concept should preferably be published outside and independently of the classification, although XKOS-AP-NO allows to define the concept as a part of the category description. 
