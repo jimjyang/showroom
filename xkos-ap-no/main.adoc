@@ -61,7 +61,8 @@ Classifications and concepts:
 
 Classifications and datasets:
 
-* A classification with its categories, may and should be considered as a dataset. Please visit our https://jimjyang.github.io/showroom/dcat-ap-no/[showroom with demo datasets], where we demonstrate how to make this demo classification https://demo.fellesdatakatalog.digdir.no/datasets?q=demodataset[findable via the demo catalog] as an open dataset.
+* A classification with its categories is a dataset, and should be made available machine-readably. 
+** In https://jimjyang.github.io/showroom/dcat-ap-no/[the showroom with demo datasets], we demonstrate how to describe this demo classification as machine-readable open dataset, and to make it https://demo.fellesdatakatalog.digdir.no/datasets?q=demodataset[findable via the demo catalog].
 * #_... more to come ..._#
 
 Classifications and information models:
