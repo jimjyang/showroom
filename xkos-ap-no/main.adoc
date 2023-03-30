@@ -76,9 +76,7 @@ Classifications and information models:
   
 Classifications and services/events:
 
-* #_... more may come ..._#
-  
-
+* When describing a service or event, and where coded values are used, the coded values should preferably be chosen from controlled vocabularies (i.e., classifications). Please visit our https://jimjyang.github.io/showroom/cpsv-ap-no/[showroom with demo services and events] where this is demonstrated. 
 
 
 == _to the overview of the showrooms_ [[to-overview]]
