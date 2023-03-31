@@ -54,22 +54,26 @@ image::images/hierarchical-relations-explanations.png[alt="Figure with hierarchi
 
 The figure illustrates in particular the two different ways of describing hierarchical concept relations, in accordance with SKOS-AP-NO-Begrep v.2.x: 
 
-*  _#... more to come ...#_  
+* The straightforward way, when there is no need for specifying the criterion of subdivision: 
+** using the property "specializes" (`xkos:specializes`) or "generalizes" (`xkos:generalizes`) for generic concept relations, demonstrated by the generic relations between "demo concept 1" and "demo concept 11"
+** using the property "has part" (`xkos:hasPart`) or "is part of" (`xkos:isPartOf`) for partitive concept relations, demonstrated by the partitive relations between "demo concept 2" and "demo concept 21"
+* Via an instance of generic/partitive concept relation, when there is a need for specifying the criterion of subdivision: 
+** using the property "has generic concept relation"(`skosno:hasGenericConceptRelation`) for generic concept relations, demonstrated by the generic relations between "demo concept 1" and "demo concept 12"
+** using the property "has partitive concept relation" (`skosno:hasPartitiveConceptRelation`) for partitive concept relations, demonstrated by the partitive relations between "demo concept 2" and "demo concept 22" 
  
 === Associative concept relations [[associative-relations]]
 
 While there are only two types of hierarchical concept relations as demonstrated above, there is an unlimited number of types associative concept relations. 
 
-In SKOS-AP-NO-Begrep, some types of associative relations are explicitly supported, e.g.:
+In SKOS-AP-NO-Begrep, some types of associative relations are explicitly supported, demonstrated by https://w3id.org/demo-resources/demo-concepts#demoCpt3["demo concept 3"]:
 
 * replaces (`dct:replaces`) / is replaced by (`dct:isReplacedBy`)
 * has close match with (`skos:closeMatch)`
 * has exact match with (`skos:exactMatch`)
 * see also (`rdfs:seeAlso`)
 
+SKOS-AP-NO-Begrep also allows to specify your own types of associative concept relations, using the property "is from-concept in" (`skosno:isFromConceptIn`) which refers to an instance of the class "Associative concept relation" (`skosno:AssociativeConceptRelation`). This is also demonstrated by https://w3id.org/demo-resources/demo-concepts#demoCpt3["demo concept 3"]. 
 
-
-_#... more to come ...#_ 
 
 == Some cross-references with other demo resources [[cross-references]]
 
