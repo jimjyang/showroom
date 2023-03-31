@@ -28,7 +28,7 @@ This showroom is meant to
 
 == The demo resources [[demo-resources]]
 
-In this showroom we have a https://w3id.org/demo-resources/demo-services-events[catalog of demo services and dmoe events]: 
+In this showroom we have a https://w3id.org/demo-resources/demo-services-events[catalog of demo services and demo events]: 
 
 * #_... more to come ..._#
 
