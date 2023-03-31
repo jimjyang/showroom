@@ -48,7 +48,7 @@ There are two types of hierarchical concept relations: generic and partitive.
 <<img-hierarchical-relations>> illustrates some of the hierarchically relations between the demo concepts that are in the above mentioned collection of demo concepts. 
 
 [[img-hierarchical-relations]]
-.Tow ways to describe hierarchical relations. 
+.Two ways to describe hierarchical relations. 
 [link=images/hierarchical-relations-explanations.png]
 image::images/hierarchical-relations-explanations.png[alt="Figure with hierarchical relations. The content is explained in the text."]
 
