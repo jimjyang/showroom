@@ -116,7 +116,7 @@
        """eksempel abc"""@nn;
    skos:hiddenLabel """demokonsept"""@nb;
    euvoc:status <http://publications.europa.eu/resource/authority/concept-status/CURRENT>;
-   skosno:valueRange <https://example.org/example-controled-vocabulary>;
+   skosno:valueRange <https://w3id.org/demo-resources/demo-classifications#demoClassification1>;
    owl:versionInfo """1.0.2""";
    adms:versionNotes """A minor editorial modification of the definition text."""@en,
        """En liten redaksjonell justering av definisjonsteksten."""@nb;
@@ -236,4 +236,4 @@
    vcard:hasURL <https://digdir.no>;
    .
  
-#### End of the file, 2023-03-29 12:13:44
+#### End of the file, 2023-03-31 14:58:28
