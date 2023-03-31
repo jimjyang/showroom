@@ -32,7 +32,14 @@ This showroom is meant to
 In this showroom we here a https://w3id.org/demo-resources/demo-concepts[collection of several demo concepts]:
 
 * The demo concepts #will be# automatically harvested to and thus also findable via https://jimjyang.github.io/showroom/#about-demo-catalog[the demo catalog].
-* _#... more to come ...#_
+* There are seven demo concepts in the collection, where
+** https://w3id.org/demo-resources/demo-concepts#demoCpt1["demo concept 1"] generalizes https://w3id.org/demo-resources/demo-concepts#demoCpt11["demo concept 11"] and https://w3id.org/demo-resources/demo-concepts#demoCpt12["demo concept 12"] (generic relations)
+*** "demo concept 11" specializes "demo concept 1"
+*** "demo concept 12" specializes "demo concept 1"
+** https://w3id.org/demo-resources/demo-concepts#demoCpt2["demo concept 2"] contains https://w3id.org/demo-resources/demo-concepts#demoCpt21["demo concept 21"] and https://w3id.org/demo-resources/demo-concepts#demoCpt22["demo concept 22"] (partitive relations)
+***  "demo concept 21" is part of  "demo concept 2"
+***  "demo concept 22" is part of  "demo concept 2"
+** https://w3id.org/demo-resources/demo-concepts#demoCpt3["demo concept 3"] illustrates the usage of all _syntactically_ possible relations that a concept may have with other concepts. 
 
 === Associative concept relations [[associative-relations]]
 
@@ -40,7 +47,9 @@ _#... more to come ...#_
 
 === Hierarchical concept relations [[hierarchical-relations]]
 
-<<img-hierarchical-relations>> illustrates some of the hierarchically relations between the demo concepts that are in the above mentioned RDF Turtle file. 
+There are two types of hierarchical concept relations: generic and partitive. 
+
+<<img-hierarchical-relations>> illustrates some of the hierarchically relations between the demo concepts that are in the above mentioned collection of demo concepts. 
 
 [[img-hierarchical-relations]]
 .Tows of describing hierarchical relations. 
