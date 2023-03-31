@@ -55,11 +55,11 @@ image::images/hierarchical-relations-explanations.png[alt="Figure with hierarchi
 The figure illustrates in particular the two different ways of describing hierarchical concept relations, in accordance with SKOS-AP-NO-Begrep v.2.x: 
 
 * The straightforward way, when there is no need for specifying the criterion of subdivision: 
-** using the property "specializes" (`xkos:specializes`) or "generalizes" (`xkos:generalizes`) for generic concept relations, demonstrated by the generic relations between "demo concept 1" and "demo concept 11"
-** using the property "has part" (`xkos:hasPart`) or "is part of" (`xkos:isPartOf`) for partitive concept relations, demonstrated by the partitive relations between "demo concept 2" and "demo concept 21"
+** using the property "specializes" (`xkos:specializes`) or "generalizes" (`xkos:generalizes`) for generic concept relations, demonstrated by the generic relations between https://w3id.org/demo-resources/demo-concepts#demoCpt1["demo concept 1"] and https://w3id.org/demo-resources/demo-concepts#demoCpt11["demo concept 11"]
+** using the property "has part" (`xkos:hasPart`) or "is part of" (`xkos:isPartOf`) for partitive concept relations, demonstrated by the partitive relations between https://w3id.org/demo-resources/demo-concepts#demoCpt2["demo concept 2"] and https://w3id.org/demo-resources/demo-concepts#demoCpt21["demo concept 21"]
 * Via an instance of generic/partitive concept relation, when there is a need for specifying the criterion of subdivision: 
-** using the property "has generic concept relation"(`skosno:hasGenericConceptRelation`) for generic concept relations, demonstrated by the generic relations between "demo concept 1" and "demo concept 12"
-** using the property "has partitive concept relation" (`skosno:hasPartitiveConceptRelation`) for partitive concept relations, demonstrated by the partitive relations between "demo concept 2" and "demo concept 22" 
+** using the property "has generic concept relation"(`skosno:hasGenericConceptRelation`) for generic concept relations, demonstrated by the generic relations between https://w3id.org/demo-resources/demo-concepts#demoCpt1["demo concept 1"] and https://w3id.org/demo-resources/demo-concepts#demoCpt12["demo concept 12"]
+** using the property "has partitive concept relation" (`skosno:hasPartitiveConceptRelation`) for partitive concept relations, demonstrated by the partitive relations between https://w3id.org/demo-resources/demo-concepts#demoCpt2["demo concept 2"] and https://w3id.org/demo-resources/demo-concepts#demoCpt22["demo concept 22"] 
  
 === Associative concept relations [[associative-relations]]
 
@@ -72,8 +72,14 @@ In SKOS-AP-NO-Begrep, some types of associative relations are explicitly support
 * has exact match with (`skos:exactMatch`)
 * see also (`rdfs:seeAlso`)
 
-SKOS-AP-NO-Begrep also allows to specify your own types of associative concept relations, using the property "is from-concept in" (`skosno:isFromConceptIn`) which refers to an instance of the class "Associative concept relation" (`skosno:AssociativeConceptRelation`). This is also demonstrated by https://w3id.org/demo-resources/demo-concepts#demoCpt3["demo concept 3"]. 
+SKOS-AP-NO-Begrep of course also allows you to specify your own types of associative concept relations, using the property "is from-concept in" (`skosno:isFromConceptIn`) which refers to an instance of the class "Associative concept relation" (`skosno:AssociativeConceptRelation`). This is also demonstrated by https://w3id.org/demo-resources/demo-concepts#demoCpt3["demo concept 3"]. 
 
+=== Concept definitions [[definition]]
+
+There are also two different ways to specify the definition of a given concept: 
+
+* The straightforward way, when there is no need for more details about the definition, by using the property "definition (direct statement)" (`skos:definition`), demonstrated by e.g. https://w3id.org/demo-resources/demo-concepts#demoCpt1["demo concept 1"]
+* Via an instance of the class Definition (`euvoc:XlNote`), by using the property "definition (via definition object)" (`euvoc:xlDefinition`), demonstrated by https://w3id.org/demo-resources/demo-concepts#demoCpt2["demo concept 2"]
 
 == Some cross-references with other demo resources [[cross-references]]
 
