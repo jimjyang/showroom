@@ -31,7 +31,7 @@ This showroom is meant to
 
 In this showroom we here a https://w3id.org/demo-resources/demo-concepts[collection of several demo concepts]:
 
-* The demo concepts #will be# automatically harvested to and thus also findable via https://jimjyang.github.io/showroom/#about-demo-catalog[the demo catalog].
+* The demo concepts #will be# automatically harvested to and thus also (#not yet#) be findable via https://jimjyang.github.io/showroom/#about-demo-catalog[the demo catalog].
 * There are seven demo concepts in the collection, where
 ** https://w3id.org/demo-resources/demo-concepts#demoCpt1["demo concept 1"] generalizes https://w3id.org/demo-resources/demo-concepts#demoCpt11["demo concept 11"] and https://w3id.org/demo-resources/demo-concepts#demoCpt12["demo concept 12"] (generic relations)
 *** "demo concept 11" specializes "demo concept 1"
@@ -40,10 +40,6 @@ In this showroom we here a https://w3id.org/demo-resources/demo-concepts[collect
 ***  "demo concept 21" is part of  "demo concept 2"
 ***  "demo concept 22" is part of  "demo concept 2"
 ** https://w3id.org/demo-resources/demo-concepts#demoCpt3["demo concept 3"] illustrates the usage of all _syntactically_ possible relations that a concept may have with other concepts. 
-
-=== Associative concept relations [[associative-relations]]
-
-_#... more to come ...#_ 
 
 === Hierarchical concept relations [[hierarchical-relations]]
 
@@ -60,6 +56,21 @@ The figure illustrates in particular the two different ways of describing hierar
 
 *  _#... more to come ...#_  
  
+=== Associative concept relations [[associative-relations]]
+
+While there are only two types of hierarchical concept relations as demonstrated above, there is an unlimited number of types associative concept relations. 
+
+In XKOS-AP-NO, some well-known types of associative relations are explicitly supported, e.g.:
+
+* replaces (`dct:replaces`) / is replaced by (`dct:isReplacedBy`)
+* has close match with (`skos:closeMatch)`
+* has exact match with (`skos:exactMatch`)
+* see also (`rdfs:seeAlso`)
+
+
+
+_#... more to come ...#_ 
+
 == Some cross-references with other demo resources [[cross-references]]
 
 *_Note_*: _Not all possible cross-references are demonstrated in this showroom. The lists are thus not exhaustive._
