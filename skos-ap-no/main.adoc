@@ -60,7 +60,7 @@ The figure illustrates in particular the two different ways of describing hierar
 
 While there are only two types of hierarchical concept relations as demonstrated above, there is an unlimited number of types associative concept relations. 
 
-In XKOS-AP-NO, some well-known types of associative relations are explicitly supported, e.g.:
+In SKOS-AP-NO-Begrep, some types of associative relations are explicitly supported, e.g.:
 
 * replaces (`dct:replaces`) / is replaced by (`dct:isReplacedBy`)
 * has close match with (`skos:closeMatch)`
