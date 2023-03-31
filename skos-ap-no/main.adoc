@@ -31,8 +31,8 @@ This showroom is meant to
 
 In this showroom we here a https://w3id.org/demo-resources/demo-concepts[collection of several demo concepts]:
 
-* The demo concepts #will be# automatically harvested to and thus published via https://jimjyang.github.io/showroom/#about-demo-catalog[the demo catalog].
-
+* The demo concepts #will be# automatically harvested to and thus also findable via https://jimjyang.github.io/showroom/#about-demo-catalog[the demo catalog].
+* _#... more to come ...#_
 
 === Associative concept relations [[associative-relations]]
 
