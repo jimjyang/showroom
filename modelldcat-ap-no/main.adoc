@@ -40,19 +40,19 @@ _#... more may come ...#_
 
 *_Note_*: _Not all possible cross-references are demonstrated in this showroom. The lists are thus not exhaustive._
 
-Some examples of cross-references between information models and classifications: 
+Information models and classifications, for example: 
 
 * _#... more to come ...#_  
 
-Some examples of cross-references between information models and concepts: 
+Information models and concepts, for example: 
 
 * _#... more to come ...#_  
 
-Some examples of cross-references between information models and datasets: 
+Information models and datasets, for example: 
 
 * _#... more to come ...#_  
 
-Some examples of cross-references between information models and services/events: 
+Information models and services/events, for example: 
 
 * _#... more to come ...#_  
 
