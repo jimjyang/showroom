@@ -98,7 +98,7 @@ Concepts and datasets, for example:
 
 * _#... more to come ...#_ 
 
-Some examples of cross-references between concepts and information models:
+Concepts and information models, for example:
 
 * _#... more to come ...#_ 
 
