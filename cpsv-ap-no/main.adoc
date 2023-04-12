@@ -37,19 +37,19 @@ In this showroom we have a https://w3id.org/demo-resources/demo-services-events[
 
 *_Note_*: _Not all possible cross-references are demonstrated in this showroom. The lists are thus not exhaustive._
 
-Services/events models and classifications, for example: 
+Services/events and classifications, for example: 
 
 * _#... more to come ...#_  
 
-Services/events models and concepts, for example: 
+Services/events and concepts, for example: 
 
 * _#... more to come ...#_  
 
-Services/events models and datasets, for example: 
+Services/events and datasets, for example: 
 
 * _#... more to come ...#_  
 
-Services/events models and information models, for example: 
+Services/events and information models, for example: 
 
 * _#... more to come ...#_  
 
