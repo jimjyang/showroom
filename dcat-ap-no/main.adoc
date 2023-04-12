@@ -40,19 +40,19 @@ In this showroom we have a https://w3id.org/demo-resources/demo-datasets#demoDat
 
 *_Note_*: _Not all possible cross-references are demonstrated in this showroom. The lists are thus not exhaustive._
 
-Some examples of cross-references between datasets and classifications:
+Datasets and classifications, for example:
 
 * _... #more to come# ..._
 
-Some examples of cross-references between datasets and concepts:
+Datasets and concepts, for example:
 
 * _... #more to come# ..._
 
-Some examples of cross-references between datasets and information models:
+Datasets and information models, for example:
 
 * _... #more to come# ..._
 
-Some examples of cross-references between datasets and services/events:
+Datasets and services/events, for example:
 
 * _... #more to come# ..._
 
