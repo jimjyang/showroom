@@ -41,8 +41,8 @@
    dct:title """Demo kontrollert vokabular 1"""@nb,
        """Demo controlled vocabulary 1"""@en;
    dct:publisher <https://organization-catalog.fellesdatakatalog.digdir.no/organizations/991825827>;
-   dct:subject <https://w3id.org/demo-resources/demo-concepts/demoCpt1>,
-       <https://w3id.org/demo-resources/demo-concepts/demoCpt2>;
+   dct:subject <https://w3id.org/demo-resources/demo-concepts#demoCpt1>,
+       <https://w3id.org/demo-resources/demo-concepts#demoCpt2>;
    dcat:distribution <https://w3id.org/demo-resources/demo-datasets#demoDistribution1>,
        <https://w3id.org/demo-resources/demo-datasets#demoDistribution2>;
    dct:spatial <http://publications.europa.eu/resource/authority/country/NOR>;
@@ -98,4 +98,4 @@
    vcard:hasURL <https://digdir.no>;
    .
  
-#### End of the file, 2023-03-29 09:39:17
+#### End of the file, 2023-04-13 11:08:44
