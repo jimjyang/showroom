@@ -29,7 +29,7 @@ This showroom is meant to
 
 == The demo resources [[demo-resources]]
 
-In this showroom we have a https://w3id.org/demo-resources/demo-models[a catalog with several demo information models]:
+In this showroom we have a https://w3id.org/demo-resources/demo-models[a catalog with several demo information models] (in link:files/demo-models.ttl[RDF Turtle]):
 
 * The demo models are automatically harvested to and thus findable via https://demo.fellesdatakatalog.digdir.no/informationmodels?q=demomodel[the demo catalog]. 
 
