@@ -27,7 +27,7 @@ This showroom is meant to
 
 == The demo resources [[demo-resources]]
 
-In this showroom we have a https://w3id.org/demo-resources/demo-datasets#demoDataset1[demo dataset, called "Demo controlled vocabulary 1"]:
+In this showroom we have a https://w3id.org/demo-resources/demo-datasets#demoDataset1[demo dataset, called "Demo controlled vocabulary 1"] (in link:files/demo-datasets.ttl[RDF Turtle]):
 
 * The demo dataset shown here, is exactly the same as the demo classification called "Demo controlled vocabulary 1" that is demonstrated in https://jimjyang.github.io/showroom/xkos-ap-no/[the showroom with demo classifications]. 
 ** This is because a classification with its categories _is_ a dataset.   
