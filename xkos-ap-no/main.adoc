@@ -39,7 +39,7 @@ In this showroom we have a demo https://data.norge.no/specification/xkos-ap-no#K
 image::images/demo-classification1.png[alt="Graph with nodes and relations between the nodes. The content is explained in the text."]
 
 
-Our demo classification, called https://w3id.org/demo-resources/demo-classifications#demoClassification1["Demo controlled vocabulary 1"], has: 
+Our demo classification, called https://w3id.org/demo-resources/demo-classifications#demoClassification1["Demo controlled vocabulary 1"] (in link:files/demo-classifications.ttl[RDF Turtle]), has: 
 
 * two classification levels, https://w3id.org/demo-resources/demo-classifications#demoLev1["Demo level 1"] and https://w3id.org/demo-resources/demo-classifications#demoLev2["Demo level 2"].
 ** "Demo level 1" contains categories https://w3id.org/demo-resources/demo-classifications#demo-category-A["Demo category A"] and https://w3id.org/demo-resources/demo-classifications#demo-category-B["Demo category B"].
