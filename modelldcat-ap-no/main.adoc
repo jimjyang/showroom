@@ -16,7 +16,7 @@ ifdef::backend-pdf[:toc: macro]
 
 Welcome to the showroom with demo information models, demonstrating the usage of https://data.norge.no/specification/modelldcat-ap-no[ModellDCAT-AP-NO, window="_blank", role="ext-link"]! 
 
-MOdellDCAT-AP-NO is the Norwegian application profile of https://data.norge.no/specification/dcat-ap-no[DCAT-AP-NO, window="_blank", role="ext-link"], for describing information models and catalogs of information models.
+_ModellDCAT-AP-NO is the Norwegian application profile of https://data.norge.no/specification/dcat-ap-no[DCAT-AP-NO, window="_blank", role="ext-link"], for describing information models and catalogs of information models._
 
 == The purpose [[purpose]]
 
