@@ -13,7 +13,9 @@ ifdef::backend-pdf[:toc: macro]
 :xrefstyle: short
 
 
-Welcome to the showroom with demo services and events, demonstrating the usage of https://informasjonsforvaltning.github.io/cpsv-ap-no/[CPSV-AP-NO, window="_blank", role="ext-link"] (the Norwegian application profile of CPSV-AP for describing services and events, #currently as a trial version#)! 
+Welcome to the showroom with demo services and events, demonstrating the usage of https://informasjonsforvaltning.github.io/cpsv-ap-no/[CPSV-AP-NO, window="_blank", role="ext-link"]!
+
+_CPSV-AP-NO (#currently as a trial version#) is the the Norwegian application profile of https://github.com/SEMICeu/CPSV-AP[EU's Core Public Service Vocabulary Application Profile (CPSV-AP), window="_blank", role="ext-link"], for describing services and events._
 
 == The purpose [[purpose]]
 
