@@ -24,18 +24,9 @@
    dct:title """Jim's catalog of demo models"""@en,
        """Jim sin katalog over demomodeller"""@nb;
    dct:publisher <https://organization-catalog.fellesdatakatalog.digdir.no/organizations/991825827>;
-   dct:modified "2023-03-15"^^xsd:date;
+   dct:modified "2023-04-14"^^xsd:date;
    dct:language <http://publications.europa.eu/resource/authority/language/ENG>,
        <http://publications.europa.eu/resource/authority/language/NOB>;
-   .
- 
-<https://w3id.org/demo-resources/demo-models#digdir-contact-point>
-   rdf:type vcard:Organization;
-   vcard:hasOrganizationName """Norwegian Digitalisation Agency"""@en,
-       """Digitaliseringsdirektoratet"""@nb,
-       """Digitaliseringsdirektoratet"""@nn;
-   vcard:hasEmail "mailto:informasjonsforvaltning@digdir.no"^^xsd:anyURI;
-   vcard:hasURL <https://digdir.no>;
    .
  
 <https://w3id.org/demo-resources/demo-models#demomodel1>
@@ -188,4 +179,13 @@
    rdfs:seeAlso <https://jimjyang.github.io/showroom/modelldcat-ap-no/images/demomodel4.png>;
    .
  
-#### End of the file, 2023-03-27 13:34:49
+<https://w3id.org/demo-resources/demo-models#digdir-contact-point>
+   rdf:type vcard:Organization;
+   vcard:hasOrganizationName """Norwegian Digitalisation Agency"""@en,
+       """Digitaliseringsdirektoratet"""@nb,
+       """Digitaliseringsdirektoratet"""@nn;
+   vcard:hasEmail "mailto:informasjonsforvaltning@digdir.no"^^xsd:anyURI;
+   vcard:hasURL <https://digdir.no>;
+   .
+ 
+#### End of the file, 2023-04-14 08:17:44
