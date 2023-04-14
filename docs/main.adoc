@@ -17,7 +17,7 @@ ifdef::backend-pdf[:toc: macro]
 
 *Welcome* to the showrooms created by Jim at the https://www.digdir.no/[Norwegian Digitalisation Agency (Digdir), window="_blank", role="ext-link"], with RDF-based machine-readable demo resources!
 
-*Feedback*: Please provide your feedback as https://github.com/jimjyang/showroom/issues[Github Issues]. 
+*Feedback*: Please provide your feedback as https://github.com/jimjyang/showroom/issues[Github Issues, window="_blank", role="ext-link]. 
 
 
 include::overview.adoc[]
