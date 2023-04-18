@@ -14,7 +14,7 @@ ifdef::backend-pdf[:toc: macro]
 :xrefstyle: short
 
 
-Welcome to the showroom with dereferenced demo URIs, demonstrating a possible implementation of https://www.digdir.no/standarder/peikarar-til-offentlege-ressursar-pa-nett/1492[the Norwegian URI-standard, window="_blank", role="ext-link"]! 
+Welcome to the showroom with dereferenced demo URIs, demonstrating a possible implementation of https://www.digdir.no/standarder/peikarar-til-offentlege-ressursar-pa-nett/1492[the Norwegian URI-standard ↗, window="_blank", role="ext-link"]! 
 
 == The purpose [[purpose]]
 
@@ -25,7 +25,7 @@ This showroom is meant to
 
 == The demo resources [[demo-resources]]
 
-In this showroom we demonstrate how to use the service for permanent URIs provided by https://w3id.org[w3id.org, window="_blank", role="ext-link"]. 
+In this showroom we demonstrate how to use the service for permanent URIs provided by https://w3id.org[w3id.org ↗, window="_blank", role="ext-link"]. 
 
 === URI-pattern
 
@@ -48,9 +48,9 @@ Using w3id.org, our demo URI-pattern is as follows:
 
 === Dereferencing URIs with content negotiation
 
-According to https://www.w3.org/TR/webarch/#representation-management[W3C], "a URI owner SHOULD provide representations of the resource it identifies". 
+According to https://www.w3.org/TR/webarch/#representation-management[W3C ↗, window="_blank", role="ext-link"], "a URI owner SHOULD provide representations of the resource it identifies". 
 
-We use the services provided by w3id.org, and define https://github.com/perma-id/w3id.org/tree/master/demo-resources[RewriteRules for dereferencing our demo URIs, window="_blank", role="ext-link"]. 
+We use the services provided by w3id.org, and define https://github.com/perma-id/w3id.org/tree/master/demo-resources[RewriteRules for dereferencing our demo URIs ↗, window="_blank", role="ext-link"]. 
 
 We also use the services provided by w3id.org to implement content negotiation  (incl. language negotiation), such that the same URI may return RDF Turtle or HTML in the preferred language, depending on "who's asking".
 
