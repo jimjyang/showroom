@@ -31,7 +31,7 @@ This showroom is meant to
 
 == The demo resources [[explanations]]
 
-In this showroom we have a demo https://data.norge.no/specification/xkos-ap-no#Klassifikasjon[classification (`skos:ConceptScheme`) ↗,  window="_blank", role="ext-link", content="\1F855"] with its https://data.norge.no/specification/xkos-ap-no#Klassifikasjonsniv%C3%A5[classification levels (`xkos:ClassificationLevel`) ↗, window="_blank", role="ext-link", content="\1F855"] and https://data.norge.no/specification/xkos-ap-no#Kategori[categories (`xkos:ClassificationLevel`) ↗, window="_blank", role="ext-link", content="\1F855"],  illustrated in <<img-demo-classification>>. 
+In this showroom we have a demo https://data.norge.no/specification/xkos-ap-no#Klassifikasjon[classification (skos:ConceptScheme) ↗,  window="_blank", role="ext-link"] with its https://data.norge.no/specification/xkos-ap-no#Klassifikasjonsniv%C3%A5[classification levels (xkos:ClassificationLevel) ↗, window="_blank", role="ext-link"] and https://data.norge.no/specification/xkos-ap-no#Kategori[categories (xkos:ClassificationLevel) ↗, window="_blank", role="ext-link"],  illustrated in <<img-demo-classification>>. 
 
 
 [[img-demo-classification]]
@@ -66,7 +66,7 @@ Our demo classification, called https://w3id.org/demo-resources/demo-classificat
 *Classifications and datasets*, for example:
 
 * A classification with its categories is a dataset, and should be made available machine-readably. 
-** In our https://jimjyang.github.io/showroom/dcat-ap-no/[showroom with demo datasets], we demonstrate how to describe this demo classification as a machine-readable open dataset, and to make it https://demo.fellesdatakatalog.digdir.no/datasets?q=demodataset[findable via the demo portal ↗,  window="_blank", role="ext-link", content="\1F855"].
+** In our https://jimjyang.github.io/showroom/dcat-ap-no/[showroom with demo datasets], we demonstrate how to describe this demo classification as a machine-readable open dataset, and to make it https://demo.fellesdatakatalog.digdir.no/datasets?q=demodataset[findable via the demo portal ↗,  window="_blank", role="ext-link"].
 
 * When describing a dataset, and where coded values are used, the coded values should preferably be chosen from controlled vocabularies (i.e., classifications). Examples of properties with coded values are "access rights" (`dct:accessRights`), "format" (`dct:format`). 
 ** This will be demonstrated and explained in our https://jimjyang.github.io/showroom/dcat-ap-no/[showroom with demo datasets]. 
