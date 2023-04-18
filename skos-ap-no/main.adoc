@@ -90,22 +90,22 @@ There are also two different ways to specify the definition of a given concept:
 
 *_Note_*: _Not all possible cross-references are demonstrated in this showroom. The lists are thus not exhaustive._
 
-Concepts and classifications, for example:
+*Concepts and classifications*, for example:
 
 * A concept may refer to a classification as its value range. 
 ** Our https://w3id.org/demo-resources/demo-concepts#demoCpt2["demo concept 2"], refers to our https://w3id.org/demo-resources/demo-classifications#demoClassification1["demo controlled vocabulary 1"] (demonstrated in our https://jimjyang.github.io/showroom/xkos-ap-no/[showroom with demo classificatinos]) as its "value range" (`skosno:valueRange`).
 * A concept may be included or referred to from a classification. 
 ** This is demonstrated in our https://jimjyang.github.io/showroom/xkos-ap-no/[showroom with demo classificatinos]. 
 
-Concepts and datasets, for example:
+*Concepts and datasets*, for example:
 
 * _#... more to come ...#_ 
 
-Concepts and information models, for example:
+*Concepts and information models*, for example:
 
 * _#... more to come ...#_ 
 
-Concepts and services/events, for example:
+*Concepts and services/events*, for example:
 
 * _#... more to come ...#_ 
 
