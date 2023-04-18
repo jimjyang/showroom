@@ -1,7 +1,8 @@
 include::../locale/attributes.adoc[]
 = Jim's showroom - demo classifications
 :doctype: book
-:docinfo:
+:docinfo: shared
+:docinfodir: ../docs
 :icons: font
 :toc: left
 ifdef::backend-pdf[:toc: macro]
