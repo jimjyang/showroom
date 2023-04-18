@@ -1,6 +1,6 @@
 == Overview and cross-references between the showrooms [[overview]]
 
-There are currently following showrooms:
+We have currently following showrooms:
 
 * https://jimjyang.github.io/showroom/xkos-ap-no/[Demo classifications / controlled vocabularies]: In this showroom we will demonstrate the usage of https://data.norge.no/specification/xkos-ap-no[XKOS-AP-NO, window="_blank", role="ext-link"] (the Norwegian application profile of https://rdf-vocabulary.ddialliance.org/xkos.html[XKOS, window="_blank", role="ext-link"]), to describe and publish machine-readable classifications, controlled vocabularies, code lists etc., with cross-references to some of the other demo resources covered by the other specifications. 
 
