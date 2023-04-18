@@ -6,8 +6,8 @@ The demo portal has the same functionalities as https://data.norge.no/[the Natio
 
 Examples for how to find some of the demo resources in the demo portal:
 
-* demo classifications / datasets: by for instance https://demo.fellesdatakatalog.digdir.no/datasets?q=demodataset[searching "demodataset" in the "Datasets" part of the demo catalog, window="_blank", role="ext-link"].
-* demo concepts (#not yet published there#): by for instance https://demo.fellesdatakatalog.digdir.no/concepts?q=demoCpt[searching "demoCpt" in the "Concepts" part of the demo catalog, window="_blank", role="ext-link"]. 
-* demo information models: by for instance https://demo.fellesdatakatalog.digdir.no/informationmodels?q=demomodel[searching "demomodel" in the "Information models" part of the demo catalog, window="_blank", role="ext-link"].
+* demo classifications / datasets: by for instance https://demo.fellesdatakatalog.digdir.no/datasets?q=demodataset[searching "demodataset" in the "Datasets" part of the demo portal, window="_blank", role="ext-link"].
+* demo concepts (#not yet published there#): by for instance https://demo.fellesdatakatalog.digdir.no/concepts?q=demoCpt[searching "demoCpt" in the "Concepts" part of the demo portal, window="_blank", role="ext-link"]. 
+* demo information models: by for instance https://demo.fellesdatakatalog.digdir.no/informationmodels?q=demomodel[searching "demomodel" in the "Information models" part of the demo portal, window="_blank", role="ext-link"].
 * _#... more may come ...#_
 
