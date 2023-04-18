@@ -34,7 +34,7 @@ This showroom is meant to
 
 In this showroom we have a https://w3id.org/demo-resources/demo-concepts[collection of demo concepts] (in link:files/demo-concepts.ttl[RDF Turtle]):
 
-* The demo concepts #will be# automatically harvested to and thus also (#not yet#) be findable via https://jimjyang.github.io/showroom/#about-demo-catalog[the demo catalog].
+* The demo concepts #will be# automatically harvested to and thus also (#not yet#) be findable via https://demo.fellesdatakatalog.digdir.no/concepts?q=demoCpt[the demo portal].
 * There are seven demo concepts in the collection, where
 ** https://w3id.org/demo-resources/demo-concepts#demoCpt1["demo concept 1"] generalizes https://w3id.org/demo-resources/demo-concepts#demoCpt11["demo concept 11"] and https://w3id.org/demo-resources/demo-concepts#demoCpt12["demo concept 12"] (generic relations)
 *** "demo concept 11" specializes "demo concept 1"
