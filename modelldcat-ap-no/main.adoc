@@ -15,9 +15,9 @@ ifdef::backend-pdf[:toc: macro]
 
 // _Updated: 2023-03-20_
 
-Welcome to the showroom with demo information models, demonstrating the usage of https://data.norge.no/specification/modelldcat-ap-no[ModellDCAT-AP-NO, window="_blank", role="ext-link"]! 
+Welcome to the showroom with demo information models, demonstrating the usage of https://data.norge.no/specification/modelldcat-ap-no[ModellDCAT-AP-NO ↗, window="_blank", role="ext-link"]! 
 
-_ModellDCAT-AP-NO is the Norwegian application profile of https://data.norge.no/specification/dcat-ap-no[DCAT-AP-NO, window="_blank", role="ext-link"], for describing information models and catalogs of information models._
+_ModellDCAT-AP-NO is the Norwegian application profile of https://data.norge.no/specification/dcat-ap-no[DCAT-AP-NO ↗, window="_blank", role="ext-link"], for describing information models and catalogs of information models._
 
 == The purpose [[purpose]]
 
@@ -34,7 +34,7 @@ This showroom is meant to
 
 In this showroom we have a https://w3id.org/demo-resources/demo-models[a catalog with several demo information models] (in link:files/demo-models.ttl[RDF Turtle]):
 
-* The demo models are automatically harvested to and thus findable via https://demo.fellesdatakatalog.digdir.no/informationmodels?q=demomodel[the demo portal]. 
+* The demo information models are automatically harvested to and thus findable via https://demo.fellesdatakatalog.digdir.no/informationmodels?q=demomodel[the demo portal ↗, window="_blank", role="ext-link"]. 
 
 
 _#... more may come ...#_  
