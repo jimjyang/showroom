@@ -14,7 +14,7 @@ ifdef::backend-pdf[:toc: macro]
 :xrefstyle: short
 
 
-Welcome to the showroom with demo datasets, demonstrating the usage of https://data.norge.no/specification/dcat-ap-no[DCAT-AP-NO, window="_blank", role="ext-link"]! 
+Welcome to the showroom with demo datasets, demonstrating the usage of https://data.norge.no/specification/dcat-ap-no[DCAT-AP-NO ↗, window="_blank", role="ext-link"]! 
 
 _DCAT-AP-NO is the Norwegian application profile of EU's https://github.com/SEMICeu/BregDCAT-AP[BRegDCAT-AP, window="_blank", role="ext-link"], for describing datasets, data services and data catalogs._ 
 
