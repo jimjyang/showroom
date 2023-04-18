@@ -34,7 +34,7 @@ This showroom is meant to
 
 In this showroom we have a https://w3id.org/demo-resources/demo-models[a catalog with several demo information models] (in link:files/demo-models.ttl[RDF Turtle]):
 
-* The demo models are automatically harvested to and thus findable via https://demo.fellesdatakatalog.digdir.no/informationmodels?q=demomodel[the demo catalog]. 
+* The demo models are automatically harvested to and thus findable via https://demo.fellesdatakatalog.digdir.no/informationmodels?q=demomodel[the demo portal]. 
 
 
 _#... more may come ...#_  
@@ -43,19 +43,19 @@ _#... more may come ...#_
 
 *_Note_*: _Not all possible cross-references are demonstrated in this showroom. The lists are thus not exhaustive._
 
-Information models and classifications, for example: 
+*Information models and classifications*, for example: 
 
 * _#... more to come ...#_  
 
-Information models and concepts, for example: 
+*Information models and concepts*, for example: 
 
 * _#... more to come ...#_  
 
-Information models and datasets, for example: 
+*Information models and datasets*, for example: 
 
 * _#... more to come ...#_  
 
-Information models and services/events, for example: 
+*Information models and services/events*, for example: 
 
 * _#... more to come ...#_  
 
