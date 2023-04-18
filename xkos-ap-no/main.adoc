@@ -31,7 +31,7 @@ This showroom is meant to
 
 == The demo resources [[explanations]]
 
-In this showroom we have a demo https://data.norge.no/specification/xkos-ap-no#Klassifikasjon[classification, window="_blank", role="ext-link", content="\f08e"] with its https://data.norge.no/specification/xkos-ap-no#Klassifikasjonsniv%C3%A5[classification levels, window="_blank", role="ext-link", content="\f08e"] and https://data.norge.no/specification/xkos-ap-no#Kategori[categories, window="_blank", role="ext-link", content="\f08e"],  illustrated in <<img-demo-classification>>. 
+In this showroom we have a demo https://data.norge.no/specification/xkos-ap-no#Klassifikasjon[classification (`skos:ConceptScheme`),  window="_blank", role="ext-link", content="\f08e"] with its https://data.norge.no/specification/xkos-ap-no#Klassifikasjonsniv%C3%A5[classification levels (`xkos:ClassificationLevel`), window="_blank", role="ext-link", content="\f08e"] and https://data.norge.no/specification/xkos-ap-no#Kategori[categories (`xkos:ClassificationLevel`), window="_blank", role="ext-link", content="\f08e"],  illustrated in <<img-demo-classification>>. 
 
 
 [[img-demo-classification]]
