@@ -66,7 +66,7 @@ Classifications and concepts, for example:
 Classifications and datasets, for example:
 
 * A classification with its categories is a dataset, and should be made available machine-readably. 
-** In our https://jimjyang.github.io/showroom/dcat-ap-no/[showroom with demo datasets], we demonstrate how to describe this demo classification as a machine-readable open dataset, and to make it https://demo.fellesdatakatalog.digdir.no/datasets?q=demodataset[findable via the demo catalog].
+** In our https://jimjyang.github.io/showroom/dcat-ap-no/[showroom with demo datasets], we demonstrate how to describe this demo classification as a machine-readable open dataset, and to make it https://demo.fellesdatakatalog.digdir.no/datasets?q=demodataset[findable via the demo portal].
 
 * When describing a dataset, and where coded values are used, the coded values should preferably be chosen from controlled vocabularies (i.e., classifications). Examples of properties with coded values are "access rights" (`dct:accessRights`), "format" (`dct:format`). 
 ** This will be demonstrated and explained in our https://jimjyang.github.io/showroom/dcat-ap-no/[showroom with demo datasets]. 
