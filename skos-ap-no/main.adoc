@@ -14,9 +14,9 @@ ifdef::backend-pdf[:toc: macro]
 :xrefstyle: short
 
 
-Welcome to the showroom with demo concepts, demonstrating the usage of https://data.norge.no/specification/skos-ap-no-begrep[SKOS-AP-NO-Begrep, window="_blank", role="ext-link"]! 
+Welcome to the showroom with demo concepts, demonstrating the usage of https://data.norge.no/specification/skos-ap-no-begrep[SKOS-AP-NO-Begrep ↗, window="_blank", role="ext-link"]! 
 
-_SKOS-AP-NO is the Norwegian application profile of W3C's https://www.w3.org/2004/02/skos/[SKOS, window="_blank", role="ext-link"], for describing and publishing concepts and concept collections._
+_SKOS-AP-NO is the Norwegian application profile of W3C's https://www.w3.org/2004/02/skos/[SKOS ↗, window="_blank", role="ext-link"], for describing and publishing concepts and concept collections._
 
 == The purpose [[purpose]]
 
@@ -34,7 +34,7 @@ This showroom is meant to
 
 In this showroom we have a https://w3id.org/demo-resources/demo-concepts[collection of demo concepts] (in link:files/demo-concepts.ttl[RDF Turtle]):
 
-* The demo concepts #will be# automatically harvested to and thus also (#not yet#) be findable via https://demo.fellesdatakatalog.digdir.no/concepts?q=demoCpt[the demo portal].
+* The demo concepts #will be# automatically harvested to and thus also (#not yet#) be findable via https://demo.fellesdatakatalog.digdir.no/concepts?q=demoCpt[the demo portal ↗, window="_blank", role="ext-link"].
 * There are seven demo concepts in the collection, where
 ** https://w3id.org/demo-resources/demo-concepts#demoCpt1["demo concept 1"] generalizes https://w3id.org/demo-resources/demo-concepts#demoCpt11["demo concept 11"] and https://w3id.org/demo-resources/demo-concepts#demoCpt12["demo concept 12"] (generic relations)
 *** "demo concept 11" specializes "demo concept 1"
