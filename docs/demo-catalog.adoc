@@ -7,7 +7,7 @@ In order to make the resources available/findable through the National Data Cata
 . use the editors, to register metadata (descriptions) about your resources (datasets, concepts etc.) which will be automatically harvested into the National Data Portal, or 
 . use the harvesting services, to specify the URLs where your machine-readable descriptions are made available for harvesting into the National Data Catalog.
 
-There is also a https://demo.fellesdatakatalog.digdir.no/[demo portal ↗, window="_blank", role="ext-link"] provided by the Norwegian Digitalisation Agency, which has the same functionalities as the National Data Catalog, but the content is only for testing and demonstration purposes. 
+There is also a https://demo.fellesdatakatalog.digdir.no/[demo portal ↗, window="_blank", role="ext-link"] provided by the Norwegian Digitalisation Agency, which has the same functionalities as the National Data Catalog, with the content only meant for testing and demonstration purposes. 
 
 Using the harvesting services, most (if mot all) of the demo resources that are demonstrated in the various showrooms here are, or will be, automatically harvested to and thus findable via the demo portal. 
 
