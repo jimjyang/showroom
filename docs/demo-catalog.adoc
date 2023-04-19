@@ -16,7 +16,7 @@ image::images/registering-n-harvesting.png[alt="Drawing showing registration and
 
 There is also a https://demo.fellesdatakatalog.digdir.no/[demo portal ↗, window="_blank", role="ext-link"] provided by the Norwegian Digitalisation Agency, which has the same functionalities as the National Data Catalog, with the content only meant for testing and demonstration purposes. 
 
-Using the harvesting services, all the demo resources that are demonstrated in the various showrooms here are, or will be, automatically harvested to and thus be findable via the demo portal. 
+Using the harvesting services, all the demo resources that are demonstrated in the various showrooms here are, or will be, automatically harvested to and thus also findable via the demo portal. 
 
 Examples for how to find some of the demo resources in the demo portal:
 
