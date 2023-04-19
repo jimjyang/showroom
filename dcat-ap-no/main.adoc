@@ -18,7 +18,7 @@ Welcome to the showroom with demo datasets, demonstrating the usage of https://d
 
 _DCAT-AP-NO is the Norwegian application profile of EU's https://github.com/SEMICeu/BregDCAT-AP[BRegDCAT-AP ↗, window="_blank", role="ext-link"], for describing datasets, data services and data catalogs._ 
 
-== The purpose [[purpose]] 
+== Purpose [[purpose]] 
 
 This showroom is meant to 
 
@@ -28,7 +28,7 @@ This showroom is meant to
 
 *_Disclaimer_*: _The machine-readable demo datasets are meant for demo purposes only. They do not represent any real world phenomena at all. On the other hand, they are supposed to syntactically conform to DCAT-AP-NO._ 
 
-== The demo resources [[demo-resources]]
+== Demo resources in this showroom [[demo-resources]]
 
 In this showroom we have a https://w3id.org/demo-resources/demo-datasets#demoDataset1[demo dataset, called "Demo controlled vocabulary 1"] (in link:files/demo-datasets.ttl[RDF Turtle]):
 
