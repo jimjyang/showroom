@@ -4,12 +4,12 @@ The Norwegian national specifications demonstrated in the various showrooms here
 
 In order to make the resources available/findable through the National Data Catalog, you may 
 
-. use the editors, to register metadata (descriptions) about your resources (datasets, concepts etc.) which will be automatically harvested into the National Data Portal, or 
-. use the harvesting services, to specify the URLs where your machine-readable descriptions are made available for harvesting into the National Data Catalog.
+. use the editors, to register metadata (descriptions) about your resources (datasets, concepts etc.) which will be automatically harvested to the National Data Portal, or 
+. use the harvesting services, to specify the URLs where your machine-readable descriptions are made available for harvesting to the National Data Catalog.
 
 There is also a https://demo.fellesdatakatalog.digdir.no/[demo portal ↗, window="_blank", role="ext-link"] provided by the Norwegian Digitalisation Agency, which has the same functionalities as the National Data Catalog, with the content only meant for testing and demonstration purposes. 
 
-Using the harvesting services, most (if mot all) of the demo resources that are demonstrated in the various showrooms here are, or will be, automatically harvested to and thus findable via the demo portal. 
+Using the harvesting services, all the demo resources that are demonstrated in the various showrooms here are, or will be, automatically harvested to and thus be findable via the demo portal. 
 
 Examples for how to find some of the demo resources in the demo portal:
 
