@@ -1,8 +1,15 @@
-== Demo resources findable via the demo portal [[about-demo-portal]]
+== Making the resources available through national data portal [[about-demo-portal]]
 
-Most (if mot all) of the demo resources that are demonstrated in the various showrooms here are, or will be, automatically harvested to and thus findable via https://demo.fellesdatakatalog.digdir.no/[the demo portal ↗, window="_blank", role="ext-link"] provided by the Norwegian Digitalisation Agency. 
+The Norwegian national specifications demonstrated in the various showrooms here, are also meant to be used to make the descriptions (metadata) of the resources available machine-readably, e.g. through the https://data.norge.no/[the National Data Catalog of Norway ↗, window="_blank", role="ext-link"] maintained by the Norwegian Digitalisation Agency. 
 
-The demo portal has the same functionalities as https://data.norge.no/[the National Data Catalog of Norway ↗, window="_blank", role="ext-link"], but the content is only for testing or demonstration purposes. 
+In order to make the resources available/findable through the National Data Catalog, you may 
+
+. use the editors to register metadata (descriptions) about your resources (datasets, concepts etc.), or 
+. use the harvesting services to specify the URLs where your machine-readable descriptions are made available for harvesting into the National Data Catalog.   
+
+There is also a https://demo.fellesdatakatalog.digdir.no/[the demo portal ↗, window="_blank", role="ext-link"] provided by the Norwegian Digitalisation Agency, which has the same functionalities as the National Data Catalog, but the content is only for testing and demonstration purposes. 
+
+Using the harvesting services, most (if mot all) of the demo resources that are demonstrated in the various showrooms here are, or will be, automatically harvested to and thus findable via https://demo.fellesdatakatalog.digdir.no/[the demo portal ↗, window="_blank", role="ext-link"]. 
 
 Examples for how to find some of the demo resources in the demo portal:
 
