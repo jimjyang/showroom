@@ -2,10 +2,12 @@
 
 The Norwegian national specifications demonstrated in the various showrooms here, are also meant to be used to make the descriptions (metadata) of the resources available machine-readably, e.g. through the https://data.norge.no/[the National Data Catalog of Norway ↗, window="_blank", role="ext-link"] maintained by the Norwegian Digitalisation Agency. 
 
-As illustrated <<img-registering-n-harvesting>>, in n order to make the resources available/findable through the National Data Catalog, you may 
+In order to make the resources available/findable through the National Data Catalog, you may 
 
 . use the registration services, to register metadata (descriptions) about your resources (datasets, concepts etc.) which will be automatically harvested to the National Data Portal, or 
 . use the harvesting services, to specify the URLs where your machine-readable descriptions are made available for harvesting to the National Data Catalog.
+
+This is illustrated <<img-registering-n-harvesting>>, which also shows the usage of the national specifications in the data portal. 
 
 [[img-registering-n-harvesting]]
 .Making your resources available through the National Data Catalog.
