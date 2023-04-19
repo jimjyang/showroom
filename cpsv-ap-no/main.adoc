@@ -18,7 +18,7 @@ Welcome to the showroom with demo services and events, demonstrating the usage o
 
 _CPSV-AP-NO (#currently as a trial version#) is the the Norwegian application profile of https://github.com/SEMICeu/CPSV-AP[EU's Core Public Service Vocabulary Application Profile (CPSV-AP) ↗, window="_blank", role="ext-link"], for describing services and events._
 
-== The purpose [[purpose]]
+== Purpose [[purpose]]
 
 This showroom is meant to 
 
@@ -29,7 +29,7 @@ This showroom is meant to
 *_Disclaimer_*: _The machine-readable demo services and events are meant for demo purposes only. They do not represent any real world phenomena at all. On the other hand, they are supposed to syntactically conform to CPSV-AP-NO._ 
 
 
-== The demo resources [[demo-resources]]
+== Demo resources in this showroom [[demo-resources]]
 
 In this showroom we have a https://w3id.org/demo-resources/demo-services-events[catalog of demo services and demo events] (in link:files/demo-services-events.ttl[RDF Turtle]): 
 
