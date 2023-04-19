@@ -18,7 +18,7 @@ Welcome to the showroom with demo classifications, demonstrating the usage of ht
 
 _XKOS-AP-NO is the Norwegian application profile of https://rdf-vocabulary.ddialliance.org/xkos.html[XKOS ↗, window="_blank", role="ext-link"], for describing and publishing classifications, controlled vocabularies, code lists etc._ 
 
-== The purpose [[purpose]]
+== Purpose [[purpose]]
 
 This showroom is meant to
 
@@ -29,7 +29,7 @@ This showroom is meant to
 *_Disclaimer_*: _The machine-readable demo classifications and demo categories are meant for demo purposes only. They do not represent any real world phenomena. On the other hand, they are supposed to syntactically conform to XKOS-AP-NO._
 
 
-== The demo resources [[explanations]]
+== Demo resources in this showroom [[demo-resources]]
 
 In this showroom we have a demo https://data.norge.no/specification/xkos-ap-no#Klassifikasjon[classification (skos:ConceptScheme) ↗,  window="_blank", role="ext-link"] with its https://data.norge.no/specification/xkos-ap-no#Klassifikasjonsniv%C3%A5[classification levels (xkos:ClassificationLevel) ↗, window="_blank", role="ext-link"] and https://data.norge.no/specification/xkos-ap-no#Kategori[categories (xkos:ClassificationLevel) ↗, window="_blank", role="ext-link"],  illustrated in <<img-demo-classification>>. 
 
