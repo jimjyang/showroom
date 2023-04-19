@@ -18,7 +18,7 @@ Welcome to the showroom with demo concepts, demonstrating the usage of https://d
 
 _SKOS-AP-NO is the Norwegian application profile of W3C's https://www.w3.org/2004/02/skos/[SKOS ↗, window="_blank", role="ext-link"], for describing and publishing concepts and concept collections._
 
-== The purpose [[purpose]]
+== Purpose [[purpose]]
 
 This showroom is meant to
 
@@ -30,7 +30,7 @@ This showroom is meant to
 *_Disclaimer_*: _The machine-readable demo concepts are meant for demo purposes only. They do not represent any real world concepts at all. On the other hand, they are supposed to syntactically conform to SKOS-AP-NO-Begrep v.2.x._ 
 
 
-== The demo resources [[demo-resources]]
+== Demo resources in this showroom [[demo-resources]]
 
 In this showroom we have a https://w3id.org/demo-resources/demo-concepts[collection of demo concepts] (in link:files/demo-concepts.ttl[RDF Turtle]):
 
@@ -44,7 +44,7 @@ In this showroom we have a https://w3id.org/demo-resources/demo-concepts[collect
 ***  "demo concept 22" is part of  "demo concept 2"
 ** https://w3id.org/demo-resources/demo-concepts#demoCpt3["demo concept 3"] illustrates the usage of all _syntactically_ possible relations that a concept may have with other concepts. 
 
-=== Concept relations
+=== About concept relations
 
 ==== Hierarchical concept relations [[hierarchical-relations]]
 
@@ -79,7 +79,7 @@ In SKOS-AP-NO-Begrep, some types of associative relations are explicitly support
 
 SKOS-AP-NO-Begrep of course also allows you to specify your own types of associative concept relations, by using the property "is from-concept in" (`skosno:isFromConceptIn`) which refers to an instance of the class "Associative concept relation" (`skosno:AssociativeConceptRelation`). This is also demonstrated by https://w3id.org/demo-resources/demo-concepts#demoCpt3["demo concept 3"]. 
 
-=== Concept definitions [[definition]]
+=== About concept definitions [[definition]]
 
 There are also two different ways to specify the definition of a given concept: 
 
