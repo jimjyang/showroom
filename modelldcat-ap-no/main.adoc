@@ -19,7 +19,7 @@ Welcome to the showroom with demo information models, demonstrating the usage of
 
 _ModellDCAT-AP-NO is the Norwegian application profile of https://data.norge.no/specification/dcat-ap-no[DCAT-AP-NO ↗, window="_blank", role="ext-link"], for describing information models and catalogs of information models._
 
-== The purpose [[purpose]]
+== Purpose [[purpose]]
 
 This showroom is meant to
 
@@ -30,7 +30,7 @@ This showroom is meant to
  
 *_Disclaimer_*: _The machine-readable demo information models are meant for demo purposes only. They do not represent any real world fenomena at all. On the other hand, they are supposed to syntactically conform to ModellDCAT-AP-NO._
 
-== The demo resources [[demo-resources]]
+== Demo resources in this showroom [[demo-resources]]
 
 In this showroom we have a https://w3id.org/demo-resources/demo-models[a catalog with several demo information models] (in link:files/demo-models.ttl[RDF Turtle]):
 
