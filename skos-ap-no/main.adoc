@@ -118,7 +118,7 @@ There are also two different ways to specify the definition of a given concept:
 *Concepts and services/events*, for example:
 
 * A service or event, may refer to concepts that are relevant for understanding the service or event. 
-** This will be demonstrated in our ../cpsv-ap-no/[showroom with demo services and events]. 
+** This will be demonstrated in our link:../cpsv-ap-no/[showroom with demo services and events]. 
 
 == _to the overview of the showrooms_ [[to-overview]]
 
