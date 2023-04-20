@@ -32,7 +32,7 @@ This showroom is meant to
 
 In this showroom we have a https://w3id.org/demo-resources/demo-datasets#demoDataset1[demo dataset, called "Demo controlled vocabulary 1"] (in link:files/demo-datasets.ttl[RDF Turtle]):
 
-* The dataset description shown here, describes the demo classification called "Demo controlled vocabulary 1" that is demonstrated in our https://jimjyang.github.io/showroom/xkos-ap-no/[showroom with demo classifications]. 
+* The dataset description shown here, describes the demo classification called "Demo controlled vocabulary 1" that is demonstrated in our link:../xkos-ap-no/[showroom with demo classifications]. 
 ** This is because a classification with its categories _is_ a dataset.   
 ** The difference is: The showroom here illustrates how to describe a dataset in accordance with DCAT-AP-NO, while the other showroom illustrates how to make available the dataset itself. 
 * The demo dataset (= our demo classification) is here described as an open dataset, i.e., 
@@ -60,7 +60,7 @@ In this showroom we have a https://w3id.org/demo-resources/demo-datasets#demoDat
 *Datasets and concepts*, for example:
 
 * A dataset may refer to concepts that the dataset represents or concepts that are relevant for understanding the dataset
-** For example, in the description of our demo dataset, the property https://data.norge.no/specification/dcat-ap-no#Datasett-begrep[concept (dct:subject) ↗, window="_blank", role="ext-link"] refers to "demo concept 1" and "demo concept 2" that are demonstrated in our https://jimjyang.github.io/showroom/skos-ap-no/[showroom with demo concepts]. 
+** For example, in the description of our demo dataset, the property https://data.norge.no/specification/dcat-ap-no#Datasett-begrep[concept (dct:subject) ↗, window="_blank", role="ext-link"] refers to "demo concept 1" and "demo concept 2" that are demonstrated in our link:../skos-ap-no/[showroom with demo concepts]. 
 
 *Datasets and information models,* for example:
 
@@ -70,11 +70,11 @@ In this showroom we have a https://w3id.org/demo-resources/demo-datasets#demoDat
 *Datasets and services/events,* for example:
 
 * A dataset may be used as the input (evidence) needed in order to execute a service. A service may produce a dataset as the output. 
-** This will be demonstrated in our https://jimjyang.github.io/showroom/cpsv-ap-no/[showroom with demo services and events].
+** This will be demonstrated in our link:../cpsv-ap-no/[showroom with demo services and events].
 
 * An event may be a dataset such that one may subscribe to events in order to provide e.g. proactive services
-** ** This will be demonstrated in our https://jimjyang.github.io/showroom/cpsv-ap-no/[showroom with demo services and events].
+** ** This will be demonstrated in our link:../cpsv-ap-no/[showroom with demo services and events].
 
 == _to the overview of the showrooms_ [[to-overview]]
 
-https://jimjyang.github.io/showroom/#overview[Click here for the overview of all the showrooms]
+link:../#overview[Click here for the overview of all the showrooms]
