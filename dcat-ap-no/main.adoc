@@ -39,7 +39,7 @@ In this showroom we have a https://w3id.org/demo-resources/demo-datasets#demoDat
 ** freely available (i.e., with https://data.norge.no/specification/dcat-ap-no#Datasett-tilgangsniv%C3%A5[access rights (	
 dct:accessRights) ↗, window="_blank", role="ext-link"] set to "public"), and 
 ** with https://data.norge.no/specification/dcat-ap-no#Datasett-datasettdistribusjon[distributions ↗, window="_blank", role="ext-link"] under https://data.norge.no/specification/dcat-ap-no#Distribusjon-lisens[licence ↗, window="_blank", role="ext-link"] CC0.
-* There are two distributions of the dataset, one https://w3id.org/demo-resources/demo-datasets#demoDistribution2[machine-readable] (https://data.norge.no/specification/dcat-ap-no#Distribusjon-format[format (dct:format) ↗, window="_blank", role="ext-link"] = RDF_TURTLE), and the other https://w3id.org/demo-resources/demo-datasets#demoDistribution2[human-readable] (format = HTML).
+* There are three distributions of the dataset, one https://w3id.org/demo-resources/demo-datasets#demoDistribution2[machine-readable] (https://data.norge.no/specification/dcat-ap-no#Distribusjon-format[format (dct:format) ↗, window="_blank", role="ext-link"] = RDF_TURTLE), one https://w3id.org/demo-resources/demo-datasets#demoDistribution2[human-readable in Norwegian bokmål] (format = HTML) and another https://w3id.org/demo-resources/demo-datasets#demoDistribution3[human-readable in English] (format = HTML).
 
  
 == Some cross-references with other demo resources [[cross-references]]
