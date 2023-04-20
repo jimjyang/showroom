@@ -45,7 +45,8 @@
    dct:subject <https://w3id.org/demo-resources/demo-concepts#demoCpt1>,
        <https://w3id.org/demo-resources/demo-concepts#demoCpt2>;
    dcat:distribution <https://w3id.org/demo-resources/demo-datasets#demoDistribution1>,
-       <https://w3id.org/demo-resources/demo-datasets#demoDistribution2>;
+       <https://w3id.org/demo-resources/demo-datasets#demoDistribution2>,
+       <https://w3id.org/demo-resources/demo-datasets#demoDistribution3>;
    dct:spatial <http://publications.europa.eu/resource/authority/country/NOR>;
    dcat:keyword """demo"""@nb,
        """demo"""@en,
@@ -130,7 +131,8 @@
    dct:subject <https://w3id.org/demo-resources/demo-concepts#demoCpt1>,
        <https://w3id.org/demo-resources/demo-concepts#demoCpt2>;
    dcat:distribution <https://w3id.org/demo-resources/demo-datasets#demoDistribution1>,
-       <https://w3id.org/demo-resources/demo-datasets#demoDistribution2>;
+       <https://w3id.org/demo-resources/demo-datasets#demoDistribution2>,
+       <https://w3id.org/demo-resources/demo-datasets#demoDistribution3>;
    dct:spatial <http://publications.europa.eu/resource/authority/country/NOR>;
    dcat:keyword """testdatasett"""@nb,
        """test dataset"""@en,
@@ -141,4 +143,4 @@
    dct:conformsTo <https://w3id.org/demo-resources/demo-datasets#xkos-ap-no>;
    .
  
-#### End of the file, 2023-04-20 11:59:32
+#### End of the file, 2023-04-20 12:00:46
