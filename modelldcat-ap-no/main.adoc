@@ -61,4 +61,4 @@ _#... more may come ...#_
 
 == _to the overview of the showrooms_ [[to-overview]]
 
-https://jimjyang.github.io/showroom/#overview[Click here for the overview of all the showrooms]
+link:../#overview[Click here for the overview of all the showrooms]
