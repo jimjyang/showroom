@@ -83,3 +83,6 @@ ChatGPT gave (2023-03-30) the following answer to the above question:
 
 Overall, a permanent URI is crucial for ensuring the long-term accessibility and reliability of digital resources, as well as for facilitating citation, reputation, and SEO."
 
+== _to the overview of the showrooms_ [[to-overview]]
+
+link:../#overview[Click here for the overview of all the showrooms]
