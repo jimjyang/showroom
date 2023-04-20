@@ -19,8 +19,7 @@
    dct:title """Demokatalog med demodatasett"""@nb,
        """Demo catalog with demo datasets"""@en;
    dct:publisher <https://organization-catalog.fellesdatakatalog.digdir.no/organizations/991825827>;
-   dcat:dataset <https://w3id.org/demo-resources/demo-datasets#demoDataset1>,
-       <https://w3id.org/demo-resources/demo-classifications#demoClassification1>;
+   dcat:dataset <https://w3id.org/demo-resources/demo-datasets#demoDataset1>;
    dct:spatial <http://publications.europa.eu/resource/authority/country/NOR>,
        <https://data.geonorge.no/administrativeEnheter/kommune/id/172833>;
    dct:modified "2023-04-20"^^xsd:date;
@@ -111,7 +110,8 @@
    .
  
 <https://w3id.org/demo-resources/demo-datasets#digdir-contact-point>
-   rdf:type vcard:Organization;
+   rdf:type vcard:Organization,
+       vcard:Kind;
    vcard:hasOrganizationName """Norwegian Digitalisation Agency"""@en,
        """Digitaliseringsdirektoratet"""@nb,
        """Digitaliseringsdirektoratet"""@nn;
@@ -143,4 +143,4 @@
    dct:conformsTo <https://w3id.org/demo-resources/demo-datasets#xkos-ap-no>;
    .
  
-#### End of the file, 2023-04-20 12:00:46
+#### End of the file, 2023-04-20 12:19:14
