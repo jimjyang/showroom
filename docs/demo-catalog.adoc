@@ -14,7 +14,7 @@ This is illustrated in <<img-registering-n-harvesting>>, which also shows the us
 [link=images/registering-n-harvesting.png]
 image::images/registering-n-harvesting.png[alt="Drawing showing registration and harvesting in to the National Data Portal."]
 
-There is also a https://demo.fellesdatakatalog.digdir.no/[demo portal ↗, window="_blank", role="ext-link"] provided by the Norwegian Digitalisation Agency, which has the same functionalities as the National Data Catalog, with the content only meant for testing and demonstration purposes. 
+There is also a https://demo.fellesdatakatalog.digdir.no/[demo portal ↗, window="_blank", role="ext-link"] provided by the Norwegian Digitalisation Agency, which has the same functionalities as in the National Data Catalog, but the content is only meant for testing and demonstration purposes. 
 
 Using the harvesting services, all the demo resources that are demonstrated in the various showrooms here are, or will be, automatically harvested to and thus also findable via the demo portal. 
 

@@ -26,4 +26,4 @@ Some online (RDF-based) resources:
 
 * https://data.norge.no/about[The National Data Catalog of Norway ↗, window="_blank", role="ext-link"], overview of descriptions of datasets, concepts, APIs, information models, events and services. 
 
-* https://demo.fellesdatakatalog.digdir.no/[the Demo portal ↗, window="_blank", role="ext-link"], meant to be used to test and demonstrate the functionalities of https://data.norge.no/about[The National Data Catalog of Norway ↗, window="_blank", role="ext-link"] mentioned above.
+* https://demo.fellesdatakatalog.digdir.no/[The Demo portal ↗, window="_blank", role="ext-link"], with the same functionalities as in the National Data Catalog of Norway mentioned above, but the content is only for testing and demonstration purposes.
