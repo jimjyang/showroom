@@ -32,13 +32,13 @@ This showroom is meant to
 
 In this showroom we have a https://w3id.org/demo-resources/demo-datasets#demoDataset1[demo dataset, called "Demo controlled vocabulary 1"] (in link:files/demo-datasets.ttl[RDF Turtle]):
 
-* The demo dataset shown here, is exactly the same as the demo classification called "Demo controlled vocabulary 1" that is demonstrated in https://jimjyang.github.io/showroom/xkos-ap-no/[the showroom with demo classifications]. 
+* The dataset description shown here, describes the demo classification called "Demo controlled vocabulary 1" that is demonstrated in https://jimjyang.github.io/showroom/xkos-ap-no/[the showroom with demo classifications]. 
 ** This is because a classification with its categories _is_ a dataset.   
 ** The difference is: The showroom here illustrates how to describe a dataset in accordance with DCAT-AP-NO, while the other showroom illustrates how to make available the dataset itself. 
 * The demo dataset (= our demo classification) is here described as an open dataset, i.e., 
 ** freely available (i.e., with https://data.norge.no/specification/dcat-ap-no#Datasett-tilgangsniv%C3%A5[access rights (dct:accessRights) ↗, window="_blank", role="ext-link"] set to "public"), and 
 ** with https://data.norge.no/specification/dcat-ap-no#Datasett-datasettdistribusjon[distributions ↗, window="_blank", role="ext-link"] under https://data.norge.no/specification/dcat-ap-no#Distribusjon-lisens[licence ↗, window="_blank", role="ext-link"] CC0.
-* There are three distributions of the dataset, one https://w3id.org/demo-resources/demo-datasets#demoDistribution2[machine-readable] (https://data.norge.no/specification/dcat-ap-no#Distribusjon-format[format (dct:format) ↗, window="_blank", role="ext-link"] = RDF_TURTLE), one https://w3id.org/demo-resources/demo-datasets#demoDistribution2[human-readable in Norwegian bokmål] (format = HTML) and another https://w3id.org/demo-resources/demo-datasets#demoDistribution3[human-readable in English] (format = HTML).
+* There are three distributions of the dataset, one https://w3id.org/demo-resources/demo-datasets#demoDistribution1[machine-readable] (https://data.norge.no/specification/dcat-ap-no#Distribusjon-format[format (dct:format) ↗, window="_blank", role="ext-link"] = RDF_TURTLE), one https://w3id.org/demo-resources/demo-datasets#demoDistribution2[human-readable in Norwegian bokmål] (format = HTML) and another https://w3id.org/demo-resources/demo-datasets#demoDistribution3[human-readable in English] (format = HTML).
 
  
 == Some cross-references with other demo resources [[cross-references]]
