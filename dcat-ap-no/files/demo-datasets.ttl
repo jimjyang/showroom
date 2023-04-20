@@ -19,10 +19,10 @@
    dct:title """Demokatalog med demodatasett"""@nb,
        """Demo catalog with demo datasets"""@en;
    dct:publisher <https://organization-catalog.fellesdatakatalog.digdir.no/organizations/991825827>;
-   dcat:dataset <https://w3id.org/demo-resources/demo-datasets#demoDataset1>;
+   dcat:dataset <https://w3id.org/demo-resources/demo-classifications#demoClassification1>;
    dct:spatial <http://publications.europa.eu/resource/authority/country/NOR>,
        <https://data.geonorge.no/administrativeEnheter/kommune/id/172833>;
-   dct:modified "2023-03-28"^^xsd:date;
+   dct:modified "2023-04-20"^^xsd:date;
    dct:accrualPeriodicity <http://publications.europa.eu/resource/authority/frequency/CONT>;
    foaf:homepage <https://w3id.org/demo-resources/demo-datasets>;
    dct:license <http://publications.europa.eu/resource/authority/licence/CC0>;
@@ -32,7 +32,7 @@
    dct:issued "2023-03-27"^^xsd:date;
    .
  
-<https://w3id.org/demo-resources/demo-datasets#demoDataset1>
+<https://w3id.org/demo-resources/demo-classifications#demoClassification1>
    rdf:type dcat:Dataset;
    dct:description """En demoklassifikasjon som et demodatasett"""@nb,
        """A demo classification as a demo dataset"""@en;
@@ -50,7 +50,7 @@
        """Demo"""@en;
    dcat:contactPoint <https://w3id.org/demo-resources/demo-datasets#digdir-contact-point>;
    dct:accessRights <http://publications.europa.eu/resource/authority/access-right/PUBLIC>;
-   dct:conformsTo <https://w3id.org/demo-resources/demo-datasets#demoStandard1>;
+   dct:conformsTo <https://w3id.org/demo-resources/demo-datasets#xkos-ap-no>;
    .
  
 <https://w3id.org/demo-resources/demo-datasets#demoDistribution1>
@@ -63,7 +63,7 @@
    adms:status <http://purl.org/adms/status/Completed>;
    dcatap:availability <http://publications.europa.eu/resource/authority/planned-availability/AVAILABLE>;
    dct:modified "2023-03-23"^^xsd:date;
-   dcat:downloadURL <https://w3id.org/demo-resources/demo-datasets.ttl>;
+   dcat:downloadURL <https://w3id.org/demo-resources/demo-datasets>;
    dct:issued "2023-03-23"^^xsd:date;
    .
  
@@ -77,11 +77,11 @@
    adms:status <http://purl.org/adms/status/Completed>;
    dcatap:availability <http://publications.europa.eu/resource/authority/planned-availability/AVAILABLE>;
    dct:modified "2023-03-23"^^xsd:date;
-   dcat:downloadURL <https://w3id.org/demo-resources/demo-datasets.ttl>;
+   dcat:downloadURL <https://w3id.org/demo-resources/demo-datasets>;
    dct:issued "2023-03-23"^^xsd:date;
    .
  
-<https://w3id.org/demo-resources/demo-datasets#demoStandard1>
+<https://w3id.org/demo-resources/demo-datasets#xkos-ap-no>
    rdf:type dct:Standard;
    dct:title """Spesifikasjon for klassifikasjonsbeskrivelser (XKOS-AP-NO)"""@nb,
        """Specification for classification descriptions (XKOS-AP-NO)"""@en;
@@ -98,4 +98,4 @@
    vcard:hasURL <https://digdir.no>;
    .
  
-#### End of the file, 2023-04-13 11:08:44
+#### End of the file, 2023-04-20 10:56:04
