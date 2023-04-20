@@ -1,5 +1,5 @@
 include::../locale/attributes.adoc[]
-= Jim's showroom with demo URIs
+= Jim's showroom with demo URIs and dereferenced URIs
 :doctype: book
 :docinfo: shared
 :docinfodir: ../docs
