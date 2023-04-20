@@ -4,10 +4,10 @@ The Norwegian national specifications demonstrated in the various showrooms here
 
 In order to make the resources available/findable through the National Data Catalog, you may 
 
-. use the registration services, to register metadata (descriptions) about your resources (datasets, concepts etc.) which will be automatically harvested to the National Data Portal, or 
-. use the harvesting services, to specify the URLs where your machine-readable descriptions are made available for harvesting to the National Data Catalog.
+. use the registration services, to register descriptions (metadata) about your datasets, concepts etc., which will be automatically harvested to the National Data Portal, or 
+. use the harvesting services, to specify the URLs where your machine-readable descriptions of your resources are made available for harvesting to the National Data Catalog.
 
-This is illustrated <<img-registering-n-harvesting>>, which also shows the usage of the national specifications in the data portal. 
+This is illustrated in <<img-registering-n-harvesting>>, which also shows the usage of the national specifications in the data portal. 
 
 [[img-registering-n-harvesting]]
 .Making your resources available through the National Data Catalog.
