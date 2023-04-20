@@ -70,18 +70,19 @@ Our demo classification, called https://w3id.org/demo-resources/demo-classificat
 * A classification with its categories is a dataset, and should be made available machine-readably. 
 ** In our https://jimjyang.github.io/showroom/dcat-ap-no/[showroom with demo datasets], we demonstrate how to describe this demo classification as a machine-readable open dataset, and to make it https://demo.fellesdatakatalog.digdir.no/datasets?q=demodataset[findable via the demo portal ↗,  window="_blank", role="ext-link"].
 
-* When describing a dataset, and where coded values are used, the coded values should preferably be chosen from controlled vocabularies (i.e., classifications). Examples of properties with coded values are "access rights" (`dct:accessRights`), "format" (`dct:format`). 
+* When describing a dataset, and where coded values are used, the coded values should preferably be chosen from controlled vocabularies (i.e., classifications). Examples of properties with coded values are https://data.norge.no/specification/dcat-ap-no#Datasett-tilgangsniv%C3%A5[access rights (dct:accessRights) ↗,  window="_blank", role="ext-link"] and https://data.norge.no/specification/dcat-ap-no#Distribusjon-format[format (dct:format) ↗,  window="_blank", role="ext-link"]. 
 ** This will be demonstrated and explained in our https://jimjyang.github.io/showroom/dcat-ap-no/[showroom with demo datasets]. 
 ** Classifications should therefore be made available, also machine-readably. 
 
 *Classifications and information models*, for example:
 
-* When describing an information model, and where coded values are used, the coded values should preferably be chosen from controlled vocabularies (i.e., classifications). Examples of properties with coded values are status (`adms:status`), type (`dct:type`). 
+* When describing an information model, and where coded values are used, the coded values should preferably be chosen from controlled vocabularies (i.e., classifications). Examples of properties with coded values are https://data.norge.no/specification/modelldcat-ap-no#Informasjonsmodell-modellstatus[status (adms:status) ↗,  window="_blank", role="ext-link"] and https://data.norge.no/specification/modelldcat-ap-no#Informasjonsmodell-type[type (dct:type) ↗,  window="_blank", role="ext-link"]. 
 ** This will be demonstrated and explained in our https://jimjyang.github.io/showroom/modelldcat-ap-no/[showroom with demo information models]. 
 ** Classifications should therefore be made available, also machine-readably. 
 
-* An information model may use classifications (controlled vocabularies, code lists etc.) as "datatype/range specification" for its properties. 
-** This is (currently unfortunately) not demonstrated in our https://jimjyang.github.io/showroom/modelldcat-ap-no/[showroom with demo information models], because our showcase there is currently only at the model level (i.e., without descriptions or its properties). 
+* An information model may use classifications (controlled vocabularies, code lists etc.) as "datatype/range specification" for its "attributes", using the property https://data.norge.no/specification/modelldcat-ap-no#Attributt-harVerdierFra[has value from (modelldcatno:hasValueFrom) ↗,  window="_blank", role="ext-link"] 
+** This is (currently unfortunately) not demonstrated in our https://jimjyang.github.io/showroom/modelldcat-ap-no/[showroom with demo information models], because our showcase there is currently only at the model level (i.e., without descriptions of its model elements / attributes). 
+** Classifications should therefore be made available, also machine-readably. 
 
   
 *Classifications and services/events*, for example:
