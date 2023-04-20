@@ -19,7 +19,8 @@
    dct:title """Demokatalog med demodatasett"""@nb,
        """Demo catalog with demo datasets"""@en;
    dct:publisher <https://organization-catalog.fellesdatakatalog.digdir.no/organizations/991825827>;
-   dcat:dataset <https://w3id.org/demo-resources/demo-classifications#demoClassification1>;
+   dcat:dataset <https://w3id.org/demo-resources/demo-classifications#demoClassification1>,
+       <https://w3id.org/demo-resources/demo-datasets#demoDataset1>;
    dct:spatial <http://publications.europa.eu/resource/authority/country/NOR>,
        <https://data.geonorge.no/administrativeEnheter/kommune/id/172833>;
    dct:modified "2023-04-20"^^xsd:date;
@@ -46,8 +47,10 @@
    dcat:distribution <https://w3id.org/demo-resources/demo-datasets#demoDistribution1>,
        <https://w3id.org/demo-resources/demo-datasets#demoDistribution2>;
    dct:spatial <http://publications.europa.eu/resource/authority/country/NOR>;
-   dcat:keyword """Demo"""@nb,
-       """Demo"""@en;
+   dcat:keyword """demodatasett"""@nb,
+       """demo dataset"""@en,
+       """demo"""@nb,
+       """demo"""@en;
    dcat:contactPoint <https://w3id.org/demo-resources/demo-datasets#digdir-contact-point>;
    dct:accessRights <http://publications.europa.eu/resource/authority/access-right/PUBLIC>;
    dct:conformsTo <https://w3id.org/demo-resources/demo-datasets#xkos-ap-no>;
@@ -98,4 +101,25 @@
    vcard:hasURL <https://digdir.no>;
    .
  
-#### End of the file, 2023-04-20 10:56:04
+<https://w3id.org/demo-resources/demo-datasets#demoDataset1>
+   rdf:type dcat:Dataset;
+   dct:description """En demoklassifikasjon som et testdatasett"""@nb,
+       """A demo classification as a test dataset"""@en;
+   dct:identifier "https://w3id.org/demo-resources/demo-classifications#demoClassification1"^^xsd:anyURI;
+   dcat:theme <http://publications.europa.eu/resource/authority/data-theme/GOVE>;
+   dct:title """Demo kontrollert vokabular 1"""@nb,
+       """Demo controlled vocabulary 1"""@en;
+   dct:publisher <https://organization-catalog.fellesdatakatalog.digdir.no/organizations/991825827>;
+   dct:subject <https://w3id.org/demo-resources/demo-concepts#demoCpt1>,
+       <https://w3id.org/demo-resources/demo-concepts#demoCpt2>;
+   dcat:distribution <https://w3id.org/demo-resources/demo-datasets#demoDistribution1>,
+       <https://w3id.org/demo-resources/demo-datasets#demoDistribution2>;
+   dct:spatial <http://publications.europa.eu/resource/authority/country/NOR>;
+   dcat:keyword """Test"""@nb,
+       """Test"""@en;
+   dcat:contactPoint <https://w3id.org/demo-resources/demo-datasets#digdir-contact-point>;
+   dct:accessRights <http://publications.europa.eu/resource/authority/access-right/PUBLIC>;
+   dct:conformsTo <https://w3id.org/demo-resources/demo-datasets#xkos-ap-no>;
+   .
+ 
+#### End of the file, 2023-04-20 11:16:31
