@@ -108,7 +108,7 @@ There are also two different ways to specify the definition of a given concept:
 
 *Concepts and information models*, for example:
 
-* An information model may refer to concepts that are relevant for understanding the information model, by using the property https://data.norge.no/specification/modelldcat-ap-no#Egenskap-begrep[subject (dct:subject) ↗,  window="_blank", role="ext-link"].
+* An information model may refer to concepts that the information model represents or concepts that are relevant for understanding the information model, by using the property https://data.norge.no/specification/modelldcat-ap-no#Egenskap-begrep[subject (dct:subject) ↗,  window="_blank", role="ext-link"].
 ** This will be demonstrated in our https://jimjyang.github.io/showroom/modelldcat-ap-no/[showroom with demo information models].
 
 * When describing an information model, and where coded values are used, the coded values should preferably be concepts chosen from controlled vocabularies (i.e., classifications). Examples of properties with coded values are https://data.norge.no/specification/modelldcat-ap-no#Informasjonsmodell-modellstatus[status (adms:status) ↗,  window="_blank", role="ext-link"] and https://data.norge.no/specification/modelldcat-ap-no#Informasjonsmodell-type[type (dct:type) ↗,  window="_blank", role="ext-link"]. 
