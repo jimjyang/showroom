@@ -14,17 +14,17 @@
 
 <https://w3id.org/demo-resources/demo-models#catalog-of-demo-models>
    rdf:type dcat:Catalog;
-   dct:description """This catalog contains demo models created by Jim at the Norwegian Digitalisation Agency (Digdir)."""@en,
-       """Katalogen inneholder demomodeller opprettet av Jim ved Digitaliseringsdirektoratet (Digdir)."""@nb;
+   dct:description """This catalog contains information models for demo purposes only."""@en,
+       """Katalogen inneholder informasjonsmodeller som er kun for demoformål."""@nb;
    dct:identifier "https://w3id.org/demo-resources/demo-models#catalog-of-demo-models"^^xsd:anyURI;
    modelldcatno:model <https://w3id.org/demo-resources/demo-models#demomodel1>,
        <https://w3id.org/demo-resources/demo-models#demomodel2>,
        <https://w3id.org/demo-resources/demo-models#demomodel3>,
        <https://w3id.org/demo-resources/demo-models#demomodel4>;
-   dct:title """Jim's catalog of demo models"""@en,
-       """Jim sin katalog over demomodeller"""@nb;
+   dct:title """Catalog of demo models"""@en,
+       """Katalog over demomodeller"""@nb;
    dct:publisher <https://organization-catalog.fellesdatakatalog.digdir.no/organizations/991825827>;
-   dct:modified "2023-04-14"^^xsd:date;
+   dct:modified "2023-04-21"^^xsd:date;
    dct:language <http://publications.europa.eu/resource/authority/language/ENG>,
        <http://publications.europa.eu/resource/authority/language/NOB>;
    .
@@ -188,4 +188,4 @@
    vcard:hasURL <https://digdir.no>;
    .
  
-#### End of the file, 2023-04-14 08:17:44
+#### End of the file, 2023-04-21 07:11:02
