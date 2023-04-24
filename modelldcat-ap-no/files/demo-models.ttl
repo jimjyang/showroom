@@ -37,6 +37,10 @@
    dct:description """Information model 1 for demo purposes only, with meaningless content."""@en,
        """Informasjonsmodell 1 kun for demoformål, med meningsløst innhold."""@nb;
    dct:identifier "https://w3id.org/demo-resources/demo-models#demomodel1"^^xsd:anyURI;
+   modelldcatno:containsModelElement <https://w3id.org/demo-resources/demo-models#demoObjType1>,
+       <https://w3id.org/demo-resources/demo-models#demoObjType2>,
+       <https://w3id.org/demo-resources/demo-models#demoObjType3>,
+       <https://w3id.org/demo-resources/demo-models#demoObjType4>;
    dcat:contactPoint <https://w3id.org/demo-resources/demo-models#digdir-contact-point>;
    dct:license <http://publications.europa.eu/resource/authority/licence/CC0>;
    dcat:keyword """demo"""@en,
@@ -54,6 +58,89 @@
    dct:type <https://data.norge.no/vocabulary/information-model-type#conceptual-model>;
    dct:issued "2023-03-14"^^xsd:date;
    owl:versionInfo """1.0""";
+   .
+ 
+<https://w3id.org/demo-resources/demo-models#demoObjType1>
+   rdf:type modelldcatno:ObjectType;
+   dct:title """Demo Class 1"""@en,
+       """Demoklasse 1"""@nb;
+   dct:subject <https://w3id.org/demo-resources/demo-concepts#demoCpt1>;
+   dct:identifier "https://w3id.org/demo-resources/demo-models#demoObjType1"^^xsd:anyURI;
+   modelldcatno:hasProperty <https://w3id.org/demo-resources/demo-models#demoRole12>,
+       <https://w3id.org/demo-resources/demo-models#demoAttribute11>;
+   .
+ 
+<https://w3id.org/demo-resources/demo-models#demoRole12>
+   rdf:type modelldcatno:Role;
+   dct:identifier "https://w3id.org/demo-resources/demo-models#demoRole12"^^xsd:anyURI;
+   modelldcatno:minOccurs "1"^^xsd:nonNegativeInteger;
+   dct:title """demo association 12"""@en,
+       """demoassosiasjon 12"""@nb;
+   modelldcatno:maxOccurs "1"^^xsd:nonNegativeInteger;
+   modelldcatno:hasObjectType <https://w3id.org/demo-resources/demo-models#demoObjType2>;
+   .
+ 
+<https://w3id.org/demo-resources/demo-models#demoAttribute11>
+   rdf:type modelldcatno:Attribute;
+   dct:identifier "https://w3id.org/demo-resources/demo-models#demoAttribute11"^^xsd:anyURI;
+   dct:title """demo attribute 11"""@en,
+       """demoattributt 11"""@nb;
+   modelldcatno:hasValueFrom <https://w3id.org/demo-resources/demo-models#demoCodelist11>;
+   .
+ 
+<https://w3id.org/demo-resources/demo-models#demoCodelist11>
+   rdf:type modelldcatno:CodeList;
+   dct:title """Demo Code List 1"""@en,
+       """Demokodeliste 1"""@nb;
+   dct:identifier "https://w3id.org/demo-resources/demo-models#demoCodelist11"^^xsd:anyURI;
+   rdfs:seeAlso <https://w3id.org/demo-resources/demo-classifications#demoClassification1>;
+   .
+ 
+<https://w3id.org/demo-resources/demo-models#demoObjType2>
+   rdf:type modelldcatno:ObjectType;
+   dct:title """Demo Class 2"""@en,
+       """Demoklasse 2"""@nb;
+   dct:identifier "https://w3id.org/demo-resources/demo-models#demoObjType2"^^xsd:anyURI;
+   modelldcatno:hasProperty <https://w3id.org/demo-resources/demo-models#demoAttribute21>;
+   .
+ 
+<https://w3id.org/demo-resources/demo-models#demoAttribute21>
+   rdf:type modelldcatno:Attribute;
+   dct:identifier "https://w3id.org/demo-resources/demo-models#demoAttribute21"^^xsd:anyURI;
+   dct:title """demo attribute 21"""@en,
+       """demoattributt 21"""@nb;
+   .
+ 
+<https://w3id.org/demo-resources/demo-models#demoObjType3>
+   rdf:type modelldcatno:ObjectType;
+   dct:title """Demo Class 3"""@en,
+       """Demoklasse 3"""@nb;
+   dct:identifier "https://w3id.org/demo-resources/demo-models#demoObjType3"^^xsd:anyURI;
+   modelldcatno:hasProperty <https://w3id.org/demo-resources/demo-models#demoSpecialization31>;
+   .
+ 
+<https://w3id.org/demo-resources/demo-models#demoSpecialization31>
+   rdf:type modelldcatno:Specialization;
+   dct:identifier "https://w3id.org/demo-resources/demo-models#demoSpecialization31"^^xsd:anyURI;
+   dct:title """is subclass of"""@en,
+       """er subklasse av"""@nb;
+   modelldcatno:hasGeneralConcept <https://w3id.org/demo-resources/demo-models#demoObjType1>;
+   .
+ 
+<https://w3id.org/demo-resources/demo-models#demoObjType4>
+   rdf:type modelldcatno:ObjectType;
+   dct:title """Demo Class 4"""@en,
+       """Demoklasse 4"""@nb;
+   dct:identifier "https://w3id.org/demo-resources/demo-models#demoObjType4"^^xsd:anyURI;
+   modelldcatno:hasProperty <https://w3id.org/demo-resources/demo-models#demoSpecialization41>;
+   .
+ 
+<https://w3id.org/demo-resources/demo-models#demoSpecialization41>
+   rdf:type modelldcatno:Specialization;
+   dct:identifier "https://w3id.org/demo-resources/demo-models#demoSpecialization41"^^xsd:anyURI;
+   dct:title """is subclass of"""@en,
+       """er subklasse av"""@nb;
+   modelldcatno:hasGeneralConcept <https://w3id.org/demo-resources/demo-models#demoObjType1>;
    .
  
 <https://w3id.org/demo-resources/demo-models#demomodel2>
@@ -188,4 +275,4 @@
    vcard:hasURL <https://digdir.no>;
    .
  
-#### End of the file, 2023-04-21 07:11:02
+#### End of the file, 2023-04-24 14:07:39

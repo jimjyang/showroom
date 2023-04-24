@@ -23,7 +23,7 @@ _ModellDCAT-AP-NO is the Norwegian application profile of https://data.norge.no/
 
 This showroom is meant to
 
-* demonstrate how to describe an information model in accordance with ModellDCAT-AP-NO, at the model level (i.e., without describing the model elements);
+* demonstrate how to describe an information model in accordance with ModellDCAT-AP-NO;
 * demonstrate how to describe relations between information models, in accordance with ModellDCAT-AP-NO;
 * demonstrate cross-references between information models and some other resources demonstrated in some of the other showrooms;
 * provide reusable, machine-readable RDF-based model descriptions, for testing and demonstration purposes.
