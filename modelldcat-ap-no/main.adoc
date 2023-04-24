@@ -39,6 +39,8 @@ In this showroom we have a https://w3id.org/demo-resources/demo-models[a catalog
 * There are four demo information models: 
 ** https://w3id.org/demo-resources/demo-models#demomodel1["Demo model 1"] contains https://w3id.org/demo-resources/demo-models#demomodel2["Demo model 2"] and https://w3id.org/demo-resources/demo-models#demomodel3["Demo model 3"], and https://w3id.org/demo-resources/demo-models#demomodel4["Demo model 4"] illustrates the usage of all _syntactically_ possible relations that an information model may have with other information models, in accordance with ModellDCAT-AP-NO. 
 ** All four demo models have graphical representations, which are referred to from the description.
+** Except for "Demo model 1", the other three demo models are described only at the model level, i.e., without descriptions of the model elements in the models, in compliance with ModellDCAT-AP-NO. 
+*** Simply put: you don't need to describe all the details in your information model, before you can tell the world that you have an information model. 
 
 * "Demo model 1" also illustrates in particular the following: 
 ** "Demo model 1" has four https://data.norge.no/specification/modelldcat-ap-no#klasse-modellelement[model elements ↗, window="_blank", role="ext-link"], which are https://data.norge.no/specification/modelldcat-ap-no#klasse-objekttype[object types ↗, window="_blank", role="ext-link"] (classes in UML): https://w3id.org/demo-resources/demo-models#demoObjType1["Demo Class 1"], https://w3id.org/demo-resources/demo-models#demoObjType2["Demo Class 2"], https://w3id.org/demo-resources/demo-models#demoObjType3["Demo Class 3"] and https://w3id.org/demo-resources/demo-models#demoObjType4["Demo Class 4"]. 
