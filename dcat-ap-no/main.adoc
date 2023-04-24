@@ -34,7 +34,7 @@ In this showroom we have a https://w3id.org/demo-resources/demo-datasets#demoDat
 
 * The dataset description shown here, describes the demo classification called "Demo controlled vocabulary 1" that is demonstrated in our link:../xkos-ap-no/[showroom with demo classifications]. 
 ** This is because a classification with its categories _is_ a dataset.   
-** The difference is: The showroom here illustrates how to describe a dataset in accordance with DCAT-AP-NO, while the other showroom illustrates how to make available the dataset itself. 
+** The difference between the two showrooms is: The showroom here illustrates how to describe a dataset in accordance with DCAT-AP-NO such that it is findable via e.g. the National Data Catalog, while the other showroom illustrates how to make available the dataset itself. 
 * The demo dataset (= our demo classification) is here described as an open dataset, i.e., 
 ** freely available, with https://data.norge.no/specification/dcat-ap-no#Datasett-tilgangsniv%C3%A5[access rights (dct:accessRights) ↗, window="_blank", role="ext-link"] set to "public", and 
 ** with three https://data.norge.no/specification/dcat-ap-no#Datasett-datasettdistribusjon[distributions ↗, window="_blank", role="ext-link"] under https://data.norge.no/specification/dcat-ap-no#Distribusjon-lisens[licence ↗, window="_blank", role="ext-link"] CC0 which is an open licence.
@@ -54,25 +54,25 @@ In this showroom we have a https://w3id.org/demo-resources/demo-datasets#demoDat
 * A classification with its categories, is a dataset. 
 ** This showroom shows how to describe our demo classification as an open dataset, and publish the description in the demo portal such that this dataset (our demo classification) is findable via the demo portal. 
 
-* When describing a dataset, and where coded values are used, the coded values should preferably be chosen from controlled vocabularies (i.e., classifications). 
+* When describing a dataset, and where coded values are used, the coded values should preferably be concepts chosen from controlled vocabularies (i.e., classifications). 
 ** For example, in the description of our demo dataset, the property https://data.norge.no/specification/dcat-ap-no#Datasett-tilgangsniv%C3%A5[access rights (dct:accessRights) ↗, window="_blank", role="ext-link"] refers to "PUBLIC" which is chosen from EU's controlled vocabulary https://op.europa.eu/en/web/eu-vocabularies/concept-scheme/-/resource?uri=http://publications.europa.eu/resource/authority/access-right[Access right ↗, window="_blank", role="ext-link"], and the https://data.norge.no/specification/dcat-ap-no#Distribusjon-format[format (dct:format)↗, window="_blank", role="ext-link"] of the distributions refer to "RDF_TURLE" and "HTML" which are chosen from EU's controlled vocabulary https://op.europa.eu/en/web/eu-vocabularies/concept-scheme/-/resource?uri=http://publications.europa.eu/resource/authority/file-type[File type ↗, window="_blank", role="ext-link"]. 
 
 *Datasets and concepts*, for example:
 
-* A dataset may refer to concepts that the dataset represents or concepts that are relevant for understanding the dataset
+* A dataset may refer to concepts that the dataset represents or concepts that are relevant for understanding the dataset.
 ** For example, in the description of our demo dataset, the property https://data.norge.no/specification/dcat-ap-no#Datasett-begrep[concept (dct:subject) ↗, window="_blank", role="ext-link"] refers to "demo concept 1" and "demo concept 2" that are demonstrated in our link:../skos-ap-no/[showroom with demo concepts]. 
 
 *Datasets and information models,* for example:
 
 * A dataset (and/or its distributions, data services) may conform to one or more standards (incl. information models).
-** Our demo dataset https://data.norge.no/specification/dcat-ap-no#Datasett-iSamsvarMed[conforms to (dct:conformsTo) ↗, window="_blank", role="ext-link"] XKOS-AP-NO (and its information models). 
+** Our demo dataset https://data.norge.no/specification/dcat-ap-no#Datasett-iSamsvarMed[conforms to (dct:conformsTo) ↗, window="_blank", role="ext-link"] XKOS-AP-NO and its information models. 
 
 *Datasets and services/events,* for example:
 
 * A dataset may be used as the input (evidence) needed in order to execute a service. A service may produce a dataset as the output. 
 ** This will be demonstrated in our link:../cpsv-ap-no/[showroom with demo services and events].
 
-* An event may be a dataset such that one may subscribe to events in order to provide e.g. proactive services
+* An event may be a dataset such that one may subscribe to events in order to provide e.g. proactive services.
 ** This will be demonstrated in our link:../cpsv-ap-no/[showroom with demo services and events].
 
 == _to the overview of the showrooms_ [[to-overview]]
