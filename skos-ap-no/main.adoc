@@ -46,7 +46,7 @@ In this showroom we have a https://w3id.org/demo-resources/demo-concepts[collect
 *** in this https://termbasen.standard.no/term/168204529503414/en?origin=%2Fsearch-results%3FsearchText%3Dpartitive%2Brelation%26icsCodes%3D%26sources%3D%26start%3D0%26range%3D100[partitive relations ↗, window="_blank", role="ext-link"], "demo concept 2" is the the https://termbasen.standard.no/term/167501330206913/en?origin=%2Fsearch-results%3FsearchText%3Dsuperordinate%26icsCodes%3D%26sources%3D%26start%3D0%26range%3D100[superordinate concept  ↗, window="_blank", role="ext-link"] / https://termbasen.standard.no/term/168204367709913/en?origin=%2Fsearch-results%3FsearchText%3Dcomprehensive%2Bconcept%26icsCodes%3D%26sources%3D%26start%3D0%26range%3D100[comprehensive concept ↗, window="_blank", role="ext-link"], while "demo concept 21" and "demo concept 22" are https://termbasen.standard.no/term/168204369502114/en?origin=%2Fsearch-results%3FsearchText%3Dsubordinate%2Bconcept%26icsCodes%3D%26sources%3D%26start%3D0%26range%3D100[subordinate concepts ↗, window="_blank", role="ext-link"] / https://termbasen.standard.no/term/168204378306478/en?origin=%2Fsearch-results%3FsearchText%3Dpartitive%2Bconcept%26icsCodes%3D%26sources%3D%26start%3D0%26range%3D100[partitive concepts ↗, window="_blank", role="ext-link"]
 ** https://w3id.org/demo-resources/demo-concepts#demoCpt3["demo concept 3"] illustrates the usage of all _syntactically_ possible relations that a concept may have with other concepts. 
 
-=== About concept relations
+=== More about concept relations
 
 ==== Hierarchical concept relations [[hierarchical-relations]]
 
@@ -82,7 +82,7 @@ In SKOS-AP-NO-Begrep, some types of associative relations are explicitly support
 
 SKOS-AP-NO-Begrep of course also allows you to specify your own types of associative concept relations, by using the property https://data.norge.no/specification/skos-ap-no-begrep#Begrep-er-fra-begrep-i[is from-concept in (skosno:isFromConceptIn) ↗, window="_blank", role="ext-link"] referring to an https://data.norge.no/specification/skos-ap-no-begrep#Assosiativ-begrepsrelasjon[Associative concept relation (skosno:AssociativeConceptRelation) ↗, window="_blank", role="ext-link"] in which you may specify the role that the concept has towards the other concept in the associative relation between the two. This is also demonstrated by https://w3id.org/demo-resources/demo-concepts#demoCpt3["demo concept 3"]. 
 
-=== About concept definitions [[definition]]
+=== More about concept definitions [[definition]]
 
 There are also two different ways to specify the definition of a given concept: 
 
