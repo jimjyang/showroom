@@ -58,6 +58,12 @@ In this showroom we have a https://w3id.org/demo-resources/demo-models[a catalog
 
 *Information models and classifications*, for example: 
 
+* When describing an information model, and where coded values are used, the coded values should preferably be chosen from controlled vocabularies (i.e., classifications). 
+** Examples of properties with coded values are https://data.norge.no/specification/modelldcat-ap-no#Informasjonsmodell-modellstatus[status (adms:status) ↗,  window="_blank", role="ext-link"] and https://data.norge.no/specification/modelldcat-ap-no#Informasjonsmodell-type[type (dct:type) ↗,  window="_blank", role="ext-link"]. 
+
+* An information model may use classifications (controlled vocabularies, code lists etc.) as "datatype/range specification" for its "attributes", using the property https://data.norge.no/specification/modelldcat-ap-no#Attributt-harVerdierFra[has value from (modelldcatno:hasValueFrom) ↗,  window="_blank", role="ext-link"] 
+** _#... more to come ...#_ 
+
 * _#... more to come ...#_  
 
 *Information models and concepts*, for example: 
