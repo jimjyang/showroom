@@ -23,7 +23,7 @@ _The Norwegian URI-standard is based on EU's https://joinup.ec.europa.eu/collect
 This showroom is meant to
 
 * demonstrate a possible pattern of URIs, in accordance with the Norwegian URI-standard;
-* demonstrate a possible way to implement permanent and dereferenced URIs. 
+* demonstrate a possible way to implement permanent (also known as persistent) and dereferenced URIs. 
 
 == Demo resources in this showroom [[demo-resources]]
 
