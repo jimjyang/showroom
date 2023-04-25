@@ -22,7 +22,7 @@
    dcat:dataset <https://w3id.org/demo-resources/demo-datasets#demoDataset1>;
    dct:spatial <http://publications.europa.eu/resource/authority/country/NOR>,
        <https://data.geonorge.no/administrativeEnheter/kommune/id/172833>;
-   dct:modified "2023-04-20"^^xsd:date;
+   dct:modified "2023-04-25"^^xsd:date;
    dct:accrualPeriodicity <http://publications.europa.eu/resource/authority/frequency/CONT>;
    foaf:homepage <https://w3id.org/demo-resources/demo-datasets>;
    dct:license <http://publications.europa.eu/resource/authority/licence/CC0>;
@@ -52,6 +52,7 @@
        """demodatasett"""@nb,
        """demo dataset"""@en;
    dcat:contactPoint <https://w3id.org/demo-resources/demo-datasets#digdir-contact-point>;
+   dct:temporal [ a dct:PeriodOfTime; dcat:startDate "2023-01-01"^^xsd:date ];
    dct:accessRights <http://publications.europa.eu/resource/authority/access-right/PUBLIC>;
    dct:conformsTo <https://w3id.org/demo-resources/demo-datasets#xkos-ap-no>;
    .
@@ -66,8 +67,11 @@
    adms:status <http://purl.org/adms/status/Completed>;
    dcatap:availability <http://publications.europa.eu/resource/authority/planned-availability/AVAILABLE>;
    dct:modified "2023-03-23"^^xsd:date;
+   dcat:byteSize "9200"^^xsd:decimal;
    dcat:mediaType <https://www.iana.org/assignments/media-types/text/turtle>;
    dcat:downloadURL <https://jimjyang.github.io/showroom/xkos-ap-no/files/demo-classifications.ttl>;
+   dct:rights [ a dct:RightsStatement ;
+    rdfs:comment "No restrictions at all"@en ] ;;
    dct:issued "2023-03-23"^^xsd:date;
    .
  
@@ -83,6 +87,8 @@
    dct:modified "2023-03-23"^^xsd:date;
    dcat:mediaType <https://www.iana.org/assignments/media-types/text/html>;
    dcat:downloadURL <https://jimjyang.github.io/showroom/xkos-ap-no/files/demo-classifications-nb.html>;
+   dct:rights [ a dct:RightsStatement ;
+    rdfs:comment "No restrictions at all"@en ] ;;
    dct:issued "2023-03-23"^^xsd:date;
    .
  
@@ -98,6 +104,8 @@
    dct:modified "2023-03-23"^^xsd:date;
    dcat:mediaType <https://www.iana.org/assignments/media-types/text/html>;
    dcat:downloadURL <https://jimjyang.github.io/showroom/xkos-ap-no/files/demo-classifications-en.html>;
+   dct:rights [ a dct:RightsStatement ;
+    rdfs:comment "No restrictions at all"@en ] ;;
    dct:issued "2023-03-23"^^xsd:date;
    .
  
@@ -119,4 +127,4 @@
    vcard:hasURL <https://digdir.no>;
    .
  
-#### End of the file, 2023-04-20 12:41:31
+#### End of the file, 2023-04-25 10:03:25
