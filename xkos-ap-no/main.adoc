@@ -66,7 +66,7 @@ Our demo classification, called https://w3id.org/demo-resources/demo-classificat
 ** Our "Demo level 1", https://data.norge.no/specification/xkos-ap-no#Klassifikasjonsniv%C3%A5-dekker[covers (xkos:covers) ↗, window="_blank", role="ext-link"], https://data.norge.no/specification/xkos-ap-no#Klassifikasjonsniv%C3%A5-dekkerUtt%C3%B8mmende[covers exhaustively (xkos:coversExhaustively) ↗, window="_blank", role="ext-link"] and https://data.norge.no/specification/xkos-ap-no#Klassifikasjonsniv%C3%A5-dekkerGjensidigUtelukkende[mutually exclusively (xkos:coversMutuallyExclusively) ↗, window="_blank", role="ext-link"] "demo concept 1" and "demo concept 2". Similarly with our "Demo level 2" and "demo concept 11" and "demo concept 12". 
 
 * A concept may refer to a classification as its value range.
-** This will be demonstrated in our link:../skos-ap-no[showroom with demo concepts]. 
+** This is demonstrated in our link:../skos-ap-no[showroom with demo concepts]. 
 ** Classifications should therefore be made available, also machine-readably. 
 
 *Classifications and datasets*, for example:
@@ -75,24 +75,24 @@ Our demo classification, called https://w3id.org/demo-resources/demo-classificat
 ** In our link:../dcat-ap-no/[showroom with demo datasets], we demonstrate how to describe this demo classification as a machine-readable open dataset, and to make it https://demo.fellesdatakatalog.digdir.no/datasets?q=demodataset[findable via the demo portal ↗,  window="_blank", role="ext-link"].
 
 * When describing a dataset, and where coded values are used, the coded values should preferably be chosen from controlled vocabularies (i.e., classifications). Examples of properties with coded values are https://data.norge.no/specification/dcat-ap-no#Datasett-tilgangsniv%C3%A5[access rights (dct:accessRights) ↗,  window="_blank", role="ext-link"] and https://data.norge.no/specification/dcat-ap-no#Distribusjon-format[format (dct:format) ↗,  window="_blank", role="ext-link"]. 
-** This will be demonstrated and explained in our link:../dcat-ap-no/[showroom with demo datasets]. 
+** This is demonstrated and explained in our link:../dcat-ap-no/[showroom with demo datasets]. 
 ** Classifications should therefore be made available, also machine-readably. 
 
 *Classifications and information models*, for example:
 
 * When describing an information model, and where coded values are used, the coded values should preferably be chosen from controlled vocabularies (i.e., classifications). 
-** This will be demonstrated and explained in our link:../modelldcat-ap-no/[showroom with demo information models]. 
+** This is demonstrated and explained in our link:../modelldcat-ap-no/[showroom with demo information models]. 
 ** Classifications should therefore be made available, also machine-readably. 
 
 * An information model may use classifications (controlled vocabularies, code lists etc.) as "datatype/range specification" for its "attributes".
-** This will be demonstrated in our link:../modelldcat-ap-no/[showroom with demo information models]. 
+** This is demonstrated and explained in our link:../modelldcat-ap-no/[showroom with demo information models]. 
 ** Classifications should therefore be made available, also machine-readably. 
 
   
 *Classifications and services/events*, for example:
 
 * When describing a service or event, and where coded values are used, the coded values should preferably be chosen from controlled vocabularies (i.e., classifications). 
-** This will be demonstrated and explained in our link:../cpsv-ap-no/[showroom with demo services and events]. 
+** This is demonstrated and explained in our link:../cpsv-ap-no/[showroom with demo services and events]. 
 ** Classifications should therefore be made available, also machine-readably. 
 
 
