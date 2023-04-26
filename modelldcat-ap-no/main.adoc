@@ -47,8 +47,8 @@ In this showroom we have a https://w3id.org/demo-resources/demo-models[a catalog
 ** "Demo Class 1" has an association (in UML) to "Demo Class 2", which is a https://data.norge.no/specification/modelldcat-ap-no#Rolle-egenskaper[role ↗, window="_blank", role="ext-link"] in ModellDCAT-AP-NO.
 ** "Demo Class 3" and "Demo Class 4" are subclasses of "Demo Class 1", described as https://data.norge.no/specification/modelldcat-ap-no#Spesialisering-egenskaper[specializations ↗, window="_blank", role="ext-link"] in ModellDCAT-AP-NO.  
 ** "Demo Class 1" has an https://data.norge.no/specification/modelldcat-ap-no#Attributt-egenskaper[attribute  ↗, window="_blank", role="ext-link"] named https://w3id.org/demo-resources/demo-models#demoAttribute11["demo attribute 11"]. 
-*** A code list, "Demo Code List 1", is used as the value range for this attribute.
-*** "Demo Code List 1" is our "Demo classification 1" demonstrated in our link:../xkos-ap-no[showroom with demo classifications].
+*** This attribute uses a code list as its value range.
+*** The code list, https://jimjyang.github.io/showroom/modelldcat-ap-no/files/demo-models-nb#demoCodelist11["Demo Code List 1"], is our "Demo classification 1" demonstrated in our link:../xkos-ap-no[showroom with demo classifications].
 
   
 
@@ -70,8 +70,8 @@ In this showroom we have a https://w3id.org/demo-resources/demo-models[a catalog
 *Information models and concepts*, for example: 
 
 * An information model may refer to concepts that the information model represents or concepts that are relevant for understanding the information model.
-** This is demonstrated by "Demo model 1", where its https://w3id.org/demo-resources/demo-models#demoObjType1["Demo Class 1"] refers to (by using the property https://data.norge.no/specification/modelldcat-ap-no#Modellelement-begrep[subject (skos:Concept) ↗,  window="_blank", role="ext-link" ]) our "demo concept 1" which is demonstrated in our link:../skos-ap-no[showroom with demo concepts]. 
-** In general, an information model itself, its model elements (object types, code lists etc.) and properties (attributes, associations etc.) may all refer to concepts, using the property `subject (skos:Concept)` in accordance with ModellDCAT-AP-NO.  
+** This is demonstrated by "Demo model 1", where its https://w3id.org/demo-resources/demo-models#demoObjType1["Demo Class 1"] refers to (by using the property https://data.norge.no/specification/modelldcat-ap-no#Modellelement-begrep[subject (skos:Concept) ↗,  window="_blank", role="ext-link"]) our "demo concept 1" which is demonstrated in our link:../skos-ap-no[showroom with demo concepts]. 
+** In general, an https://data.norge.no/specification/modelldcat-ap-no#Informasjonsmodell-egenskaper[information model ↗,  window="_blank", role="ext-link"] itself, its https://data.norge.no/specification/modelldcat-ap-no#Modellelement-egenskaper[model elements ↗,  window="_blank", role="ext-link"] (object types, code lists etc.) and https://data.norge.no/specification/modelldcat-ap-no#Egenskap-egenskaper[properties ↗,  window="_blank", role="ext-link"] (attributes, associations etc.) may all refer to concepts, using the property `subject (skos:Concept)` in accordance with ModellDCAT-AP-NO. 
 
 
 *Information models and datasets*, for example: 
