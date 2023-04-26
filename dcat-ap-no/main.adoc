@@ -72,10 +72,10 @@ In this showroom we have a https://w3id.org/demo-resources/demo-datasets#demoDat
 *Datasets and services/events,* for example:
 
 * A dataset may be used as the input (evidence) needed in order to execute a service. A service may produce a dataset as the output. 
-** This will be demonstrated in our link:../cpsv-ap-no/[showroom with demo services and events].
+** This is demonstrated and explained in our link:../cpsv-ap-no/[showroom with demo services and events].
 
 * An event may be a dataset such that one may subscribe to events in order to provide e.g. proactive services.
-** This will be demonstrated in our link:../cpsv-ap-no/[showroom with demo services and events].
+** This is demonstrated and explained in our link:../cpsv-ap-no/[showroom with demo services and events].
 
 == _to the overview of the showrooms_ [[to-overview]]
 
