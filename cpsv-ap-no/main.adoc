@@ -42,19 +42,29 @@ In this showroom we have a https://w3id.org/demo-resources/demo-services-events[
 
 *Services/events and classifications*, for example: 
 
-* _#... more to come ...#_  
+* When describing a service/event/etc., and where coded values are used, the coded values should preferably be chosen from controlled vocabularies (i.e., classifications). 
+** _#... more to come ...#_  
 
 *Services/events and concepts*, for example: 
 
-* _#... more to come ...#_  
+* A service/event/etc., may refer to concepts that are relevant for understanding the service/event/etc.  
+** _#... more to come ...#_  
 
 *Services/events and datasets*, for example: 
 
-* _#... more to come ...#_  
+* The evidence that is needed in order to execute a service, may be a dataset. 
+**  _#... more to come ...#_
+
+* A service may produce a dataset as the output. 
+**  _#... more to come ...#_
+
+* An event is a dataset. 
+**  _#... more to come ...#_
 
 *Services/events and information models*, for example: 
 
-* _#... more to come ...#_  
+* An evidence needed to execute a service, is a dataset and thus may conform to one or more standards (incl. information models).
+** This is demonstrated in our link:../dcat-ap-no[showroom with demo datasets].  
 
 
 == _to the overview of the showrooms_ [[to-overview]]
