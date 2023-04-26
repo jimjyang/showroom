@@ -82,7 +82,8 @@ In this showroom we have a https://w3id.org/demo-resources/demo-models[a catalog
 
 *Information models and services/events*, for example: 
 
-* _#... more to come ...#_  
+* An evidence needed to execute a service, is a dataset and thus may conform to one or more standards (incl. information models).
+** This is demonstrated in our link:../cpsv-ap-no[showroom with demo services and events]. 
 ** Information models should therefore be made available, also machine-readably.
 
 == _to the overview of the showrooms_ [[to-overview]]
