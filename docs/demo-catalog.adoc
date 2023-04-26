@@ -1,6 +1,6 @@
 == Making the resources findable via a data portal [[about-demo-portal]]
 
-The Norwegian national specifications demonstrated in the various showrooms here, are also specifications for how to make the resource descriptions (metadata) available in https://data.norge.no/[the National Data Catalog of Norway ↗, window="_blank", role="ext-link"] maintained by the Norwegian Digitalisation Agency. The resources will thus be findable via the National Data Catalog. 
+The Norwegian national specifications demonstrated in the various showrooms here, are also specifications for how to make the resource descriptions (metadata) available in a data portal, and in particular, https://data.norge.no/[the National Data Catalog of Norway ↗, window="_blank", role="ext-link"] maintained by the Norwegian Digitalisation Agency. The resources will thus be findable via the National Data Catalog. 
 
 In order to make the resource descriptions available in the National Data Catalog, you may 
 
