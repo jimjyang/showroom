@@ -100,29 +100,29 @@ There are also two different ways to specify the definition of a given concept, 
 ** Classifications should therefore be made available, also machine-readably. 
 
 * A concept may be included in or referred to from a classification. 
-** This is demonstrated in our link:../xkos-ap-no/[showroom with demo classifications]. 
+** This is demonstrated and explained in our link:../xkos-ap-no/[showroom with demo classifications]. 
 
 *Concepts and datasets*, for example:
 
 * A dataset may refer to concepts that the dataset represents or concepts that are relevant for understanding the dataset.
-** This will be demonstrated in our link:../dcat-ap-no/[showroom with demo datasets].
+** This is demonstrated and explained in our link:../dcat-ap-no/[showroom with demo datasets].
 
 * When describing a dataset, and where coded values are used, the coded values should preferably be concepts chosen from controlled vocabularies (i.e., classifications).  
-** This will be demonstrated in our link:../dcat-ap-no/[showroom with demo datasets].
+** This is demonstrated and explained in our link:../dcat-ap-no/[showroom with demo datasets].
 
 *Concepts and information models*, for example:
 
 * An information model may refer to concepts that the information model represents or concepts that are relevant for understanding the information model.
-** This will be demonstrated in our link:../modelldcat-ap-no/[showroom with demo information models].
+** This is demonstrated and explained in our link:../modelldcat-ap-no/[showroom with demo information models].
 
 * When describing an information model, and where coded values are used, the coded values should preferably be concepts chosen from controlled vocabularies (i.e., classifications). 
-** This will be demonstrated and explained in our link:../modelldcat-ap-no/[showroom with demo information models]. 
+** This is demonstrated and explained and explained in our link:../modelldcat-ap-no/[showroom with demo information models]. 
 
 
 *Concepts and services/events*, for example:
 
 * A service or event, may refer to concepts that are relevant for understanding the service or event. 
-** This will be demonstrated in our link:../cpsv-ap-no/[showroom with demo services and events]. 
+** This is demonstrated and explained in our link:../cpsv-ap-no/[showroom with demo services and events]. 
 
 == _to the overview of the showrooms_ [[to-overview]]
 
