@@ -71,7 +71,7 @@ In this showroom we have a https://w3id.org/demo-resources/demo-models[a catalog
 
 * An information model may refer to concepts that the information model represents or concepts that are relevant for understanding the information model.
 ** This is demonstrated by "Demo model 1", where its https://w3id.org/demo-resources/demo-models#demoObjType1["Demo Class 1"] refers to (by using the property https://data.norge.no/specification/modelldcat-ap-no#Modellelement-begrep[subject (skos:Concept) ↗,  window="_blank", role="ext-link" ]) our "demo concept 1" which is demonstrated in our link:../skos-ap-no[showroom with demo concepts]. 
-** In general, an information model itself, its model elements (object types, code lists etc.) and properties (attributes, associations etc.) may all refer to concepts, in accordance with ModellDCAT-AP-NO.  
+** In general, an information model itself, its model elements (object types, code lists etc.) and properties (attributes, associations etc.) may all refer to concepts, using the property `subject (skos:Concept)` in accordance with ModellDCAT-AP-NO.  
 
 
 *Information models and datasets*, for example: 
