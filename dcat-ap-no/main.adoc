@@ -56,6 +56,7 @@ In this showroom we have a https://w3id.org/demo-resources/demo-datasets#demoDat
 
 * When describing a dataset, and where coded values are used, the coded values should preferably be concepts chosen from controlled vocabularies (i.e., classifications). 
 ** For example, in the description of our demo dataset, the property https://data.norge.no/specification/dcat-ap-no#Datasett-tilgangsniv%C3%A5[access rights (dct:accessRights) ↗, window="_blank", role="ext-link"] refers to "PUBLIC" which is chosen from EU's controlled vocabulary https://op.europa.eu/en/web/eu-vocabularies/concept-scheme/-/resource?uri=http://publications.europa.eu/resource/authority/access-right[Access right ↗, window="_blank", role="ext-link"], and the https://data.norge.no/specification/dcat-ap-no#Distribusjon-format[format (dct:format)↗, window="_blank", role="ext-link"] of the distributions refer to "RDF_TURLE" and "HTML" which are chosen from EU's controlled vocabulary https://op.europa.eu/en/web/eu-vocabularies/concept-scheme/-/resource?uri=http://publications.europa.eu/resource/authority/file-type[File type ↗, window="_blank", role="ext-link"]. 
+** Classifications should therefore be made available, also machine-readably.
 
 *Datasets and concepts*, for example:
 
