@@ -67,6 +67,7 @@ In this showroom we have a https://w3id.org/demo-resources/demo-datasets#demoDat
 
 * A dataset (and/or its distributions, data services) may conform to one or more standards (incl. information models).
 ** Our demo dataset https://data.norge.no/specification/dcat-ap-no#Datasett-iSamsvarMed[conforms to (dct:conformsTo) ↗, window="_blank", role="ext-link"] XKOS-AP-NO and its information models. 
+** Information models should therefore be made available, also machine-readably.
 
 *Datasets and services/events,* for example:
 
