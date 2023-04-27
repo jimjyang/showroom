@@ -68,7 +68,7 @@
    dcatap:availability <http://publications.europa.eu/resource/authority/planned-availability/AVAILABLE>;
    dct:modified "2023-03-23"^^xsd:date;
    dcat:byteSize "9200"^^xsd:decimal;
-   dcat:mediaType <https://www.iana.org/assignments/media-types/text/turtle>;
+   dcat:mediaType <https://www.w3.org/ns/iana/media-types/text/turtle>;
    dcat:downloadURL <https://jimjyang.github.io/showroom/xkos-ap-no/files/demo-classifications.ttl>;
    dct:rights [ a dct:RightsStatement ;
     rdfs:comment "No restrictions at all"@en ] ;;
@@ -85,7 +85,7 @@
    adms:status <http://purl.org/adms/status/Completed>;
    dcatap:availability <http://publications.europa.eu/resource/authority/planned-availability/AVAILABLE>;
    dct:modified "2023-03-23"^^xsd:date;
-   dcat:mediaType <https://www.iana.org/assignments/media-types/text/html>;
+   dcat:mediaType <https://www.w3.org/ns/iana/media-types/text/html>;
    dcat:downloadURL <https://jimjyang.github.io/showroom/xkos-ap-no/files/demo-classifications-nb.html>;
    dct:rights [ a dct:RightsStatement ;
     rdfs:comment "No restrictions at all"@en ] ;;
@@ -102,7 +102,7 @@
    adms:status <http://purl.org/adms/status/Completed>;
    dcatap:availability <http://publications.europa.eu/resource/authority/planned-availability/AVAILABLE>;
    dct:modified "2023-03-23"^^xsd:date;
-   dcat:mediaType <https://www.iana.org/assignments/media-types/text/html>;
+   dcat:mediaType <https://www.w3.org/ns/iana/media-types/text/html>;
    dcat:downloadURL <https://jimjyang.github.io/showroom/xkos-ap-no/files/demo-classifications-en.html>;
    dct:rights [ a dct:RightsStatement ;
     rdfs:comment "No restrictions at all"@en ] ;;
@@ -127,4 +127,4 @@
    vcard:hasURL <https://digdir.no>;
    .
  
-#### End of the file, 2023-04-25 10:03:25
+#### End of the file, 2023-04-26 16:15:39
