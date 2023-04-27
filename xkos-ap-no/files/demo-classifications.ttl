@@ -33,8 +33,8 @@
        <https://w3id.org/demo-resources/demo-classifications#demo-category-B>,
        <https://w3id.org/demo-resources/demo-classifications#demo-category-A1>,
        <https://w3id.org/demo-resources/demo-classifications#demo-category-A2>;
-   dct:modified "2023-03-23"^^xsd:date;
-   dct:language <http://publications.europa.eu/resource/authority/language/NNO>,
+   dct:modified "2023-04-27"^^xsd:date;
+   dct:language <http://publications.europa.eu/resource/authority/language/NOB>,
        <http://publications.europa.eu/resource/authority/language/ENG>;
    dct:issued "2023-03-23"^^xsd:date;
    adms:status <http://publications.europa.eu/resource/authority/dataset-status/COMPLETED>;
@@ -152,4 +152,4 @@
    vcard:hasEmail "informasjonsforvaltning@digdir.no"^^xsd:anyURI;
    .
  
-#### End of the file, 2023-04-21 13:47:32
+#### End of the file, 2023-04-27 10:51:02
