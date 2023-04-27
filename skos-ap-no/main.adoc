@@ -50,7 +50,7 @@ In this showroom we have a https://w3id.org/demo-resources/demo-concepts[collect
 .Click for the concept diagrams.
 [%collapsible]
 ====
-.Concept diagrams (using the notations as in relevant ISO-standards). 
+.Concept diagrams (using the notations as in e.g. ISO 24156-1). 
 [[img-concept-diagrams-iso]]
 [link=images/concept-diagrams-iso.png]
 image::images/concept-diagrams-iso.png[alt="Diagram with six concepts and relations in between them. The content is explained in the text."]
