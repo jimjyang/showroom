@@ -63,9 +63,9 @@ The UML-elements in "Demo model 1" shown in <<img-demomodel1-mapping2modelldcatn
 
 [[table-demomodel1-mapping2modelldcatno]]
 .Mapping of "Demo model 1" to ModellDCAT-AP-NO
-[cols="30s,30d,40d"]
+[cols="20,20,60"]
 |====
-|Element (number) | UML | ModellDCAT-AP-NO
+| *Element (number)* | *UML* | *ModellDCAT-AP-NO*
 | 1 | | Information model (modelldcatno:InformationModel)
 | 2 | Class | Object type (modelldcatno:ObjectType)
 | 3 | Generalization | Specialization (modelldcatno:Specialization) 
