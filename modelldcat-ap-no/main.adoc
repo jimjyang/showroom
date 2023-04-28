@@ -11,6 +11,7 @@ ifdef::backend-pdf[:toc: macro]
 // :sectlinks:
 :sectanchors:
 :table-stripes: even
+:xrefstyle: short
 
 
 // _Updated: 2023-03-20_
@@ -50,7 +51,30 @@ In this showroom we have a https://w3id.org/demo-resources/demo-models[a catalog
 *** This attribute uses a code list as its value range.
 *** The code list, https://jimjyang.github.io/showroom/modelldcat-ap-no/files/demo-models-nb#demoCodelist11["Demo Code List 1"], is our "Demo classification 1" demonstrated in our link:../xkos-ap-no[showroom with demo classifications].
 
-  
+.Click for mapping to ModellDCAT-AP-NO.
+[%collapsible]
+====
+.Mapping of "Demo modell 1" from UML to ModellDCAT-AP-NO. 
+[[img-demomodel1-mapping2modelldcatno]]
+[link=images/demomodel1-mapping-examples.png]
+image::images/demomodel1-mapping-examples.png[alt="Figure with 5 UML-classes, with relations and attributes, and the various elements in the figure are numbered. The content is explained in the text."]
+
+The UML-elements in "Demo model 1" shown in <<img-demomodel1-mapping2modelldcatno>> are mapped to ModellDCAT-AP-NO as shown in <<table-demomodel1-mapping2modelldcatno>>. 
+
+[[table-demomodel1-mapping2modelldcatno]]
+.Mapping of "Demo model 1" to ModellDCAT-AP-NO
+[cols="30s,30d,40d"]
+|====
+|Element (number) | UML | ModellDCAT-AP-NO
+| 1 | | Information model (modelldcatno:InformationModel)
+| 2 | Class | Object type (modelldcatno:ObjectType)
+| 3 | Generalization | Specialization (modelldcatno:Specialization) 
+| 4 | Association | Role (modelldcatno:Role)
+| 5 | Attribute | Attribute (modelldcatno:Attribute)
+| 6 | Enumeration | Code list (modelldcatno:CodeList)
+|====
+
+====  
 
 == Some cross-references with other demo resources [[cross-references]]
 
