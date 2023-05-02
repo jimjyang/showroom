@@ -14,7 +14,7 @@ ifdef::backend-pdf[:toc: macro]
 :xrefstyle: short
 
 
-Welcome to the showroom with some generic dummy-assets! 
+Welcome to the showroom with some basic dummy-assets! 
 
 == Purpose [[purpose]]
 
@@ -24,9 +24,9 @@ This showroom is meant to
 
 == Why dummy-assets? [[why]]
 
-When testing or demonstrating your implementation of a given specification, you may often need to refer to instances of specific classes. You may of course use `\https://example.org/somethingYouNeed`, however, such a reference will cause validation errors because the instance your refer to doesn't exist. 
+When testing or demonstrating your implementation of a given specification, you may often need to refer to instances of specific classes. You may of course use `\https://example.org/somethingYouNeed`, however, such a reference will usually cause validation errors because the instance your refer to doesn't exist. 
 
-We provide therefore from this showroom a number of dummy-assets which you can refer to in e.g. your test implementations. We have filled the dummy-assets with dummy-data such that they _hopefully_ will validate correctly, though only in accordance with the Norwegian national specifications that are demonstrated in the other showrooms here.  
+We provide therefore in this showroom a number of dummy-assets which you can refer to in e.g. your test implementations. We have filled the dummy-assets with dummy-data such that they _hopefully_ will validate correctly, though only in accordance with the Norwegian national specifications that are demonstrated in the other showrooms here.  
 
 == Demo resources in this showroom [[demo-resources]]
 
