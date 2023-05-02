@@ -18,6 +18,8 @@ Welcome to the showroom with demo services and events, demonstrating the usage o
 
 _https://informasjonsforvaltning.github.io/cpsv-ap-no/[CPSV-AP-NO ↗, window="_blank", role="ext-link"] (#currently as a trial version#) is the the Norwegian application profile of https://github.com/SEMICeu/CPSV-AP[EU's Core Public Service Vocabulary Application Profile (CPSV-AP) ↗, window="_blank", role="ext-link"], for describing services and events._
 
+image:../shared/images/work-in-progress.png[Flower,72,72] _This showroom is under construction and will be finalized as soon as practically possible after the finalizing of CPSV-AP-NO._ 
+
 == Purpose [[purpose]]
 
 This showroom is meant to 
