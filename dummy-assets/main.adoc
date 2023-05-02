@@ -1,0 +1,48 @@
+include::../locale/attributes.adoc[]
+= Jim's showroom with dummy-assets
+:doctype: book
+:docinfo: shared
+:docinfodir: ../docs
+:icons: font
+:toc: left
+ifdef::backend-pdf[:toc: macro]
+:toc-title: Content
+:toclevels: 4
+// :sectlinks:
+:sectanchors:
+:table-stripes: even
+:xrefstyle: short
+
+
+Welcome to the showroom with some generic dummy-assets! 
+
+== Purpose [[purpose]]
+
+This showroom is meant to
+
+* provide dummy-assets as machine-readable RDF Turtle resources, to be referred to in e.g. examples/tests. 
+
+== Why dummy-assets? [[why]]
+
+When testing or demonstrating your implementation of a given specification, you may often need to refer to instances of specific classes. You may of course use `\https://example.org/somethingYouNeed`, however, such a reference will cause validation errors because the instance your refer to doesn't exist. 
+
+We provide therefore from this showroom a number of dummy-assets which you can refer to in e.g. your test implementations. We have filled the dummy-assets with dummy-data such that they _hopefully_ will validate correctly, though only in accordance with the Norwegian national specifications that are demonstrated in the other showrooms here.  
+
+== Demo resources in this showroom [[demo-resources]]
+
+There are mainly the following types of dummy-assets provided here in this showroom:
+
+* Agents, Organizations, Public Organizations etc.: instances of `foaf:Agent` and its subclasses `org:Organization`, `cp:PublicOrganization` etc. 
+** #_... more to come ..._#
+
+* Documents, Pages, etc.: instances of `foaf:Document` and suchlike.
+** #_... more to come ..._#
+
+* Events, Services, Public Services, etc.: instances of `cv:Event` and its subclasses, instances of `cpsvno:Service` and its subclasses, etc. 
+** #_... more to come ..._#
+
+* #_... more to come ..._#
+
+== _to the overview of the showrooms_ [[to-overview]]
+
+link:../#overview[Click here for the overview of all the showrooms]
