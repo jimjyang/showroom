@@ -43,10 +43,20 @@ There are mainly the following types of dummy-assets provided here in this showr
 * Documents, Pages, etc.: instances of `foaf:Document` and suchlike.
 ** #_... more to come ..._#
 
-* Events, Services, Public Services, etc.: instances of `cv:Event` and its subclasses, instances of `cpsvno:Service` and its subclasses, etc. 
+* Events etc.: instances of `cv:Event` and its subclasses, etc. 
 ** #_... more to come ..._#
 
+* Evidences, Evidence types etc.: instances of `cv:Evidence`,  `cv:EvidenceType` etc. 
+** #_... more to come ..._#
+
+
 * Locations/addresses: instances of `locn:Address` etc. 
+** #_... more to come ..._#
+
+* Services, Public Services: instances of `cpsvno:Service` and its subclasses, etc.
+** #_... more to come ..._#
+
+* Time periods, time instances etc.: instances of `dct:PeriodOfTime`, `time:TemporalEntity`, etc.
 ** #_... more to come ..._#
 
 * etc. etc. #_... more to come ..._#
