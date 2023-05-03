@@ -16,6 +16,8 @@ ifdef::backend-pdf[:toc: macro]
 
 Welcome to the showroom with some basic/generic dummy assets! 
 
+image:../images/work-in-progress.png[Flower,72,72] _This showroom is under construction and will be "continuously" renewed._ 
+
 == Purpose [[purpose]]
 
 This showroom is meant to 
@@ -35,13 +37,19 @@ There are mainly the following types of dummy-assets provided here in this showr
 * Agents, Organizations, Public Organizations etc.: instances of `foaf:Agent` and its subclasses `org:Organization`, `cp:PublicOrganization` etc. 
 ** #_... more to come ..._#
 
+* Contact points: instances of `vcard:Organization`, `vcard:Group`, `cv:ContactPoint` etc. 
+** #_... more to come ..._#
+
 * Documents, Pages, etc.: instances of `foaf:Document` and suchlike.
 ** #_... more to come ..._#
 
 * Events, Services, Public Services, etc.: instances of `cv:Event` and its subclasses, instances of `cpsvno:Service` and its subclasses, etc. 
 ** #_... more to come ..._#
 
-* #_... more to come ..._#
+* Locations/addresses: instances of `locn:Address` etc. 
+** #_... more to come ..._#
+
+* etc. etc. #_... more to come ..._#
 
 == _to the overview of the showrooms_ [[to-overview]]
 
