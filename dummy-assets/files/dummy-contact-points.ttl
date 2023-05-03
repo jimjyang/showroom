@@ -3,7 +3,7 @@
 @prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> . 
 @prefix vcard: <http://www.w3.org/2006/vcard/ns#> . 
 
-<https://w3id.org/demo-resources/demo-concepts#dmyCP1>
+<https://w3id.org/demo-resources/dummy-contact-points#dmyCP1>
    rdf:type vcard:Organization;
    vcard:hasOrganizationName """Dummy contact point 1"""@en,
        """Dummy kontaktpunkt 1"""@nb,
@@ -12,4 +12,4 @@
    vcard:hasURL <https://w3id.org/demo-resources/dummy-assets>;
    .
  
-#### End of the file, 2023-05-03 12:35:52
+#### End of the file, 2023-05-03 12:45:07

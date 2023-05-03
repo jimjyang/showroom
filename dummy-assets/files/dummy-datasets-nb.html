@@ -6,7 +6,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta name="generator" content="Asciidoctor 2.0.18">
 <meta name="author" content="HTML-visning av RDF Turtle ressurs">
-<title>w3id.org/demo-resources/dummy-contact-points</title>
+<title>w3id.org/demo-resources/dummy-datasets</title>
 <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans:300,300italic,400,400italic,600,600italic%7CNoto+Serif:400,400italic,700,700italic%7CDroid+Sans+Mono:400,700">
 <style>
 /*! Asciidoctor default stylesheet | MIT License | https://asciidoctor.org */
@@ -440,14 +440,16 @@ body.book #toc,body.book #preamble,body.book h1.sect0,body.book .sect1>h2{page-b
 </head>
 <body class="article toc2 toc-left">
 <div id="header">
-<h1>w3id.org/demo-resources/dummy-contact-points</h1>
+<h1>w3id.org/demo-resources/dummy-datasets</h1>
 <div class="details">
 <span id="author" class="author">HTML-visning av RDF Turtle ressurs</span><br>
 </div>
 <div id="toc" class="toc2">
 <div id="toctitle">Innhold</div>
 <ul class="sectlevel1">
-<li><a href="#dmyCP1">&lt;https://w3id.org/demo-resources/dummy-contact-points#dmyCP1&gt;</a></li>
+<li><a href="#dmyDataset1">&lt;https://w3id.org/demo-resources/dummy-datasets#dmyDataset1&gt;</a></li>
+<li><a href="#dmyDistr1">&lt;https://w3id.org/demo-resources/dummy-datasets#dmyDistr1&gt;</a></li>
+<li><a href="#dmyDataSrvc1">&lt;https://w3id.org/demo-resources/dummy-datasets#dmyDataSrvc1&gt;</a></li>
 <li><a href="#Namespace">Navnerom</a></li>
 </ul>
 </div>
@@ -471,7 +473,7 @@ Dersom du finner feil eller mangler, ber vi om at dette meldes inn på <a href="
 </div>
 </div>
 <div class="sect1">
-<h2 id="dmyCP1"><a class="anchor" href="#dmyCP1"></a>&lt;https://w3id.org/demo-resources/dummy-contact-points#dmyCP1&gt;</h2>
+<h2 id="dmyDataset1"><a class="anchor" href="#dmyDataset1"></a>&lt;https://w3id.org/demo-resources/dummy-datasets#dmyDataset1&gt;</h2>
 <div class="sectionbody">
 <table class="tableblock frame-all grid-all stripes-odd stretch">
 <colgroup>
@@ -488,24 +490,209 @@ Dersom du finner feil eller mangler, ber vi om at dette meldes inn på <a href="
 <tr>
 <td class="tableblock halign-left valign-top"><p class="tableblock"><strong>er instans av</strong></p></td>
 <td class="tableblock halign-left valign-top"><p class="tableblock">rdf:type</p></td>
-<td class="tableblock halign-left valign-top"><p class="tableblock">Organisasjon (vcard:Organization)</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">Datasett (dcat:Dataset)</p></td>
 </tr>
 <tr>
-<td class="tableblock halign-left valign-top"><p class="tableblock"><strong>har organisasjonsnavn</strong></p></td>
-<td class="tableblock halign-left valign-top"><p class="tableblock">vcard:hasOrganizationName</p></td>
-<td class="tableblock halign-left valign-top"><p class="tableblock">Dummy contact point 1 (<a href="http://publications.europa.eu/resource/authority/language/ENG">engelsk</a>)<br>
- Dummy kontaktpunkt 1 (<a href="http://publications.europa.eu/resource/authority/language/NOB">bokmål</a>)<br>
- Dummy kontaktpunkt 1 (<a href="http://publications.europa.eu/resource/authority/language/NNO">nynorsk</a>)</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock"><strong>beskrivelse</strong></p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">dct:description</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">Description of Dummy datasett 1 (<a href="http://publications.europa.eu/resource/authority/language/ENG">engelsk</a>)<br>
+ Beskrivelse av Dummy dataset 1 (<a href="http://publications.europa.eu/resource/authority/language/NOB">bokmål</a>)</p></td>
 </tr>
 <tr>
-<td class="tableblock halign-left valign-top"><p class="tableblock"><strong>har e-post</strong></p></td>
-<td class="tableblock halign-left valign-top"><p class="tableblock">vcard:hasEmail</p></td>
-<td class="tableblock halign-left valign-top"><p class="tableblock">mailto:cp1@example.org</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock"><strong>identifikator</strong></p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">dct:identifier</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock"><a href="https://w3id.org/demo-resources/dummy-datasets#dmyDataset1" class="bare">https://w3id.org/demo-resources/dummy-datasets#dmyDataset1</a></p></td>
 </tr>
 <tr>
-<td class="tableblock halign-left valign-top"><p class="tableblock"><strong>har URL</strong></p></td>
-<td class="tableblock halign-left valign-top"><p class="tableblock">vcard:hasURL</p></td>
-<td class="tableblock halign-left valign-top"><p class="tableblock"><a href="https://w3id.org/demo-resources/dummy-assets" class="bare">https://w3id.org/demo-resources/dummy-assets</a></p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock"><strong>tema</strong></p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">dcat:theme</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock"><a href="http://publications.europa.eu/resource/authority/data-theme/GOVE" class="bare">http://publications.europa.eu/resource/authority/data-theme/GOVE</a></p></td>
+</tr>
+<tr>
+<td class="tableblock halign-left valign-top"><p class="tableblock"><strong>tittel</strong></p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">dct:title</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">Dummy datasett 1 (<a href="http://publications.europa.eu/resource/authority/language/NOB">bokmål</a>)<br>
+ Dummy dataset 1 (<a href="http://publications.europa.eu/resource/authority/language/ENG">engelsk</a>)</p></td>
+</tr>
+<tr>
+<td class="tableblock halign-left valign-top"><p class="tableblock"><strong>utgiver (org.nr.)</strong></p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">dct:publisher</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock"><a href="https://w3id.org/demo-resources/dummy-agents#dmyOrg1" class="bare">https://w3id.org/demo-resources/dummy-agents#dmyOrg1</a></p></td>
+</tr>
+<tr>
+<td class="tableblock halign-left valign-top"><p class="tableblock"><strong>begrep</strong></p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">dct:subject</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock"><a href="https://w3id.org/demo-resources/demo-concepts#demoCpt1" class="bare">https://w3id.org/demo-resources/demo-concepts#demoCpt1</a></p></td>
+</tr>
+<tr>
+<td class="tableblock halign-left valign-top"><p class="tableblock"><strong>datasettdistribusjon</strong></p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">dcat:distribution</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock"><a href="https://w3id.org/demo-resources/dummy-datasets#dmyDistr1" class="bare">https://w3id.org/demo-resources/dummy-datasets#dmyDistr1</a></p></td>
+</tr>
+<tr>
+<td class="tableblock halign-left valign-top"><p class="tableblock"><strong>dekningsområde</strong></p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">dct:spatial</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock"><a href="http://publications.europa.eu/resource/authority/country/NOR" class="bare">http://publications.europa.eu/resource/authority/country/NOR</a></p></td>
+</tr>
+<tr>
+<td class="tableblock halign-left valign-top"><p class="tableblock"><strong>emneord</strong></p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">dcat:keyword</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">dummy (<a href="http://publications.europa.eu/resource/authority/language/ENG">engelsk</a>)<br>
+ dummy (<a href="http://publications.europa.eu/resource/authority/language/NOB">bokmål</a>)<br>
+ dataset (<a href="http://publications.europa.eu/resource/authority/language/ENG">engelsk</a>)<br>
+ datasett (<a href="http://publications.europa.eu/resource/authority/language/NOB">bokmål</a>)</p></td>
+</tr>
+<tr>
+<td class="tableblock halign-left valign-top"><p class="tableblock"><strong>kontaktpunkt</strong></p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">dcat:contactPoint</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock"><a href="https://w3id.org/demo-resources/dummy-contact-points#dmyCP1" class="bare">https://w3id.org/demo-resources/dummy-contact-points#dmyCP1</a></p></td>
+</tr>
+<tr>
+<td class="tableblock halign-left valign-top"><p class="tableblock"><strong>tidsrom</strong></p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">dct:temporal</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock"><a href="https://w3id.org/demo-resources/dummy-times#dmyPoT1" class="bare">https://w3id.org/demo-resources/dummy-times#dmyPoT1</a></p></td>
+</tr>
+<tr>
+<td class="tableblock halign-left valign-top"><p class="tableblock"><strong>tilgangsnivå</strong></p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">dct:accessRights</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock"><a href="http://publications.europa.eu/resource/authority/access-right/PUBLIC" class="bare">http://publications.europa.eu/resource/authority/access-right/PUBLIC</a></p></td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+<div class="sect1">
+<h2 id="dmyDistr1"><a class="anchor" href="#dmyDistr1"></a>&lt;https://w3id.org/demo-resources/dummy-datasets#dmyDistr1&gt;</h2>
+<div class="sectionbody">
+<table class="tableblock frame-all grid-all stripes-odd stretch">
+<colgroup>
+<col style="width: 20%;">
+<col style="width: 20%;">
+<col style="width: 60%;">
+</colgroup>
+<tbody>
+<tr>
+<td class="tableblock halign-left valign-top"><p class="tableblock"><strong>Egenskapsnavn</strong></p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock"><strong>EgenskapsURI</strong></p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock"><strong>Verdi</strong></p></td>
+</tr>
+<tr>
+<td class="tableblock halign-left valign-top"><p class="tableblock"><strong>er instans av</strong></p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">rdf:type</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">Distribusjon (dcat:Distribution)</p></td>
+</tr>
+<tr>
+<td class="tableblock halign-left valign-top"><p class="tableblock"><strong>beskrivelse</strong></p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">dct:description</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">Beskrivelse av Dummy distribusjon 1 (<a href="http://publications.europa.eu/resource/authority/language/NOB">bokmål</a>)<br>
+ Description of Dummy distribution 1 (<a href="http://publications.europa.eu/resource/authority/language/ENG">engelsk</a>)</p></td>
+</tr>
+<tr>
+<td class="tableblock halign-left valign-top"><p class="tableblock"><strong>format</strong></p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">dct:format</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock"><a href="http://publications.europa.eu/resource/authority/file-type/RDF_TURTLE" class="bare">http://publications.europa.eu/resource/authority/file-type/RDF_TURTLE</a></p></td>
+</tr>
+<tr>
+<td class="tableblock halign-left valign-top"><p class="tableblock"><strong>lisens</strong></p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">dct:license</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock"><a href="http://publications.europa.eu/resource/authority/licence/CC0" class="bare">http://publications.europa.eu/resource/authority/licence/CC0</a></p></td>
+</tr>
+<tr>
+<td class="tableblock halign-left valign-top"><p class="tableblock"><strong>status</strong></p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">adms:status</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock"><a href="http://publications.europa.eu/resource/authority/dataset-status/COMPLETED">ferdigstilt</a></p></td>
+</tr>
+<tr>
+<td class="tableblock halign-left valign-top"><p class="tableblock"><strong>tilgjengelighet</strong></p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">dcatap:availability</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock"><a href="http://publications.europa.eu/resource/authority/planned-availability/AVAILABLE" class="bare">http://publications.europa.eu/resource/authority/planned-availability/AVAILABLE</a></p></td>
+</tr>
+<tr>
+<td class="tableblock halign-left valign-top"><p class="tableblock"><strong>endringsdato</strong></p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">dct:modified</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">2023-03-23</p></td>
+</tr>
+<tr>
+<td class="tableblock halign-left valign-top"><p class="tableblock"><strong>filstørrelse</strong></p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">dcat:byteSize</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">9200</p></td>
+</tr>
+<tr>
+<td class="tableblock halign-left valign-top"><p class="tableblock"><strong>medietype</strong></p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">dcat:mediaType</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock"><a href="https://www.w3.org/ns/iana/media-types/text/turtle" class="bare">https://www.w3.org/ns/iana/media-types/text/turtle</a></p></td>
+</tr>
+<tr>
+<td class="tableblock halign-left valign-top"><p class="tableblock"><strong>tilgangstjeneste</strong></p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">dcat:accessService</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock"><a href="https://w3id.org/demo-resources/dummy-datasets#dmyDataSrvc1">Dummy datatjeneste 1</a></p></td>
+</tr>
+<tr>
+<td class="tableblock halign-left valign-top"><p class="tableblock"><strong>utgivelsesdato</strong></p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">dct:issued</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">2023-03-23</p></td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+<div class="sect1">
+<h2 id="dmyDataSrvc1"><a class="anchor" href="#dmyDataSrvc1"></a>&lt;https://w3id.org/demo-resources/dummy-datasets#dmyDataSrvc1&gt;</h2>
+<div class="sectionbody">
+<table class="tableblock frame-all grid-all stripes-odd stretch">
+<colgroup>
+<col style="width: 20%;">
+<col style="width: 20%;">
+<col style="width: 60%;">
+</colgroup>
+<tbody>
+<tr>
+<td class="tableblock halign-left valign-top"><p class="tableblock"><strong>Egenskapsnavn</strong></p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock"><strong>EgenskapsURI</strong></p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock"><strong>Verdi</strong></p></td>
+</tr>
+<tr>
+<td class="tableblock halign-left valign-top"><p class="tableblock"><strong>er instans av</strong></p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">rdf:type</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">Datatjeneste (dcat:DataService)</p></td>
+</tr>
+<tr>
+<td class="tableblock halign-left valign-top"><p class="tableblock"><strong>identifikator</strong></p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">dct:identifier</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock"><a href="https://w3id.org/demo-resources/dummy-datasets#dmyDataSrvc1" class="bare">https://w3id.org/demo-resources/dummy-datasets#dmyDataSrvc1</a></p></td>
+</tr>
+<tr>
+<td class="tableblock halign-left valign-top"><p class="tableblock"><strong>navn</strong></p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">dct:title</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">Dummy Data service 1 (<a href="http://publications.europa.eu/resource/authority/language/ENG">engelsk</a>)<br>
+ Dummy datatjeneste 1 (<a href="http://publications.europa.eu/resource/authority/language/NOB">bokmål</a>)</p></td>
+</tr>
+<tr>
+<td class="tableblock halign-left valign-top"><p class="tableblock"><strong>emneord</strong></p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">dcat:keyword</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">dummy (<a href="http://publications.europa.eu/resource/authority/language/ENG">engelsk</a>)<br>
+ dummy (<a href="http://publications.europa.eu/resource/authority/language/NOB">bokmål</a>)</p></td>
+</tr>
+<tr>
+<td class="tableblock halign-left valign-top"><p class="tableblock"><strong>kontaktpunkt</strong></p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">dcat:contactPoint</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock"><a href="https://w3id.org/demo-resources/dummy-contact-points#dmyCP1" class="bare">https://w3id.org/demo-resources/dummy-contact-points#dmyCP1</a></p></td>
+</tr>
+<tr>
+<td class="tableblock halign-left valign-top"><p class="tableblock"><strong>beskrivelse</strong></p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">dct:description</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">Description of Dummy data service 1 (<a href="http://publications.europa.eu/resource/authority/language/ENG">engelsk</a>)<br>
+ Beskrivelse av Dummy datasett 1 (<a href="http://publications.europa.eu/resource/authority/language/NOB">bokmål</a>)</p></td>
+</tr>
+<tr>
+<td class="tableblock halign-left valign-top"><p class="tableblock"><strong>dokumentasjon</strong></p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">foaf:page</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock"><a href="https://w3id.org/demo-resources/dummy-documents#dmyDoc1" class="bare">https://w3id.org/demo-resources/dummy-documents#dmyDoc1</a></p></td>
+</tr>
+<tr>
+<td class="tableblock halign-left valign-top"><p class="tableblock"><strong>følger</strong></p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">cpsv:follows</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock"><a href="https://data.norge.no/vocabulary/rule-type#non-disclosure-rule" class="bare">https://data.norge.no/vocabulary/rule-type#non-disclosure-rule</a></p></td>
 </tr>
 </tbody>
 </table>
@@ -525,12 +712,24 @@ Dersom du finner feil eller mangler, ber vi om at dette meldes inn på <a href="
 <td class="tableblock halign-left valign-top"><p class="tableblock"><strong>URI</strong></p></td>
 </tr>
 <tr>
-<td class="tableblock halign-left valign-top"><p class="tableblock"><strong>rdf</strong></p></td>
-<td class="tableblock halign-left valign-top"><p class="tableblock"><a href="http://www.w3.org/1999/02/22-rdf-syntax-ns#" class="bare">http://www.w3.org/1999/02/22-rdf-syntax-ns#</a></p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock"><strong>adms</strong></p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock"><a href="http://www.w3.org/ns/adms#" class="bare">http://www.w3.org/ns/adms#</a></p></td>
 </tr>
 <tr>
-<td class="tableblock halign-left valign-top"><p class="tableblock"><strong>vcard</strong></p></td>
-<td class="tableblock halign-left valign-top"><p class="tableblock"><a href="http://www.w3.org/2006/vcard/ns#" class="bare">http://www.w3.org/2006/vcard/ns#</a></p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock"><strong>dcat</strong></p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock"><a href="http://www.w3.org/ns/dcat#" class="bare">http://www.w3.org/ns/dcat#</a></p></td>
+</tr>
+<tr>
+<td class="tableblock halign-left valign-top"><p class="tableblock"><strong>dct</strong></p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock"><a href="http://purl.org/dc/terms/" class="bare">http://purl.org/dc/terms/</a></p></td>
+</tr>
+<tr>
+<td class="tableblock halign-left valign-top"><p class="tableblock"><strong>foaf</strong></p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock"><a href="http://xmlns.com/foaf/0.1/" class="bare">http://xmlns.com/foaf/0.1/</a></p></td>
+</tr>
+<tr>
+<td class="tableblock halign-left valign-top"><p class="tableblock"><strong>rdf</strong></p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock"><a href="http://www.w3.org/1999/02/22-rdf-syntax-ns#" class="bare">http://www.w3.org/1999/02/22-rdf-syntax-ns#</a></p></td>
 </tr>
 <tr>
 <td class="tableblock halign-left valign-top"><p class="tableblock"><strong>xsd</strong></p></td>
@@ -543,7 +742,7 @@ Dersom du finner feil eller mangler, ber vi om at dette meldes inn på <a href="
 </div>
 <div id="footer">
 <div id="footer-text">
-Sist oppdatert 2023-05-03 12:38:26 +0200
+Sist oppdatert 2023-05-03 14:32:34 +0200
 </div>
 </div>
 </body>

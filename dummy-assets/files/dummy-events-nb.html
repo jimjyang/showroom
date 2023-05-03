@@ -6,7 +6,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta name="generator" content="Asciidoctor 2.0.18">
 <meta name="author" content="HTML-visning av RDF Turtle ressurs">
-<title>w3id.org/demo-resources/dummy-contact-points</title>
+<title>w3id.org/demo-resources/dummy-events</title>
 <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans:300,300italic,400,400italic,600,600italic%7CNoto+Serif:400,400italic,700,700italic%7CDroid+Sans+Mono:400,700">
 <style>
 /*! Asciidoctor default stylesheet | MIT License | https://asciidoctor.org */
@@ -440,14 +440,16 @@ body.book #toc,body.book #preamble,body.book h1.sect0,body.book .sect1>h2{page-b
 </head>
 <body class="article toc2 toc-left">
 <div id="header">
-<h1>w3id.org/demo-resources/dummy-contact-points</h1>
+<h1>w3id.org/demo-resources/dummy-events</h1>
 <div class="details">
 <span id="author" class="author">HTML-visning av RDF Turtle ressurs</span><br>
 </div>
 <div id="toc" class="toc2">
 <div id="toctitle">Innhold</div>
 <ul class="sectlevel1">
-<li><a href="#dmyCP1">&lt;https://w3id.org/demo-resources/dummy-contact-points#dmyCP1&gt;</a></li>
+<li><a href="#dmyEvent1">&lt;https://w3id.org/demo-resources/dummy-events#dmyEvent1&gt;</a></li>
+<li><a href="#dmyLEvent1">&lt;https://w3id.org/demo-resources/dummy-events#dmyLEvent1&gt;</a></li>
+<li><a href="#dmyBEvent1">&lt;https://w3id.org/demo-resources/dummy-events#dmyBEvent1&gt;</a></li>
 <li><a href="#Namespace">Navnerom</a></li>
 </ul>
 </div>
@@ -471,7 +473,7 @@ Dersom du finner feil eller mangler, ber vi om at dette meldes inn på <a href="
 </div>
 </div>
 <div class="sect1">
-<h2 id="dmyCP1"><a class="anchor" href="#dmyCP1"></a>&lt;https://w3id.org/demo-resources/dummy-contact-points#dmyCP1&gt;</h2>
+<h2 id="dmyEvent1"><a class="anchor" href="#dmyEvent1"></a>&lt;https://w3id.org/demo-resources/dummy-events#dmyEvent1&gt;</h2>
 <div class="sectionbody">
 <table class="tableblock frame-all grid-all stripes-odd stretch">
 <colgroup>
@@ -488,24 +490,170 @@ Dersom du finner feil eller mangler, ber vi om at dette meldes inn på <a href="
 <tr>
 <td class="tableblock halign-left valign-top"><p class="tableblock"><strong>er instans av</strong></p></td>
 <td class="tableblock halign-left valign-top"><p class="tableblock">rdf:type</p></td>
-<td class="tableblock halign-left valign-top"><p class="tableblock">Organisasjon (vcard:Organization)</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">Hendelse (cv:Event)</p></td>
 </tr>
 <tr>
-<td class="tableblock halign-left valign-top"><p class="tableblock"><strong>har organisasjonsnavn</strong></p></td>
-<td class="tableblock halign-left valign-top"><p class="tableblock">vcard:hasOrganizationName</p></td>
-<td class="tableblock halign-left valign-top"><p class="tableblock">Dummy contact point 1 (<a href="http://publications.europa.eu/resource/authority/language/ENG">engelsk</a>)<br>
- Dummy kontaktpunkt 1 (<a href="http://publications.europa.eu/resource/authority/language/NOB">bokmål</a>)<br>
- Dummy kontaktpunkt 1 (<a href="http://publications.europa.eu/resource/authority/language/NNO">nynorsk</a>)</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock"><strong>identifikator</strong></p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">dct:identifier</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock"><a href="https://w3id.org/demo-resources/dummy-events#dmyEvent1" class="bare">https://w3id.org/demo-resources/dummy-events#dmyEvent1</a></p></td>
 </tr>
 <tr>
-<td class="tableblock halign-left valign-top"><p class="tableblock"><strong>har e-post</strong></p></td>
-<td class="tableblock halign-left valign-top"><p class="tableblock">vcard:hasEmail</p></td>
-<td class="tableblock halign-left valign-top"><p class="tableblock">mailto:cp1@example.org</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock"><strong>navn</strong></p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">dct:title</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">Dummyhendelse 1 (<a href="http://publications.europa.eu/resource/authority/language/NOB">bokmål</a>)<br>
+ Dummyhending 1 (<a href="http://publications.europa.eu/resource/authority/language/NNO">nynorsk</a>)<br>
+ Dummy event 1 (<a href="http://publications.europa.eu/resource/authority/language/ENG">engelsk</a>)</p></td>
 </tr>
 <tr>
-<td class="tableblock halign-left valign-top"><p class="tableblock"><strong>har URL</strong></p></td>
-<td class="tableblock halign-left valign-top"><p class="tableblock">vcard:hasURL</p></td>
-<td class="tableblock halign-left valign-top"><p class="tableblock"><a href="https://w3id.org/demo-resources/dummy-assets" class="bare">https://w3id.org/demo-resources/dummy-assets</a></p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock"><strong>beskrivelse</strong></p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">dct:description</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">Beskrivelse av Dummyhendelse 1 (<a href="http://publications.europa.eu/resource/authority/language/NOB">bokmål</a>)<br>
+ Beskriving av Dummyhending 1 (<a href="http://publications.europa.eu/resource/authority/language/NNO">nynorsk</a>)<br>
+ Description of Dummy event 1 (<a href="http://publications.europa.eu/resource/authority/language/ENG">engelsk</a>)</p></td>
+</tr>
+<tr>
+<td class="tableblock halign-left valign-top"><p class="tableblock"><strong>kan sette i gang</strong></p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">cpsvno:mayInitiate</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock"><a href="https://w3id.org/demo-resources/dummy-services#dmyService1" class="bare">https://w3id.org/demo-resources/dummy-services#dmyService1</a></p></td>
+</tr>
+<tr>
+<td class="tableblock halign-left valign-top"><p class="tableblock"><strong>begrep</strong></p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">dct:subject</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock"><a href="https://w3id.org/demo-resources/demo-concepts#demoCpt1" class="bare">https://w3id.org/demo-resources/demo-concepts#demoCpt1</a></p></td>
+</tr>
+<tr>
+<td class="tableblock halign-left valign-top"><p class="tableblock"><strong>distribusjon</strong></p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">dcat:distribution</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock"><a href="https://w3id.org/demo-resources/dummy-datasets#dmyDistr1" class="bare">https://w3id.org/demo-resources/dummy-datasets#dmyDistr1</a></p></td>
+</tr>
+<tr>
+<td class="tableblock halign-left valign-top"><p class="tableblock"><strong>type</strong></p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">dct:type</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock"><a href="https://data.norge.no/vocabulary/event-type#data-changed" class="bare">https://data.norge.no/vocabulary/event-type#data-changed</a></p></td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+<div class="sect1">
+<h2 id="dmyLEvent1"><a class="anchor" href="#dmyLEvent1"></a>&lt;https://w3id.org/demo-resources/dummy-events#dmyLEvent1&gt;</h2>
+<div class="sectionbody">
+<table class="tableblock frame-all grid-all stripes-odd stretch">
+<colgroup>
+<col style="width: 20%;">
+<col style="width: 20%;">
+<col style="width: 60%;">
+</colgroup>
+<tbody>
+<tr>
+<td class="tableblock halign-left valign-top"><p class="tableblock"><strong>Egenskapsnavn</strong></p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock"><strong>EgenskapsURI</strong></p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock"><strong>Verdi</strong></p></td>
+</tr>
+<tr>
+<td class="tableblock halign-left valign-top"><p class="tableblock"><strong>er instans av</strong></p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">rdf:type</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">Livshendelse (cv:LifeEvent)</p></td>
+</tr>
+<tr>
+<td class="tableblock halign-left valign-top"><p class="tableblock"><strong>identifikator</strong></p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">dct:identifier</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock"><a href="https://w3id.org/demo-resources/dummy-events#dmyLEvent1" class="bare">https://w3id.org/demo-resources/dummy-events#dmyLEvent1</a></p></td>
+</tr>
+<tr>
+<td class="tableblock halign-left valign-top"><p class="tableblock"><strong>navn</strong></p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">dct:title</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">Dummy livshendelse 1 (<a href="http://publications.europa.eu/resource/authority/language/NOB">bokmål</a>)<br>
+ Dummy livshending 1 (<a href="http://publications.europa.eu/resource/authority/language/NNO">nynorsk</a>)<br>
+ Dummy Life Event 1 (<a href="http://publications.europa.eu/resource/authority/language/ENG">engelsk</a>)</p></td>
+</tr>
+<tr>
+<td class="tableblock halign-left valign-top"><p class="tableblock"><strong>beskrivelse</strong></p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">dct:description</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">Beskrivelse av Dummy livshendelse 1 (<a href="http://publications.europa.eu/resource/authority/language/NOB">bokmål</a>)<br>
+ Beskriving Dummy livshending 1 (<a href="http://publications.europa.eu/resource/authority/language/NNO">nynorsk</a>)<br>
+ Description of Dummy Life Event 1 (<a href="http://publications.europa.eu/resource/authority/language/ENG">engelsk</a>)</p></td>
+</tr>
+<tr>
+<td class="tableblock halign-left valign-top"><p class="tableblock"><strong>utløser behov for</strong></p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">cpsvno:triggersNeedFor</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock"><a href="https://w3id.org/demo-resources/dummy-services#dmyService1" class="bare">https://w3id.org/demo-resources/dummy-services#dmyService1</a></p></td>
+</tr>
+<tr>
+<td class="tableblock halign-left valign-top"><p class="tableblock"><strong>begrep</strong></p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">dct:subject</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock"><a href="https://w3id.org/demo-resources/demo-concepts#demoCpt1" class="bare">https://w3id.org/demo-resources/demo-concepts#demoCpt1</a></p></td>
+</tr>
+<tr>
+<td class="tableblock halign-left valign-top"><p class="tableblock"><strong>distribusjon</strong></p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">dcat:distribution</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock"><a href="https://w3id.org/demo-resources/dummy-datasets#dmyDistr1" class="bare">https://w3id.org/demo-resources/dummy-datasets#dmyDistr1</a></p></td>
+</tr>
+<tr>
+<td class="tableblock halign-left valign-top"><p class="tableblock"><strong>type</strong></p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">dct:type</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock"><a href="https://data.norge.no/vocabulary/life-event-type#having-a-child" class="bare">https://data.norge.no/vocabulary/life-event-type#having-a-child</a></p></td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+<div class="sect1">
+<h2 id="dmyBEvent1"><a class="anchor" href="#dmyBEvent1"></a>&lt;https://w3id.org/demo-resources/dummy-events#dmyBEvent1&gt;</h2>
+<div class="sectionbody">
+<table class="tableblock frame-all grid-all stripes-odd stretch">
+<colgroup>
+<col style="width: 20%;">
+<col style="width: 20%;">
+<col style="width: 60%;">
+</colgroup>
+<tbody>
+<tr>
+<td class="tableblock halign-left valign-top"><p class="tableblock"><strong>Egenskapsnavn</strong></p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock"><strong>EgenskapsURI</strong></p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock"><strong>Verdi</strong></p></td>
+</tr>
+<tr>
+<td class="tableblock halign-left valign-top"><p class="tableblock"><strong>er instans av</strong></p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">rdf:type</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">Virksomhetshendelse (cv:BusinessEvent)</p></td>
+</tr>
+<tr>
+<td class="tableblock halign-left valign-top"><p class="tableblock"><strong>identifikator</strong></p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">dct:identifier</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock"><a href="https://w3id.org/demo-resources/dummy-events#dmyBEvent1" class="bare">https://w3id.org/demo-resources/dummy-events#dmyBEvent1</a></p></td>
+</tr>
+<tr>
+<td class="tableblock halign-left valign-top"><p class="tableblock"><strong>navn</strong></p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">dct:title</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">Dummy Business Event 1 (<a href="http://publications.europa.eu/resource/authority/language/ENG">engelsk</a>)<br>
+ Dommy virksomhetsehendelse 1 (<a href="http://publications.europa.eu/resource/authority/language/NOB">bokmål</a>)</p></td>
+</tr>
+<tr>
+<td class="tableblock halign-left valign-top"><p class="tableblock"><strong>beskrivelse</strong></p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">dct:description</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">Description of Dummy Business Event 1 (<a href="http://publications.europa.eu/resource/authority/language/ENG">engelsk</a>)<br>
+ Beskrivelse av Dummy virksomhetshendelse 1 (<a href="http://publications.europa.eu/resource/authority/language/NOB">bokmål</a>)</p></td>
+</tr>
+<tr>
+<td class="tableblock halign-left valign-top"><p class="tableblock"><strong>utløser behov for</strong></p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">cpsvno:triggersNeedFor</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock"><a href="https://w3id.org/demo-resources/dummy-services#dmyService1" class="bare">https://w3id.org/demo-resources/dummy-services#dmyService1</a></p></td>
+</tr>
+<tr>
+<td class="tableblock halign-left valign-top"><p class="tableblock"><strong>begrep</strong></p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">dct:subject</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock"><a href="https://w3id.org/demo-resources/demo-concepts#demoCpt1" class="bare">https://w3id.org/demo-resources/demo-concepts#demoCpt1</a></p></td>
+</tr>
+<tr>
+<td class="tableblock halign-left valign-top"><p class="tableblock"><strong>distribusjon</strong></p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">dcat:distribution</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock"><a href="https://w3id.org/demo-resources/dummy-datasets#dmyDistr1" class="bare">https://w3id.org/demo-resources/dummy-datasets#dmyDistr1</a></p></td>
+</tr>
+<tr>
+<td class="tableblock halign-left valign-top"><p class="tableblock"><strong>type</strong></p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">dct:type</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock"><a href="https://data.norge.no/vocabulary/business-event-type#starting-business" class="bare">https://data.norge.no/vocabulary/business-event-type#starting-business</a></p></td>
 </tr>
 </tbody>
 </table>
@@ -525,12 +673,24 @@ Dersom du finner feil eller mangler, ber vi om at dette meldes inn på <a href="
 <td class="tableblock halign-left valign-top"><p class="tableblock"><strong>URI</strong></p></td>
 </tr>
 <tr>
-<td class="tableblock halign-left valign-top"><p class="tableblock"><strong>rdf</strong></p></td>
-<td class="tableblock halign-left valign-top"><p class="tableblock"><a href="http://www.w3.org/1999/02/22-rdf-syntax-ns#" class="bare">http://www.w3.org/1999/02/22-rdf-syntax-ns#</a></p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock"><strong>cpsvno</strong></p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock"><a href="https://data.norge.no/vocabulary/cpsvno#" class="bare">https://data.norge.no/vocabulary/cpsvno#</a></p></td>
 </tr>
 <tr>
-<td class="tableblock halign-left valign-top"><p class="tableblock"><strong>vcard</strong></p></td>
-<td class="tableblock halign-left valign-top"><p class="tableblock"><a href="http://www.w3.org/2006/vcard/ns#" class="bare">http://www.w3.org/2006/vcard/ns#</a></p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock"><strong>cv</strong></p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock"><a href="http://data.europa.eu/m8g/" class="bare">http://data.europa.eu/m8g/</a></p></td>
+</tr>
+<tr>
+<td class="tableblock halign-left valign-top"><p class="tableblock"><strong>dcat</strong></p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock"><a href="http://www.w3.org/ns/dcat#" class="bare">http://www.w3.org/ns/dcat#</a></p></td>
+</tr>
+<tr>
+<td class="tableblock halign-left valign-top"><p class="tableblock"><strong>dct</strong></p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock"><a href="http://purl.org/dc/terms/" class="bare">http://purl.org/dc/terms/</a></p></td>
+</tr>
+<tr>
+<td class="tableblock halign-left valign-top"><p class="tableblock"><strong>rdf</strong></p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock"><a href="http://www.w3.org/1999/02/22-rdf-syntax-ns#" class="bare">http://www.w3.org/1999/02/22-rdf-syntax-ns#</a></p></td>
 </tr>
 <tr>
 <td class="tableblock halign-left valign-top"><p class="tableblock"><strong>xsd</strong></p></td>
@@ -543,7 +703,7 @@ Dersom du finner feil eller mangler, ber vi om at dette meldes inn på <a href="
 </div>
 <div id="footer">
 <div id="footer-text">
-Sist oppdatert 2023-05-03 12:38:26 +0200
+Sist oppdatert 2023-05-03 13:20:34 +0200
 </div>
 </div>
 </body>
