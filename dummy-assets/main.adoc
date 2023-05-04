@@ -26,7 +26,7 @@ This showroom is meant to
 
 == Why dummy-assets? [[why]]
 
-When testing or demonstrating your implementation of a given specification, you may often need to refer to instances of specific classes. You may of course use `\https://example.org/somethingYouNeed`, however, such a reference will usually cause validation errors because the instance your refer to doesn't exist. 
+When testing or demonstrating your implementation of a given specification, you may often need to refer to instances of specific classes. You may of course use `\https://example.org/nonExisting`, however, such a reference will usually cause validation errors because the instance your refer to doesn't exist. 
 
 We provide therefore in this showroom a number of generic dummy assets which you can refer to in e.g. your test implementations. "Dummy" because We have filled the assets with dummy data, such that they _hopefully_ will validate correctly, though only in accordance with the Norwegian national specifications that are demonstrated in the other showrooms here. "Generic" because the assets will not contain value for optional properties that are only specific for a particular specification. 
 
@@ -35,7 +35,7 @@ We provide therefore in this showroom a number of generic dummy assets which you
 There are mainly the following types of dummy-assets provided here in this showroom:
 
 * Agents, Organizations, Public Organizations etc.: instances of `foaf:Agent` and its subclasses `org:Organization`, `cp:PublicOrganization` etc. 
-** #_... more to come ..._#
+** See the link:files/dummy-agents-en[collection here] (in link:files/dummy-agents.ttl[RDF Turtle])
 
 * Contact points: instances of `vcard:Organization`, `vcard:Group`, `cv:ContactPoint` etc. 
 ** #_... more to come ..._#
