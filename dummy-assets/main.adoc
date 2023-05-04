@@ -50,7 +50,7 @@ There are mainly the following types of dummy-assets provided here in this showr
 ** See the link:files/dummy-events-en[collection here] (in link:files/dummy-events.ttl[RDF Turtle])
 
 * Evidences, Evidence types, Evidence type lists, etc.: instances of `cv:Evidence`,  `cv:EvidenceType`, `cv:EvidenceTypeList` and suchlike.  
-** #_... more to come ..._#
+** See the link:files/dummy-evidences-en[collection here] (in link:files/dummy-evidences.ttl[RDF Turtle])
 
 
 * Locations/addresses: instances of `locn:Address` etc. 
