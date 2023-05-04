@@ -49,7 +49,7 @@ There are mainly the following types of dummy-assets provided here in this showr
 * Events etc.: instances of `cv:Event` and its subclasses, etc. 
 ** See the link:files/dummy-events-en[collection here] (in link:files/dummy-events.ttl[RDF Turtle])
 
-* Evidences, Evidence types etc.: instances of `cv:Evidence`,  `cv:EvidenceType` etc. 
+* Evidences, Evidence types, Evidence type lists, etc.: instances of `cv:Evidence`,  `cv:EvidenceType`, `cv:EvidenceTypeList` and suchlike.  
 ** #_... more to come ..._#
 
 
@@ -62,7 +62,7 @@ There are mainly the following types of dummy-assets provided here in this showr
 * Time periods, time instances etc.: instances of `dct:PeriodOfTime`, `time:TemporalEntity`, etc.
 ** #_... more to come ..._#
 
-* etc. etc. #_... more to come ..._#
+* etc. etc. etc. #_... more may come ..._#
 
 == _to the overview of the showrooms_ [[to-overview]]
 
