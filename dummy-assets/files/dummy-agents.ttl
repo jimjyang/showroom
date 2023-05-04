@@ -12,12 +12,12 @@
 <https://w3id.org/demo-resources/dummy-agents#dmyAgt1>
    rdf:type foaf:Agent;
    dct:identifier "https://w3id.org/demo-resources/dummy-agents#dmyAgt1"^^xsd:anyURI;
-   foaf:name """Dummy company 1"""@en,
-       """Dummyselskap 1"""@nb,
-       """Dummyselskap 1"""@nn;
-   dct:title """Dummy company 1"""@en,
-       """Dummyselskap 1"""@nb,
-       """Dummyselskap 1"""@nn;
+   foaf:name """Dummy agent 1"""@en,
+       """Dummyaktør 1"""@nb,
+       """Dummyaktør 1"""@nn;
+   dct:title """Dummy agent 1"""@en,
+       """Dummyaktør 1"""@nb,
+       """Dummyaktør 1"""@nn;
    dct:type <http://purl.org/adms/publishertype/Company>;
    locn:address <https://w3id.org/demo-resources/dummy-locations#dmyAddr1>;
    .
@@ -25,9 +25,9 @@
 <https://w3id.org/demo-resources/dummy-agents#dmyOrg1>
    rdf:type org:Organization;
    dct:spatial <http://publications.europa.eu/resource/authority/country/NOR>;
-   skos:prefLabel """DO1"""@nb,
-       """DO1"""@nn,
-       """DO1"""@en;
+   skos:prefLabel """DOrg1"""@nb,
+       """DOrg1"""@nn,
+       """DOrg1"""@en;
    dct:identifier "https://w3id.org/demo-resources/dummy-agents#dmyOrg1"^^xsd:anyURI;
    dct:title """Dummy organisasjon 1"""@nb,
        """Dimmy organisasjon 1"""@nn,
@@ -41,9 +41,9 @@
 <https://w3id.org/demo-resources/dummy-agents#dmyPublOrg1>
    rdf:type cv:PublicOrganisation;
    dct:spatial <http://publications.europa.eu/resource/authority/country/NOR>;
-   skos:prefLabel """DOO1"""@nb,
-       """DOO1"""@nn,
-       """DOO1"""@en;
+   skos:prefLabel """DPOrg1"""@nb,
+       """DPOrg1"""@nn,
+       """DPOrg1"""@en;
    dct:identifier "https://w3id.org/demo-resources/dummy-agents#dmyPublOrg1"^^xsd:anyURI;
    dct:title """Dummy offentlig organisasjon 1"""@nb,
        """Dimmy offentleg organisasjon 1"""@nn,
@@ -53,4 +53,4 @@
    locn:address <https://w3id.org/demo-resources/dummy-locations#dmyAddr1>;
    .
  
-#### End of the file, 2023-05-03 08:35:34
+#### End of the file, 2023-05-04 10:25:37
