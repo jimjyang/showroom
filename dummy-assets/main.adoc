@@ -38,13 +38,16 @@ There are mainly the following types of dummy-assets provided here in this showr
 ** See the link:files/dummy-agents-en[collection here] (in link:files/dummy-agents.ttl[RDF Turtle])
 
 * Contact points: instances of `vcard:Organization`, `vcard:Group`, `cv:ContactPoint` etc. 
-** #_... more to come ..._#
+** See the link:files/dummy-contact-points-en[collection here] (in link:files/dummy-contact-points.ttl[RDF Turtle])
+
+* Datasets, Distributions, Data services, etc.: instances of `dcat:Dataset`, `dcat:Distribution`, `dcat:DataService` and suchlike.
+** See the link:files/dummy-datasets-en[collection here] (in link:files/dummy-datasets.ttl[RDF Turtle])
 
 * Documents, Pages, etc.: instances of `foaf:Document` and suchlike.
-** #_... more to come ..._#
+** See the link:files/dummy-documents-en[collection here] (in link:files/dummy-documents.ttl[RDF Turtle])
 
 * Events etc.: instances of `cv:Event` and its subclasses, etc. 
-** #_... more to come ..._#
+** See the link:files/dummy-events-en[collection here] (in link:files/dummy-events.ttl[RDF Turtle])
 
 * Evidences, Evidence types etc.: instances of `cv:Evidence`,  `cv:EvidenceType` etc. 
 ** #_... more to come ..._#
