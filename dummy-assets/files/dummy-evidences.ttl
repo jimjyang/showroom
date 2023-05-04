@@ -17,6 +17,7 @@
        """Description of Dummy Evidence 1"""@en;
    dct:language <http://publications.europa.eu/resource/authority/language/ENG>;
    cv:isProvidedBy <https://w3id.org/demo-resources/dummy-agents#dmyOrg1>;
+   dct:conformsTo <https://w3id.org/demo-resources/dummy-evidences#dmyEvidenceType1>;
    .
  
 <https://w3id.org/demo-resources/dummy-evidences#dmyEvidenceType1>
@@ -38,4 +39,4 @@
        """Dummy Evidence Type List 1"""@en;
    .
  
-#### End of the file, 2023-05-04 11:40:40
+#### End of the file, 2023-05-04 11:48:29
