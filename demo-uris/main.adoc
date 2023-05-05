@@ -1,6 +1,6 @@
 include::../locale/attributes.adoc[]
-= image:../images/Digdir.png[Digdir,100,100] showroom with demo permanent/persistent and dereferenced URIs
-_https://digdir.no[Norwegian Digitalisation Agency ↗, window="_blank", role="ext-link"]_
+= image:../images/Digdir.png[Digdir,200,200] showroom with demo permanent/persistent and dereferenced URIs
+Norwegian Digitalisation Agency
 :doctype: book
 :docinfo: shared
 :docinfodir: ../docs
@@ -14,7 +14,6 @@ ifdef::backend-pdf[:toc: macro]
 :table-stripes: even
 :xrefstyle: short
 
-image:../images/Digdir.png[Digdir,100,100] _https://digdir.no[Norwegian Digitalisation Agency ↗, window="_blank", role="ext-link"]_
 
 Welcome to the showroom with permanent/persistent and dereferenced demo URIs, demonstrating a possible implementation of the Norwegian URI-standard! 
 
