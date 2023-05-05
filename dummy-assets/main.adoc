@@ -56,8 +56,8 @@ There are mainly the following types of dummy-assets provided here in this showr
 * Locations/addresses: instances of `locn:Address` etc. 
 ** See the link:files/dummy-locations-en[collection here] (in link:files/dummy-locations.ttl[RDF Turtle])
 
-* Services, Public Services: instances of `cpsvno:Service` and its subclasses, etc.
-** #_... more to come ..._#
+* Services, Public Services, Service output, Service channels etc.: instances of `cpsvno:Service`, `cpsv:PublicService`, `cv:Output`, `cv:Channel` and its subclasses, etc.
+** See the link:files/dummy-services-en[collection here] (in link:files/dummy-services.ttl[RDF Turtle])
 
 * Time periods, time instances etc.: instances of `dct:PeriodOfTime`, `time:TemporalEntity`, etc.
 ** #_... more to come ..._#
