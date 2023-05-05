@@ -1,5 +1,6 @@
 include::../locale/attributes.adoc[]
-= Jim's showroom - demo classifications
+= image:../images/Digdir.png[Digdir,200,200] showroom - demo classifications
+Norwegian Digitalisation Agency (Digdir)
 :doctype: book
 :docinfo: shared
 :docinfodir: ../docs
