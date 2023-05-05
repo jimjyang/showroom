@@ -51,8 +51,9 @@ There are mainly the following types of dummy-assets provided here in this showr
 ** Distribution, `dcat:Distribution`
 ** Data service, `dcat:DataService`
 
-* Documents, Pages, etc.: In link:files/dummy-documents-en[this collection of dummy assets] (in link:files/dummy-documents.ttl[RDF Turtle]) we have dummy instances of the following classes:
+* Documents, Standards, etc.: In link:files/dummy-documents-en[this collection of dummy assets] (in link:files/dummy-documents.ttl[RDF Turtle]) we have dummy instances of the following classes:
 ** Document, `foaf:Document` 
+** #(_to come_)# Standard, `dct:Standard`
 
 
 * Events etc.: In link:files/dummy-events-en[this collection of dummy assets] (in link:files/dummy-events.ttl[RDF Turtle]) we have dummy instances of the following classes:
