@@ -1,5 +1,6 @@
 include::../locale/attributes.adoc[]
-= Jim's showroom with demo permanent/persistent and dereferenced URIs
+= image:../images/Digdir.png[Digdir,100,100] showroom with demo permanent/persistent and dereferenced URIs
+_https://digdir.no[Norwegian Digitalisation Agency ↗, window="_blank", role="ext-link"]_
 :doctype: book
 :docinfo: shared
 :docinfodir: ../docs
