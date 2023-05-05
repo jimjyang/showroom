@@ -1,5 +1,5 @@
 include::../locale/attributes.adoc[]
-= Jim's showroom - demo services and events
+= Digdir's showroom - demo services and events
 :doctype: book
 :docinfo: shared
 :docinfodir: ../docs
@@ -13,6 +13,7 @@ ifdef::backend-pdf[:toc: macro]
 :table-stripes: even
 :xrefstyle: short
 
+image:../images/Digdir.png[Flower,72,72] _https://digdir.no[Norwegian Digitalisation Agency]_
 
 Welcome to the showroom with demo services and events, demonstrating the usage of CPSV-AP-NO!
 
