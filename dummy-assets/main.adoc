@@ -24,7 +24,7 @@ This showroom is meant to
 
 * provide dummy assets as machine-readable RDF Turtle resources, to be referred to in e.g. examples/tests. 
 
-== Why dummy-assets? [[why]]
+== Why dummy assets? [[why]]
 
 When testing or demonstrating your implementation of a given specification, you may often need to refer to instances of specific classes. You may of course use `\https://example.org/nonExisting`, however, such a reference will usually cause validation errors because the instance your refer to doesn't exist. 
 
