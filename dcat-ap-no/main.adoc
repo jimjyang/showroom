@@ -1,5 +1,5 @@
 include::../locale/attributes.adoc[]
-= Jim's showroom - demo datasets
+= Digdir's showroom - demo datasets
 :doctype: book
 :docinfo: shared
 :docinfodir: ../docs
@@ -13,6 +13,7 @@ ifdef::backend-pdf[:toc: macro]
 :table-stripes: even
 :xrefstyle: short
 
+image:../images/Digdir.png[Digdir,100,100] _https://digdir.no[Norwegian Digitalisation Agency]_
 
 Welcome to the showroom with demo datasets, demonstrating the usage of DCAT-AP-NO! 
 
