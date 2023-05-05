@@ -1,6 +1,6 @@
 include::../locale/attributes.adoc[]
 = image:../images/Digdir.png[Digdir,200,200] showroom with demo permanent/persistent and dereferenced URIs
-Norwegian Digitalisation Agency
+Norwegian Digitalisation Agency (Digdir)
 :doctype: book
 :docinfo: shared
 :docinfodir: ../docs
