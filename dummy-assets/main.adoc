@@ -54,7 +54,7 @@ There are mainly the following types of dummy-assets provided here in this showr
 
 
 * Locations/addresses: instances of `locn:Address` etc. 
-** #_... more to come ..._#
+** See the link:files/dummy-locations-en[collection here] (in link:files/dummy-locations.ttl[RDF Turtle])
 
 * Services, Public Services: instances of `cpsvno:Service` and its subclasses, etc.
 ** #_... more to come ..._#
