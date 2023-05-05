@@ -1,5 +1,5 @@
 include::../locale/attributes.adoc[]
-= Jim's showroom with dummy assets
+= Digdir's showroom with dummy assets
 :doctype: book
 :docinfo: shared
 :docinfodir: ../docs
@@ -13,10 +13,11 @@ ifdef::backend-pdf[:toc: macro]
 :table-stripes: even
 :xrefstyle: short
 
+image:../images/Digdir.png[Digdir,100,100] _https://digdir.no[Norwegian Digitalisation Agency ↗, window="_blank", role="ext-link"]_
 
 Welcome to the showroom with some basic/generic dummy assets! 
 
-image:../images/work-in-progress.png[Flower,72,72] _This showroom is under construction and will be "continuously" renewed._ 
+image:../images/work-in-progress.png[WIP,72,72] _This showroom is under construction and will be "continuously" renewed._ 
 
 == Purpose [[purpose]]
 
