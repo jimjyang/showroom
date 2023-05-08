@@ -14,11 +14,6 @@
                     "informasjonsforvaltning.github.io/showroom"
                 );
                 document.getElementById("body").innerHTML = "This site has been permanently moved!<br/><br/>Redirecting to " + redirectLocation + " ...";
-                
-                let tID = setTimeout(function () {
-                    window.location.href = redirectLocation;
-                    window.clearTimeout(tID);		// clear time out.
-                }, 0);
             }
         }
     </script>
