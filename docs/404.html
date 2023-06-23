@@ -3,7 +3,7 @@
 
 <head>
     <meta charset="utf-8">
-    <title>Error 404 :(</title>
+    <title>Error 404</title>
 
     <script>
         window.onload = function () {
@@ -11,21 +11,21 @@
             if (window.location.href.includes("jimjyang.github.io/showroom")) {
                 const redirectLocation = window.location.href.replace(
                     "jimjyang.github.io/showroom",
-                    "informasjonsforvaltning.github.io/showroom"
+                    "https://data.norge.no//showroom"
                 );
                 document.getElementById("body").innerHTML = "This site has been permanently moved!<br/><br/>Redirecting to " + redirectLocation + " ...";
                 
                 let tID = setTimeout(function () {
                     window.location.href = redirectLocation;
                     window.clearTimeout(tID);		// clear time out.
-                }, 1);
+                }, 0);
             }
         }
     </script>
 </head>
 
 <body id="body" style="text-align: center">
-    Page not found
+    Permanently moved!
 </body>
 
 </html>
